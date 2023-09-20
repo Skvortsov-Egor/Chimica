@@ -18,7 +18,7 @@ Questa equazione determina l'energia che si ottiene quando una certa massa è co
 
 La differenza di energia nelle reazioni chimiche sono molte piccole rispetto a quelle nelle reazioni nucleari e quindi la differenza di massa nelle reazioni ordinarie non è sensibile. Le reazioni chimiche più energetiche con entalpie nell'ordine delle migliaia di kJ/mol presentano una differenza di massa nell'ordine del nanogrammo, invece in reazioni nucleari le entalpie raggiungono valori di miliardi di kJ/mol e presentano differenze di massa di milligrammi. 
 
-### stabilità nucleare
+### Stabilità nucleare
 
 Un nucleo è stabile quando no può essere trasformato in altre configurazione senza un fornimento di energia dall'esterno. Su 300 nuclidi che esistono solo 250 sono stabili e gli isotopi fanno parte di una molto piccola percentuale. Nuclei stabili più leggeri hanno un numero di protoni e neutroni uguali, invece nuclei più pesanti hanno più neutroni che protoni. Queso perché nuclei più pesanti hanno più repulsioni tra protoni e richiedono più neutroni per avere abbastanza forza forte per opporsi alla forza elettrostatica. 
 
