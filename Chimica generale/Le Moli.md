@@ -3,7 +3,7 @@
 
 ## Massa molecolare
 
-La massa di un composto si ottiene facendo la sommatoria delle masse atomiche medie degli atomi presenti nel composto, ognuna moltiplicata per la quantità con cui appare quel determinato atomo nel composto. Questa viene detta **massa molecolare**. 
+La massa di un composto è la sommatoria delle masse atomiche medie degli atomi presenti nel composto. Questa viene detta **massa molecolare**. 
 
 Nel caso dei composti molecolari la formula è una formula empirica, quindi la massa di un composto corrisponde alla massa molecolare. Nel caso invece di un composto ionico, essi sono formati da ioni che stanno nel rapporto più piccolo ed intero possibile in modo che il composto sia elettricamente neutro. Quindi la massa di un composto ionico viene calcolata allo stesso modo della massa molecolare, però bisogna tenere presente che la formula di un composto ionico non rappresenta una molecola discreta e quindi la massa calcolata (molecolare) potrebbe non essere quella effettiva per quella formula. 
 
@@ -16,15 +16,15 @@ Nel calcolare la massa molecolare di un composto ionico si usa la massa atomica 
 > 
 > In breve la mole è la quantità di sostanza contenente $6.02214179\cdot 10^{23}$ molecole/atomi.
 
-$6.02214179\cdot 10^{23}$ corrisponde al numero di Avogadro (Na). 
+$6.02214179\cdot 10^{23}$ corrisponde al numero di Avogadro ($N_a$). 
 
 La mole è un'unità di misura che sta alla base della chimica, ed è molto utile per lavorare con unità estremamente piccole come le molecole e gli atomi. La mole è usata per descrivere la composizione delle sostanze, infatti da essa si può ricavare la massa della sostanze, il numero atomi e molecole.
 
 1 mole di una sostanza contiene sempre lo stesso numero di atomi/molecole, indipendentemente dal tipo di sostanza ma 1 mole di una sostanza corrisponde ad una certa massa che è diversa da ogni altra sostanza. 
 
-La **massa molare** è la massa espressa in grammi presente in 1 mole di sostanza, la sua unita di misura è il g/mol. La massa molare corrisponde alla massa molecolare, questo perché l'isotopo C 12 pesa 12 amu, e 12 g di C 12 corrisponde ad una mole, estendendo il concetto alla massa molare, la massa molare corrisponde alla massa in amu. 
+La **massa molare** è la massa espressa in grammi presente in 1 mole di sostanza, la sua unita di misura è il $g\over mol$. La massa molare corrisponde alla massa molecolare, questo perché l'isotopo C 12 pesa 12 amu, e 12 g di C 12 corrisponde ad una mole, estendendo il concetto alla massa molare, la massa molare corrisponde alla massa in amu. 
 
-La massa molare e la massa atomica/molecolare sono le stesse numericamente, ma in termine di grandezze sono molto diverse. 
+La massa molare e la massa atomica/molecolare sono le stesse numericamente, ma in termine di grandezze sono molto diverse.  
 
 ## Formule empiriche e molecolari
 
