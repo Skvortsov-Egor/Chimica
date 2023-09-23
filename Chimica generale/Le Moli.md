@@ -151,10 +151,10 @@ $\%{n\over n} = {numero_{atomi\ soluto}\over numero_{atomi\ totale}}\cdot 10^6 p
 $\%{n\over n} = {numero_{molecole\ soluto}\over numero_{molecole\ totale}}\cdot 10^6 ppm$
 
 **ppb**
-$\%m/m = {massa_{soluto}\over Volume totale}}\cdot10^9 ppb$
-$\%V/V = {Volume_{soluto}\over Volume totale}}\cdot10^9 ppb$
-$\%m/V = {massa_{soluto}\over Volume totale}}\cdot10^9 ppb$
-$\%n/n = {numero_{atomi\ soluto}\over numero atomi totale}}\cdot10^9 ppb$
-%\%{n\over n} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb
+$\%m/m = {massa_{soluto}\over Volume totale}}\cdot 10^9 ppb$
+$\%V/V = {Volume_{soluto}\over Volume totale}}\cdot 10^9 ppb$
+$\%m/V = {massa_{soluto}\over Volume totale}}\cdot 10^9 ppb$
+$\%n/n = {numero_{atomi\ soluto}\over numero atomi totale}}\cdot 10^9 ppb$
+$\%{n\over n} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
 
 **N.B. per *misura* totale s'intende *misura* soluzione**
