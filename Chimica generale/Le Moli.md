@@ -96,8 +96,8 @@ $mol2 = M2\cdot V2$
 
 Visto che le moli del soluto rimangono sempre le stesse perché si aggiunge solvente e non soluto
 
-$$S1 = S2\implise
-mol1 = mol2\implise
+$$S1 = S2\implies
+mol1 = mol2\implies
 M1\cdot V1 =M2\cdot V2$$
 
 Da questa equazioni si possono ricavare uno dei 4 termini sapendo gli altri 3. 
