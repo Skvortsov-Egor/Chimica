@@ -47,11 +47,11 @@ Queste particelle oggi sono conosciute come ***elettroni***, e deriva dall'ingle
 
 Nel 1909 è stato possibile individuare la carica di un elettrone grazie alla creazione di microscopiche gocce d'olio che cadevano in un recipiente grazie alla gravità ma se venivano caricate elettricamente grazie all'attrito tra di loro o alla presenza di raggi X esse rallentavano la caduta e se si aumentava la carica poteva essere anche invertita. Con accurate misurazioni si è arrivati a determinare la carica dell'elettrone. 
 
-In base ai dati raccolti da Millikan nel 1909, si può notare che sono tutti multipli di $1.6\times 10^{-19} C$ e quindi dedusse che la carica fondamentale (quella dell'elettrone) è di $1.6\times 10^-19 C$ e nei casi in cui misurava un valore più alto è perché stava misurando la carica di più elettroni contemporaneamente.
+In base ai dati raccolti da Millikan nel 1909, si può notare che sono tutti multipli di $1.6\times 10^{-19} C$ e quindi dedusse che la carica fondamentale (quella dell'elettrone) è di $1.6\times 10^{-19} C$ e nei casi in cui misurava un valore più alto è perché stava misurando la carica di più elettroni contemporaneamente.
 
-Conoscendo la carica di un elettrone e il rapporto carica/massa (1.759\times 10^{11} C/kg) si potè calcolare anche la massa dell'elettrone:
+Conoscendo la carica di un elettrone e il rapporto carica/massa ($1.759\times 10^{11} {C\over kg}$) si potè calcolare anche la massa dell'elettrone:
 
-Massa dell'elettrone = $1.6021\times 10^{−19} C \times 1 kg\over 1.759\times 10^{11} C = 9.107\times 10^{−31} kg$
+Massa dell'elettrone = $1.6021\times 10^{−19} C = {1 kg\over 1.759\times 10^{11} C} = 9.107\times 10^{−31} kg$
 
 Nonostante la scoperta dell'elettrone, della parte con carica positiva dell'atomo si sapeva poco e Thomson nel 1904 ipotizzò la struttura dell'atomo: a panettone ovvero in cui le particelle cariche negativamente fossero immerse nella parte con carica positiva. Allo stesso tempo Hantaro Nagaoka ipotizzò la struttura dell'atomo come quella di Saturno: composta da una sfera e da un anello in cui la sfera è carica positivamente, mentre l'anello è carico negativamente. 
 
