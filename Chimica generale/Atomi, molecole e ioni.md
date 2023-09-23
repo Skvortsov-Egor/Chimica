@@ -2,7 +2,7 @@
 # Atomi, Molecole e Ioni
 ## Teorie atomiche
 ### Antica Grecia
-Già durante l'antica Grecia, molti filosofi hanno discusso che la materia fosse composta da piccole e finite particelle chiamate atomos, dal greco "indivisibile". I Greci pensavano agli atomi a particelle che si muovono e che differiscono per forma e dimensioni. Più avanti arrivarono alla conclusione che la materia fosse costituita dalla combinazione di quattro elementi: fuoco, terra, aria e acqua. Secondo i Greci questi elementi erano infinitamente divisibili. 
+Già durante l'antica Grecia, molti filosofi hanno discusso che la materia fosse composta da piccole e finite particelle chiamate atomos, dal greco "indivisibile". I Greci pensavano agli atomi come a particelle che si muovono e che differiscono per forma e dimensioni. Più avanti arrivarono alla conclusione che la materia fosse costituita dalla combinazione di quattro elementi: fuoco, terra, aria e acqua. Secondo i Greci questi elementi erano infinitamente divisibili.
 
 ### Le prime teorie atomiche
 La visione aristotelica del mondo rimase tale fino al diciannovesimo secolo quando un insegnate inglese John Dalton e usando la teoria atomica spiega la sua ipotesi sul comportamento della materia e con essa ha rivoluzionato la chimica.
@@ -22,13 +22,13 @@ Molte delle ipotesi di Dalton sulle caratteristiche della materia sono valide an
 Questo vuol dire che la massa totale della materia presente in una trasformazione da un tipo all'altro è costante.
 
 **Legge delle proporzioni definite:**
-> Due o più elementi che formano un composto, stanno tra loro in proporzioni di massa definiti e costanti.
+> Due o più elementi che formano un composto, stanno tra loro in un rapporto di massa definito e costante.
 
 Questo significa che il numero di atomi presenti in un composto è sempre lo stesso ed essi stanno sempre nello stesso rapporto. Nonostante ogni composto ha un suo rapporto degli atomi che lo costituiscono, lo stesso rapporto può valere anche per più composti e quindi lo stesso rapporto non identifica la sostanza.
 
 **Legge delle proporzioni multiple:**
 A partire dalla teoria di Proust, Dalton conseguì a concludere questa sua teoria:
-> Le masse di un elemento che reagiscono con un secondo per creare più di un composto, le masse del primo stanno tra loro in un rapporto fisso ed esprimibile con numeri piccoli ed interi.
+> Le masse di un elemento che reagiscono con un secondo elemento che creano più composti, stanno tra loro in un rapporto costante esprimibile con numeri piccoli ed interi.
 
 Questo vuol dire che partendo dal fatto che due elementi possono creare più di un composto, mantenendo costante la quantità di uno, le masse dell'altro elemento stanno tra loro in un rapporto che è espresso con numeri piccoli ed interi, mentre il rapporto di reazione derivante dalla legge delle proporzioni definite può essere anche decimale.
 
@@ -60,8 +60,6 @@ La seconda maggiore scoperta riguardante l'atomo fu eseguita da Ernest Rutherfor
 1. la maggior parte delle particelle passò attraversò il foglio
 2. poche colpirono lo schermo lateralmente
 3. una percentuale quasi minima di particelle tornò indietro
-
-![Esperimento](https://tuttidentro.files.wordpress.com/2010/05/rutherford_experiment.jpg)
 
 Rutherford interpretò i risultati osservati nel seguente modo:
 - il grande numero di particelle che passarono attraverso il foglio è dovuto al fatto che l'atomo è composto per gran parte da spazio vuoto
@@ -109,9 +107,9 @@ L'abbondanza degli isotopi di un elemento può essere verificata sperimentalment
 
 Nonostante molti elementi esistono in natura sotto forma di un unico atomo, alcuni esistono invece sotto forma di molecole fatte da due o più atomi, un esempio sono le molecole diatomiche (H2; O2; N2). 
 
-Le scritture 2N e N2 non indicano la stessa cosa:
-- 2N indica due atomi di azoto
-- N2 indica una molecola diatomica
+Le scritture $2N$ e $N_2$ non indicano la stessa cosa:
+- $2N$ indica due atomi di azoto
+- $N_2$ indica una molecola diatomica
 
 Un composto si forma quando due o più elementi si uniscono grazie alla formazione di legami. Spesso la composizione di questi composti viene espressa attraverso le formule empiriche ovvero formule che indicano i tipi di atomi che compongono un composto, ed il loro rapporto più piccolo ed intero possibile. 
 
