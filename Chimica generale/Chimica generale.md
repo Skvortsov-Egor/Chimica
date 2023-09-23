@@ -2,7 +2,7 @@
 # Chimica generale
 ## Materia
 ### stati di aggregazione della materia
-Materia è tutto ciò che occupa uno spazio e ha una sua massa. Sulla terra si  trovano prevalentemente 3 stati della materia, ma non sono gli unici esistenti in natura. I 3 stati della materia che si troviamo sulla terra sono:
+La Materia è tutto ciò che occupa uno spazio e ha una sua massa. Sulla terra si  trovano prevalentemente 3 stati della materia, ma non sono gli unici esistenti in natura. I 3 stati della materia che si trovano sulla terra sono:
 - **solido**: rigido ed ha una forma definita ed un suo volume definito
 - **liquido**: prende la forma del contenitore, ha un volume proprio ed ha una superficie piatta, in assenza di gravità ogni liquido ha una forma di una sfera perfetta
 - **gassoso**: occupa sia la forma che il volume del contenitore
@@ -25,7 +25,7 @@ Gli atomi sono la parte più piccola che compone un elemento e che ha le stesse 
 
 Non si possono descrivere con precisione le dimensioni di un atomo, ma esse sono immensamente piccole, si può fare una stima delle sue dimensioni, ovvero: in una ragnatela, possono starci 7000 atomi del C. 
 
-Non si può nemmeno descrivere la massa di un atomo, la massa di 1'000'000'000 di atomi pesano circa 3 x 10^-16 Kg.
+Non si può nemmeno descrivere la massa di un atomo, la massa di $10^6$ di atomi pesano circa $3\times 10^{-16} Kg$.
 
 Molti elementi non si trovano in natura composti di atomi dello stesso tipo, ma sono composti da una combinazione di atomi diversi, e questa combinazione viene chiamata **molecola**.  Più precisamente una molecola è formata da due o più atomi unite da legami chimici. Una molecola può essere formata da due o più atomi dello stesso tipo oppure potrebbe essere formata da due o più diversi tipi di atomi. 
 
@@ -67,7 +67,7 @@ Alcuni esempi di questa proprietà sono:
 - capacità di bruciare
 - calore di combustione
 
-> Una **trasformazione chimico** è una trasformazione che produce uno o più tipi di materia che differiscono dalla materia di partenza.
+> Una **trasformazione Chimica** è una trasformazione che produce uno o più tipi di materia che differiscono dalla materia di partenza.
 
 Le proprietà della materia si distinguono anche in altri due tipi:
 - **proprietà estensive**: sono proprietà che dipendono dalla quantità di materia presente 
