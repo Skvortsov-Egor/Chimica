@@ -51,7 +51,7 @@ In base ai dati raccolti da Millikan nel 1909, si può notare che sono tutti mul
 
 Conoscendo la carica di un elettrone e il rapporto carica/massa (1.759 × 1011 C/kg) si potè calcolare anche la massa dell'elettrone:
 
-Massa dell'elettrone = 1.602 × 10^−19 C × 1 kg/1.759 × 10^11 C = 9.107 × 10^−31 kg
+Massa dell'elettrone = $1.602 × 10^{−19} C × 1 kg\over 1.759 × 10^{11} C = 9.107 10^{−31} kg$
 
 Nonostante la scoperta dell'elettrone, della parte con carica positiva dell'atomo si sapeva poco e Thomson nel 1904 ipotizzò la struttura dell'atomo: a panettone ovvero in cui le particelle cariche negativamente fossero immerse nella parte con carica positiva. Allo stesso tempo Hantaro Nagaoka ipotizzò la struttura dell'atomo come quella di Saturno: composta da una sfera e da un anello in cui la sfera è carica positivamente, mentre l'anello è carico negativamente. 
 
@@ -78,7 +78,7 @@ Rimaneva solo un quesito da risolvere, chi dava la massa all'atomo? Perché si s
 Nel 1932 James Chadwick  dimostrò l'esistenza dei neutroni, i quali avevano massa simile a quella dei protoni. Con la scoperta dei neutroni si risolse la questione degli isotopi: che avevano diverse masse a causa del diverso numero di neutroni, ma avendo lo stesso numero di protoni erano chimicamente identici.
 
 ## Proprietà dell'atomo
-L'atomo ha un diametro di circa $10^-10 m$ mentre il nucleo ha un diametro di circa $10^-15 m$, la massa di un atomo è di circa $2 x 10^-23 g$ e una carica elettrica di $1.6 x 10^-19 C$. Visto che i numeri sono veramente piccoli per quanto riguarda il peso si usa l'unità di massa atomica (amu) ed è definita come 1/12 della massa dell'isotopo Carbonio 12 (isotopo più presente sulla terra). Per quanto riguarda la carica elettrica si usa la carica fondamentale (e). 1 amu corrisponde a $1.6605 × 10^−24 g$ ed è equivalente ad 1 dalton (Da). 1 e corrisponde invece ad $1.6 x 10^-19 C$. 
+L'atomo ha un diametro di circa $10^-{10} m$ mentre il nucleo ha un diametro di circa $10^{-15} m$, la massa di un atomo è di circa $2 x 10^{-23} g$ e una carica elettrica di $1.6 x 10^{-19} C$. Visto che i numeri sono veramente piccoli per quanto riguarda il peso si usa l'unità di massa atomica (amu) ed è definita come 1/12 della massa dell'isotopo Carbonio 12 (isotopo più presente sulla terra). Per quanto riguarda la carica elettrica si usa la carica fondamentale (e). 1 amu corrisponde a $1.6605 × 10^{−24} g$ ed è equivalente ad 1 dalton (Da). 1 e corrisponde invece ad $1.6 x 10^{-19} C$.
 
 Un protone ha una massa di 1.0073 amu e una carica di 1+, un neutrone ha invece una massa di 1.0087 amu e una carica di 0, un elettrone ha una massa di 0.00055 amu e una carica di 1-. Il numero atomico **Z** indica il numero di protoni di un atomo ed è caratteristico di ogni atomo, infatti è ciò che lo caratterizza. Ogni tipo di atomo ha un numero fisso di protoni, qualsiasi sia il numero di neutroni ed elettroni che ha. Il numero atomico indica sia il numero di protoni che di elettroni.Il numero di massa **A** indica la somma tra il numero di protoni e neutroni presenti in un atomo. Il numero di neutroni di un atomo si ottiene facendo **A - Z** .
 
