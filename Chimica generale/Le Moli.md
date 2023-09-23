@@ -3,28 +3,28 @@
 
 ## Massa molecolare
 
-La massa di un composto è la sommatoria delle masse atomiche medie degli atomi presenti nel composto. Questa viene detta **massa molecolare**. 
+La massa di un composto è la sommatoria delle masse atomiche medie degli atomi presenti nel composto. Questa viene detta **massa molecolare**.
 
 Nel caso dei composti molecolari la formula è una formula empirica, quindi la massa di un composto corrisponde alla massa molecolare. Nel caso invece di un composto ionico, essi sono formati da ioni che stanno nel rapporto più piccolo ed intero possibile in modo che il composto sia elettricamente neutro. Quindi la massa di un composto ionico viene calcolata allo stesso modo della massa molecolare, però bisogna tenere presente che la formula di un composto ionico non rappresenta una molecola discreta e quindi la massa calcolata (molecolare) potrebbe non essere quella effettiva per quella formula. 
 
-Nel calcolare la massa molecolare di un composto ionico si usa la massa atomica media, perché anche se gli ioni sono leggermente più piccoli o più grandi dell'atomo neutro la differenza è talmente piccola che è trascurabile (infatti la massa di un elettrone è di $5.5*10^-4$ amu). Esistono casi particolari di ioni la cui differenza di massa non è trascurabile rispetto alla massa atomica media, ma per quei pochi ioni le masse sono note.
+Nel calcolare la massa molecolare di un composto ionico si usa la massa atomica media, perché anche se gli ioni sono leggermente più piccoli o più grandi dell'atomo neutro la differenza è talmente piccola che è trascurabile (infatti la massa di un elettrone è di $5.5\cdot 10^{-4}$ amu). Esistono casi particolari di ioni la cui differenza di massa non è trascurabile rispetto alla massa atomica media, ma per quei pochi ioni le masse sono note.
 
 
 ## La Mole
 
 > La mole è un'unità di misura definita come la quantità di sostanza che contiene lo stesso numero di particelle che sono presenti in 12 grammi di Carbonio 12, questa quantità corrisponde a $6.02214179\cdot 10^{23}$.
 > 
-> In breve la mole è la quantità di sostanza contenente $6.02214179\cdot 10^{23}$ molecole/atomi.
+> In breve la mole è la quantità di sostanza che corrisponde a $6.02214179\cdot 10^{23}$ particelle.
 
-$6.02214179\cdot 10^{23}$ corrisponde al numero di Avogadro ($N_a$). 
+$6.02214179\cdot 10^{23}$ corrisponde al numero di Avogadro ($N_a$).
 
 La mole è un'unità di misura che sta alla base della chimica, ed è molto utile per lavorare con unità estremamente piccole come le molecole e gli atomi. La mole è usata per descrivere la composizione delle sostanze, infatti da essa si può ricavare la massa della sostanze, il numero atomi e molecole.
 
 1 mole di una sostanza contiene sempre lo stesso numero di atomi/molecole, indipendentemente dal tipo di sostanza ma 1 mole di una sostanza corrisponde ad una certa massa che è diversa da ogni altra sostanza. 
 
-La **massa molare** è la massa espressa in grammi presente in 1 mole di sostanza, la sua unita di misura è il $g\over mol$. La massa molare corrisponde alla massa molecolare, questo perché l'isotopo C 12 pesa 12 amu, e 12 g di C 12 corrisponde ad una mole, estendendo il concetto alla massa molare, la massa molare corrisponde alla massa in amu. 
+La **massa molare** è la massa espressa in grammi presente in 1 mole di sostanza, la sua unita di misura è il $g\over mol$. La massa molare corrisponde alla massa molecolare, questo perché l'isotopo C 12 pesa 12 amu, e 12 g di C 12 corrisponde ad una mole, estendendo il concetto alla massa molare, la massa molare corrisponde alla massa in amu.
 
-La massa molare e la massa atomica/molecolare sono le stesse numericamente, ma in termine di grandezze sono molto diverse.  
+La massa molare e la massa atomica/molecolare sono le stesse numericamente, ma in termine di grandezze sono molto diverse.
 
 ## Formule empiriche e molecolari
 
@@ -55,7 +55,7 @@ Per trovare la formula molecolare e quindi il numero di atomi di ogni elemento p
 
 Per trovare la formula molecolare:
 1. trovare la massa della formula empirica, ovvero la sua massa molecolare o molare: massa molare o molecolare dei atomi costituenti moltiplicati per il indici
-2. trovare il rapporto tra massa molare o molecolare del composto e la massa della formula empirica (M mol/M empirica)
+2. trovare il rapporto tra massa molare o molecolare del composto e la massa della formula empirica ($M\ mol\over M\ empirica$)
 3. il risultato è espresso in unità/molecola
 4. moltiplicare gli indici della formula empirica per le unità/molecola =>(CxHy)n
 5. si ottiene così la rispettiva formula molecolare
@@ -96,9 +96,9 @@ $mol2 = M2\cdot V2$
 
 Visto che le moli del soluto rimangono sempre le stesse perché si aggiunge solvente e non soluto
 
-S1 = S2
-$mol1 = mol2$
-$M1\cdot V1 =M2\cdot V2$
+$$S1 = S2\implise
+mol1 = mol2\implise
+M1\cdot V1 =M2\cdot V2$$
 
 Da questa equazioni si possono ricavare uno dei 4 termini sapendo gli altri 3. 
 
@@ -111,8 +111,8 @@ Un altro modo di calcolare la concentrazione dei componenti di una soluzione è 
 $\%{m\over m} = {massa_{soluto}\over massa_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- m
-- (m/m)
+- $\%m$
+- $\%{m\over m}$
 
 Spesso si possono trovare le percentuali di massa sulle etichette dei prodotti per indicare la concentrazione di un ingrediente. 
 
@@ -120,19 +120,19 @@ Spesso si possono trovare le percentuali di massa sulle etichette dei prodotti p
 
 Un'altra unità di misura delle concentrazioni è la percentuale di volume, questa concentrazione iene sopratutto usata quanto un liquido è disciolto in un liquido.  La percentuale di volume si trova trovando il rapporto tra il volume del componente (di solito il soluto) ed il volume totale e si moltiplica per 100. 
 
-%V = (Volume soluto/Volume totale)*100
+$\%V = {Volume_{soluto}\over Volume_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- %V
-- %(V/V)
+- $\%V$
+- $%{V\over V}$
 
 ## Percentuale di massa/volume
 
 La percentuale di massa/volume è un'unità di misura che esprime le concentrazioni della massa del soluto sul volume totale della soluzione. La percentuale di massa/volume si trova trovando il rapporto tra la massa del soluto ed il volume totale della soluzione e si moltiplica per 100. 
 
-%m/V = (massa soluto/Volume totale)*100
+$\%{m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 100$
 
-La %m/V può avere diverse unità di misura, di solito si riferisce a g/ml, ed ha applicazioni sopratutto in campo biomedico.
+La $\%{m\over V}$ può avere diverse unità di misura, di solito si riferisce a $g\over ml$, ed ha applicazioni sopratutto in campo biomedico.
 
 ## Parti per milione e parti per miliardo
 
@@ -144,17 +144,17 @@ Concentrazioni di soluto molto piccole possono essere espresse attraverso le uni
 - numero di molecole
 
 **ppm**
-%m/m = (massa soluto/Volume totale)*10^6 ppm$
-$%V/V = (Volume soluto/Volume totale)*10^6 ppm$
-$%m/V = (massa soluto/Volume totale)*10^6 ppm$
-$%n/n = (numero atomi soluto/numero atomi totale)*10^6 ppm$
-$%n/n = (numero molecole soluto/numero molecole totale)*10^6 ppm$
+$\%{m\over m} = {massa_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
+$\%{V\over V} = {Volume_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
+$\%{m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
+$\%{n\over n} = {numero_{atomi\ soluto}\over numero_{atomi\ totale}}\cdot 10^6 ppm$
+$\%{n\over n} = {numero_{molecole\ soluto}\over numero_{molecole\ totale}}\cdot 10^6 ppm$
 
 **ppb**
-$%m/m = (massa soluto/Volume totale)*10^9 ppb$
-$%V/V = (Volume soluto/Volume totale)*10^9 ppb$
-$%m/V = (massa soluto/Volume totale)*10^9 ppb$
-$%n/n = (numero atomi soluto/numero atomi totale)*10^9 ppb$
-%\%{n\over n} = (massa soluto/Volume totale)*10^9 ppb
+$%m/m = {massa_{soluto}\over Volume totale}}\cdot10^9 ppb$
+$%V/V = {Volume_{soluto}\over Volume totale}}\cdot10^9 ppb$
+$%m/V = {massa_{soluto}\over Volume totale}}\cdot10^9 ppb$
+$%n/n = {numero_{atomi\ soluto}\over numero atomi totale}}\cdot10^9 ppb$
+%\%{n\over n} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb
 
 **N.B. per *misura* totale s'intende *misura* soluzione**
