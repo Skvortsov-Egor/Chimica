@@ -108,11 +108,12 @@ Da questa equazioni si possono ricavare uno dei 4 termini sapendo gli altri 3.
 
 Un altro modo di calcolare la concentrazione dei componenti di una soluzione è di trovare la percentuale di massa, ovvero la percentuale che occupa un determinato componente in termini di massa. La percentuale di massa si trova trovando il rapporto tra la massa del componente (di solito il soluto) e la massa totale e si moltiplica per 100. 
 
-%${m\over m} = {massa_{soluto}\over massa_{totale}}\cdot 100$
+% ${m\over m} = {massa_{soluto}\over massa_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- %$m$
-- %${m\over m}$
+- % $m$
+
+- % ${m\over m}$
 
 Spesso si possono trovare le percentuali di massa sulle etichette dei prodotti per indicare la concentrazione di un ingrediente. 
 
@@ -120,19 +121,20 @@ Spesso si possono trovare le percentuali di massa sulle etichette dei prodotti p
 
 Un'altra unità di misura delle concentrazioni è la percentuale di volume, questa concentrazione iene sopratutto usata quanto un liquido è disciolto in un liquido.  La percentuale di volume si trova trovando il rapporto tra il volume del componente (di solito il soluto) ed il volume totale e si moltiplica per 100. 
 
-%$V = {Volume_{soluto}\over Volume_{totale}}\cdot 100$
+% $V = {Volume_{soluto}\over Volume_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- %$V$
-- %${V\over V}$
+- % $V$
+
+- % ${V\over V}$
 
 ## Percentuale di massa/volume
 
 La percentuale di massa/volume è un'unità di misura che esprime le concentrazioni della massa del soluto sul volume totale della soluzione. La percentuale di massa/volume si trova trovando il rapporto tra la massa del soluto ed il volume totale della soluzione e si moltiplica per 100. 
 
-%${m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 100$
+% ${m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 100$
 
-La %${m\over V}$ può avere diverse unità di misura, di solito si riferisce a $g\over ml$, ed ha applicazioni sopratutto in campo biomedico.
+La % ${m\over V}$ può avere diverse unità di misura, di solito si riferisce a $g\over ml$, ed ha applicazioni sopratutto in campo biomedico.
 
 ## Parti per milione e parti per miliardo
 
@@ -145,15 +147,19 @@ Concentrazioni di soluto molto piccole possono essere espresse attraverso le uni
 
 **ppm**
 % ${m\over m} = {massa_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
+
 % ${V\over V} = {Volume_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
+
 % ${m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
+
 % ${n\over n} = {numero_{atomi\ soluto}\over numero_{atomi\ totale}}\cdot 10^6 ppm$
+
 % ${n\over n} = {numero_{molecole\ soluto}\over numero_{molecole\ totale}}\cdot 10^6 ppm$
 
 **ppb**
-%${m\over m} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
+% ${m\over m} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
 
-%${V\over V} = {Volume_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
+% ${V\over V} = {Volume_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
 
 % ${m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
 
