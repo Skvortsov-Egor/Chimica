@@ -123,8 +123,8 @@ Un'altra unità di misura delle concentrazioni è la percentuale di volume, ques
 $\% V = {Volume_{soluto}\over Volume_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- $\% V$
-- ${V\over V}\%$
+- $% V$
+- ${V\over V}$
 
 ## Percentuale di massa/volume
 
