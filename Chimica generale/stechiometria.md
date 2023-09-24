@@ -1,11 +1,11 @@
 # Stechiometria di reazione
 
-**Equazione chimica:** Equazione composta di simboli chimici che descrivono una trasformazione chimica (o fisica).
+**Equazione chimica:** Equazione composta di simboli chimici che descrivono una trasformazione chimica.
 
 **Caratteristiche di una equazione chimica:**
 - **Reagenti:** molecole che sono coinvolte in una reazione chimica e stanno al primo membro dell'equazione (sinistra)
 - **Prodotti:** molecole che si ottengono dopo la reazione e stanno al secondo membro dell'equazione (destra)
-- **=>** divide i prodotti dai reagenti e indica che da x reagenti si ottengono y prodotti
+- **$\implies$** divide i prodotti dai reagenti e indica che da x reagenti si ottengono y prodotti
 - **+** divide tra loro le molecole dei prodotti e dei reagenti e indica le molecole presenti sia prima che dopo la reazione
 - **Coefficienti:** numeri relativi che indicano il numero di quel tipo di molecole che sono presenti nella reazione, stanno alla sinistra della molecola e sono presenti sia nei reagenti che nei prodotti. Il coefficiente 1 è omesso
 
@@ -13,7 +13,7 @@ I coefficienti in una reazione sono i più piccoli possibili, e rappresentano an
 
 ## Bilanciare equazioni chimiche
 
-Un'equazione chimica e bilanciata quando il numero di atomi di ogni tipo di elemento è uguale da entrambi le parti. Questa è una regola che le equazioni chimiche *devono* rispettare perché solo in questo modo esse sono coerenti con la legge della conservazione della materia.Per far si che ciò accada si può semplicemente sommare il numero di atomi da un lato e quel numero deve essere uguale al numero di atomi di quel stesso elemento dall'altra parte.
+Un'equazione chimica e bilanciata quando il numero di atomi di ogni tipo di elemento è uguale da entrambi le parti. Questa è una regola che le equazioni chimiche *devono* rispettare perché solo in questo modo esse sono coerenti con la legge della conservazione della materia. Per far si che ciò accada si può semplicemente sommare il numero di atomi da un lato e quel numero deve essere uguale al numero di atomi di quel stesso elemento dall'altra parte.
 
 Per contare il numero di atomi bisogna moltiplicare quell'elemento per il suo indice e poi per il coefficiente se è presente e poi sommare i risultati ottenuti per quel tipo di elemento di tutte le molecole dei reagenti, e la stessa cosa bisogna per i prodotti, se i numeri sono diversi, si procede al bilanciamento. 
 
@@ -39,7 +39,7 @@ Un'altra informazione che possiamo ricavare dall'equazione chimica è quando una
 
 ## Equazioni per reazioni ioniche
 
-Molte reazioni avvengono in ambiente acquoso, e se queste reazioni coinvolgono ioni, allora una reazioni può essere descritta sotto più livelli. Prendiamo per esempio la seguente reazioni che avviene in ambiente acquoso, ma che ha bisogna di corrente elettrica per avvenire:
+Molte reazioni avvengono in ambiente acquoso, e se queste reazioni coinvolgono ioni, allora una reazione può essere descritta sotto più livelli. Prendiamo per esempio la seguente reazioni che avviene in ambiente acquoso, ma che ha bisogna di corrente elettrica per avvenire:
 
 NaCl(aq) + H2 O(l) → NaOH(aq) + H2(g) + Cl2(g)
 
@@ -75,7 +75,10 @@ Reazioni di questo tipo coinvolgono ioni che si scambiano "partner" di due compo
 La concentrazione massima per cui una sostanza può essere disciolta in un solvente sotto precise condizioni è detta **solubilità**. Se una sostanza ha un alta solubilità viene detta **solubile**, se invece ha una bassa solubilità viene detta **insolubile**. Un composto precipiterà se la sua concentrazione in una soluzione supera la solubilità. 
 
 |Soluble compounds| Exceptions|
-|---------------------|------------|
+|-|-|
+|$Li^+ Na^+ K^+ NH_4^+ NO_3^- C_2H_3O_2^-$|Anioni di $Li^+ Na^+ K^+ NH_4^+$|
+|$Cl^- Br^- I^-$ (eccezzioni: $Ag^+ Hg^{2+} Pb^{2+}$|$OH^- S^{2-}$ (eccezzioni: $Ca^{2+} Ba^{2+} Sr^{2+}$|
+|$SO_4^{2-}$ (eccezzioni: $Ca^{2+} Ba^{2+} Sr^{2+} Ag^+ Pb^{2+}$|$CO_3^{2-} PO_4^{3-}$|
 
 Le tabelle soprastanti sono in grado di predire se ci sarà la formazione di un precipitato quando due composti ionici sono mischiati. Per identificare la presenza del precipitato bisogna scrivere l'equazione ionica netta e se il composto è insolubile (secondo le tabelle), allora assisteremo alla formazione di un precipitato. 
 
@@ -158,7 +161,7 @@ La stechiometria è la relazione quantitativa che instaurano i composti in una r
 - calcolare i g trasformando i g di prodotto in mol e moltiplicare per rapporto moltiplicare mol reagente per massa molare e ottenere i g cercati
 
 **In sintesi:**
-Per svolgere questi esercizi basta trasformare quello abbiamo in moli e attraverso i fattori stechiometrici trovare le altre moli e poi ricavare quello che ci serve. Tutto gira attorno i numeri stechiometrici che sono il numero di moli necessari per ogni reagente per ottenere una certa quantità di prodotto, spesso espressi in forma di rapporto. Il rapporto è X composto che devo trovare/ x composto che ho.
+Per svolgere questi esercizi basta trasformare quello abbiamo in moli e attraverso i fattori stechiometrici trovare le altre moli e poi ricavare quello che ci serve. Tutto gira attorno i numeri stechiometrici che sono il numero di moli necessari per ogni reagente per ottenere una certa quantità di prodotto, spesso espressi in forma di rapporto.
 
 ## Resa di reazione
 
