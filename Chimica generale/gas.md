@@ -29,12 +29,13 @@ Se mettiamo un gas in un contenitore con volume costante e lo chiudiamo ermetica
 Gay Lussac fu il primo a stabilire una relazione tra temperatura e pressione. Infatti la legge sopra citata è conosciuta anche come legge di Gay Lussac. Quindi:
 
 $P = k\cdot T$
+
 $k = {P\over T}$
 
 Inalzando la temperatura il rapporto comunque rimane costante:
 
 $k = {P'\over t'}$
-=>
+
 ${P\over t} = {P'\over t'}$
 
 ### Legge di Charles
@@ -46,12 +47,13 @@ Un contenitore con volume variabile a pressione costante, se riscaldato il volum
 Questa legge è conosciuta come legge di Charles. Sia la legge di Charles che di Gay-Lussac sono direttamente proporzionali. 
 
 $V = k\cdot t$
+
 $k = {V\over t}$
 
 Inalzando la temperatura il rapporto comunque rimane costante:
 
 $k = {V'\over t'}$
-=>
+
 ${V\over t} = {V'\over t'}$
 
 ### Legge di Boyle
@@ -63,12 +65,13 @@ Un contenitore a volume variabile e a temperatura costante, se il volume viene d
 Questa legge viene detta legge di Boyle, ed il volume e la pressione sono inversamente proporzionali. 
 
 $P = k\cdot  {1\over V}$
+
 $k = P\cdot V$
 
 Inalzando il volume il rapporto rimane costante:
 
 $k = P'\cdot {1\over V'}$
-=>
+
 $P\cdot V = P'\cdot V'$
 
 Per semplificare i calcoli, si usa la proporzionalità diretta di questa legge che è: $1\over P$ in funzione di V. 
@@ -80,12 +83,13 @@ Per semplificare i calcoli, si usa la proporzionalità diretta di questa legge c
 Questa viene detta legge di Avogadro ed è una legge direttamente proporzionale.
 
 $V = k\cdot n$
+
 $k = {V\over n}$
 
 Inalzando il volume il rapporto rimane costante:
 
 $k = {V'\over n'}$
-=>
+
 ${V\over n} = {V'\over n'}$
 
 ### Legge dei gas ideali
@@ -116,7 +120,7 @@ La densità è il rapporto del massa e il volume, quindi per ottenere la densit�
 
 $$\
 PV = nRT\
-(MM)\> n/v = P/RT\> (MM)\
+(MM)\ n/v = P/RT\ (MM)\
 g/L = g/L\
 => ρ = {P\cdot (MM)\over R\cdot T}$$
 
@@ -185,15 +189,19 @@ $K = {1\over 2}mv^2$
 Per un campione di gas, si usa l'energia cinetica media e la velocità media. Per velocità media s'intende velocità quadratica media, ovvero la radice quadrata della media delle velocità delle singole molecole al quadrato. Quindi l'energia cinetica media si trova usando la velocità quadratica media. L'energia cinetica è anche proporzionale alla temperatura: 
 
 $K = {3\over 2}RT$
+
 ${1\over 2}mv^2 = {3\over 2}RT$
-$v = \sqrt{3RT\over m}$
+
+$v = \sqrt {3RT\over m}$
 
 Dove R è 8.314 J/K. Se la temperatura aumenta, più molecole aumenteranno la loro velocità, mentre meno molecole hanno velocità ridotta. La distribuzione si sposta verso le alte velocità (destra). Se la temperatura si abbassa, succede il contrario. Ad una determinata temperatura tutte le molecole di ogni gas hanno la stessa energia cinetica media. Gas di composti leggeri hanno una velocità maggiore è quindi una velocità quadratica media maggiore, e quindi la distribuzione della velocità raggiunge maggiori velocità che di molecole pesanti. 
 
 Secondo la legge di Graham: le molecole sono in movimento ad alte velocità e la loro dimensione è piccola rispetto alle distanze tra le molecole. Quindi le molecole tra di loro si muovono ad alte velocità ed il tasso di diffusione è alto. Il tasso di effusione è direttamente proporzionale alla velocità quadratica media. Il rapporto tra i tassi di effusioni è inversamente proporzionale alla radice quadrata del rapporto delle masse: 
 
-$v = \sqrt{3RT\over m}$
+$v = \sqrtm {3RT\over m}$
+
 $m = {3RT\over v^2}$
+
 ${effusione_A\over effusione_B} = \sqrt {m_B\over m_A}$
 
 ## Comportamento di gas non ideali
@@ -211,18 +219,18 @@ A basse pressioni, le molecole sono distanti tra loro e quindi non sono attratte
 Esistono diverse equazioni che descrivono al meglio il comportamento di gas non ideali rispetto alla legge dei gas ideali. Una di queste è la **equazione di Van der Waals**:
 
 $$PV = nRT 
-=>
-(P+{an^2\over v^2})\cdot (V - nb) = nRT
+\implies
+(P+{an^2\over V^2})\cdot (V - nb) = nRT
 $$
 
 a = forza di attrazione delle molecole di gas
 b = volume di una molecola di un gas particolare
 
-Sono state effettuate due correzioni in termini di pressione e volume. v è molto grande, mentre n è molto piccolo, così le correzioni diventano trascurabili, e quindi l'equazione si riduce a quella per un gas ideale:
+Sono state effettuate due correzioni in termini di pressione e volume. Se V è molto grande, mentre n è molto piccolo, allora le correzioni diventano trascurabili, e quindi l'equazione si riduce a quella per un gas ideale:
 
 $PV = nRT$
 
-Questo il caso in cui un numero di poche molecole occupa un volume molto grande e quindi un gas a bassa pressione. In questo caso a è più "importante" di b. Ad alte pressioni e piccoli volumi le correzioni di van der Waals diventano significative perché le molecole non possono essere compresse e occupano un volume non trascurabile. Ad una pressione intermedia, le due correzioni hanno influenze opposte e il gas segue PV = nRT su un intervallo di pressione piccolo.
+Questo il caso in cui un numero di poche molecole occupa un volume molto grande e quindi un gas a bassa pressione. In questo caso a è più "importante" di b. Ad alte pressioni e piccoli volumi le correzioni di Van der Waals diventano significative perché le molecole non possono essere compresse e occupano un volume non trascurabile. Ad una pressione intermedia, le due correzioni hanno influenze opposte e il gas segue PV = nRT su un intervallo di pressione piccolo.
 
 Le forze attrattive tra le molecole fa si che il gas sia più comprimibile rispetto ad un gas ideale finché la pressione si alza (Z diminuisce con l'incremento di P). A pressioni molte alte il gas diventa meno comprimibile perché le molecole iniziano ad occupare un volume non trascurabile (Z aumenta con P). 
 
