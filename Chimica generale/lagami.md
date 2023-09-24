@@ -23,7 +23,7 @@ La carica totale dei composti deve essere pari a zero e quindi la carica positiv
 
 ### struttura elettronica dei cationi
 
-Quando si forma un catione, tutti gli atomi di valenza dell'atomo in vengono sottratti, e acquisisce una struttura elettronica del gas nobile che lo precede, in questo caso si dice che il catione è **isoelettronico** con il gas nobile che lo precede. 
+Quando si forma un catione, tutti gli atomi di valenza dell'atomo vengono sottratti, e acquisisce una struttura elettronica del gas nobile che lo precede, in questo caso si dice che il catione è **isoelettronico** con il gas nobile che lo precede.
 
 Per i gruppi 1 + 2, gli elettroni di valenza sono uguali al numero del gruppo, quindi se quei elementi diventano cationi, acquisiranno una carica 1+ o 2+. Per i gruppi che vanno da 12 a 17, gli elettroni di valenza sono uguali al numero del gruppo - 10, e quindi avranno una carica di N gruppo - 10 nel caso dovessero essere dei cationi e perdere tutti gli elettroni di valenza. Per quest'ultima "regola" esistono delle eccezioni che sono descritti dall'effetto di copia inerte (riflette l'energia bassa (cationi con carica minore) degli elettroni s di valenza per gli atomi degli elementi pesanti). 
 
@@ -96,7 +96,7 @@ In una coppia di atomi che fanno un legame, per raggiungere 8 elettroni di valen
 È possibile disegnare molecole semplici grazie alla regola dell'ottetto: appaiare gli elettroni spaiati di due atomi fino ad arrivare ad 8 elettroni di valenza per ogni atomo. 
 
 Per atomi più complessi:
-1. Determinare il numero totale degli elettroni di valenza, nel caso di cationi fare meno 1 per la carica, nel caso di anioni fare il contrario.
+1. Determinare il numero totale degli elettroni di valenza, nel caso di cationi sottrarre al numero di elettroni dellla molecola se fosse neutra la carica del catione, nel caso di anioni fare il contrario.
 2. Disegnare lo scheletro della molecola con elemento meno elettronegativo in centro (spesso è quello che viene scritto per primo nella formula chimica del composto) e connetterlo con legami singoli ai restanti atomi
 3. distribuire gli elettroni di valenza rimasti (elettroni valenza tot - N legami singoli*(2)) attorno agli altri atomi, a parte quello di H, per completare l'ottetto di tutti gli atomi.
 4. Nel caso in cui rimangono elettroni a disposizione nonostante gli ottetti sono completati, disporre i restanti elettroni attorno all'atomo centrale
@@ -233,7 +233,7 @@ Quando una molecola ha quattro legame e due coppie di elettroni non di legame, s
 
 1. Scrivere la struttura di Lewis della molecola
 2. Contare il numero delle aree di densità elettronica (legami e coppie di elettroni non di legame)
-3. determinare la geometria delle coppia di elettroni
+3. in base al numero di arre di densità elettronica determinare la corrispondente geometria della coppia di elettroni
 4. In base al numero di elettroni non di legame, determinare la struttura molecolare, se più di una disposizione è possibile, scegliere quella che ha meno repulsioni elettrone-elettrone. Si deve ricordare che le coppie di elettroni non di legame, occupano più spazio dei legami multipli. In geometrie triangolari planari gli elettroni di legami stanno nella posizione di legame, nelle geometrie ottaedriche invece occupano posizioni diametralmente opposte.
 
 ### Struttura molecolare per molecole che hanno più centri
@@ -363,7 +363,7 @@ Le energie degli orbitali molecolari sono rappresentate dai diagrammi degli orbi
 
 L'ordine di legame è la contribuzione degli elettroni per la forza di legame di una molecola (In MO). Nelle strutture di Lewis, l'ordine di legame è il numero di coppie di elettroni in un legame. Entrambi descrivono lo stesso fenomeno ed il risultato è uguale, ma la MO può anche esaminare casi particolari. Nella MO un elettrone contribuisce ad una interazione di legame quando occupa un orbitale di legame, invece un elettrone contribuisce ad una interazione di anti-legame quando occupa un orbitale di anti-legame e quindi per ottenere l'ordine di legame bisogna sottrarre agli elettroni di legame quelli di anti-legame e divedere per due (un legame consiste di due elettroni). 
 
-$ordine\> di \> legame = {elettroni_{legame} - elettroni_{anti-legame}\over 2}$
+$ordine\ di \ legame = {elettroni_{legame} - elettroni_{anti-legame}\over 2}$
 
 L'ordine di legame indica la forza di un legame, maggiore è l'ordine, maggiore è la forza di legame. Se l'ordine di legame è uguale a zero allora non si forma un legame stabile. 
 
