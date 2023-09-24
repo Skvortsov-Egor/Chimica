@@ -146,6 +146,7 @@ Concentrazioni di soluto molto piccole possono essere espresse attraverso le uni
 - numero di molecole
 
 **ppm**
+
 % ${m\over m} = {massa_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
 
 % ${V\over V} = {Volume_{soluto}\over Volume_{totale}}\cdot 10^6 ppm$
@@ -157,6 +158,7 @@ Concentrazioni di soluto molto piccole possono essere espresse attraverso le uni
 % ${n\over n} = {numero_{molecole\ soluto}\over numero_{molecole\ totale}}\cdot 10^6 ppm$
 
 **ppb**
+
 % ${m\over m} = {massa_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
 
 % ${V\over V} = {Volume_{soluto}\over Volume_{totale}}\cdot 10^9 ppb$
