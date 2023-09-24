@@ -30,10 +30,10 @@ A volte potrebbe essere comodo moltiplicare le molecole per dei numeri frazionar
 ## Informazioni che ci danno le reazioni chimiche
 
 Spesso in un'equazione chimica affianco ad ogni composto è indicato anche lo stato fisico in cui si trova e questo è indicato attraverso abbreviazioni all'interno di parentesi:
-- (s) => solido
-- (l) => liquido
-- (g) => gassoso
-- (aq) => il composto è disciolto in acqua
+- (s) $\implies$ solido
+- (l) $\implies$ liquido
+- (g) $\implies$ gassoso
+- (aq) $\implies$ il composto è disciolto in acqua
 
 Un'altra informazione che possiamo ricavare dall'equazione chimica è quando una reazione necessita di calore per avvenire e questo viene indicato con la lettera "∆" sopra la freccia di reazione.
 
@@ -47,7 +47,7 @@ L'equazione bilanciata risulta:
 
 2NaCl(aq) + 2H2O(l) → 2NaOH(aq) + H2(g) + Cl2(g)
 
-L'equazione appena bilanciata è un'equazione molecolare perché non rappresenta esplicitamente i singoli ioni presenti nella soluzione. Composti ionici disciolti in acqua tendono a dissociarsi in singoli ioni che sono rimescolati omogeneamente nella soluzione acquosa. 
+L'equazione appena bi lanciata è un'equazione molecolare perché non rappresenta esplicitamente i singoli ioni presenti nella soluzione. Composti ionici disciolti in acqua tendono a dissociarsi in singoli ioni che sono rimescolati omogeneamente nella soluzione acquosa.
 
 Composti ionici disciolti in acqua possono essere rappresentati come ioni dissociati:
 
@@ -77,8 +77,8 @@ La concentrazione massima per cui una sostanza può essere disciolta in un solve
 |Soluble compounds| Exceptions|
 |-|-|
 |$Li^+ Na^+ K^+ NH_4^+ NO_3^- C_2H_3O_2^-$|Anioni di $Li^+ Na^+ K^+ NH_4^+$|
-|$Cl^- Br^- I^-$ (eccezzioni: $Ag^+ Hg^{2+} Pb^{2+}$|$OH^- S^{2-}$ (eccezzioni: $Ca^{2+} Ba^{2+} Sr^{2+}$|
-|$SO_4^{2-}$ (eccezzioni: $Ca^{2+} Ba^{2+} Sr^{2+} Ag^+ Pb^{2+}$|$CO_3^{2-} PO_4^{3-}$|
+|$Cl^- Br^- I^-$ (eccezzioni: $Ag^+ Hg^{2+} Pb^{2+}$)|$OH^- S^{2-}$ (eccezzioni: $Ca^{2+} Ba^{2+} Sr^{2+}$)|
+|$SO_4^{2-}$ (eccezzioni: $Ca^{2+} Ba^{2+} Sr^{2+} Ag^+ Pb^{2+}$)|$CO_3^{2-} PO_4^{3-}$|
 
 Le tabelle soprastanti sono in grado di predire se ci sarà la formazione di un precipitato quando due composti ionici sono mischiati. Per identificare la presenza del precipitato bisogna scrivere l'equazione ionica netta e se il composto è insolubile (secondo le tabelle), allora assisteremo alla formazione di un precipitato. 
 
@@ -134,18 +134,18 @@ Una sottoclasse di reazioni redox sono le reazioni di combustione in cui è pres
 
 Reazioni redox sono anche reazioni a scambio semplice in cui uno ione in soluzione ossida un metallo e libera l'altro a cui era unito prima della reazione.
 
-#### Bilanciamento di reazione Redox
+#### Bilanciamento di una reazione Redox
 
 Reazioni redox spesso coinvolgono acqua, ioni idronio e ioni idrossido come reagenti o prodotti anche se non sono né ossidati né ridotti, ma partecipano alla trasformazione chimica. Queste reazioni sono difficili da bilanciare quindi bisogna seguire uno schema alternativo:
 
-1. scrivere le due semi-reazioni (reagente -> prodotto che ha atomo in comune con reagente)
-2. bilanciare le semi-reazioni a parte H e O2
-3. Bilanciare O2 aggiungendo molecole di H2O
+1. scrivere le due semi-reazioni (reagente $\implies$ prodotto che ha atomo in comune con reagente)
+2. bilanciare le semi-reazioni tranne che H e $O_2$
+3. Bilanciare $O_2$ aggiungendo molecole di $H_2O$
 4. bilanciare H aggiungendo ioni H+
 5. bilanciare le cariche aggiungendo elettroni (perché il numero di elettroni dei reagenti e dei prodotti deve essere uguale)
 6. Se necessario moltiplicare le semi-reazioni per il m.c.m. per ottenere lo stesso numero di elettroni
 7. mettere assieme le due semi-reazioni ed eliminare i composti che appaiono su entrambi i membri dell'equazione
-8. Nel caso di eccesso di OH-
+8. Nel caso di eccesso di OH- (soluzione basica):
 9. Aggiungere OH- su ogni lato per un numero totale quanti sono gli ioni H+
 10. sui lati in cui ci sono sia OH- che H+ unirli per rimpiazzargli con una molecola di H2O
 11. eliminare gli H2O spettatori
