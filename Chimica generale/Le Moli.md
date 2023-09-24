@@ -111,8 +111,8 @@ Un altro modo di calcolare la concentrazione dei componenti di una soluzione è 
 $\% {m\over m} = {massa_{soluto}\over massa_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- $\ %m$
-- $\ %{m\over m}$
+- $\% m$
+- $\% {m\over m}$
 
 Spesso si possono trovare le percentuali di massa sulle etichette dei prodotti per indicare la concentrazione di un ingrediente. 
 
@@ -123,8 +123,8 @@ Un'altra unità di misura delle concentrazioni è la percentuale di volume, ques
 $\% V = {Volume_{soluto}\over Volume_{totale}}\cdot 100$
 
 I simboli che esprimono la percentuale di massa sono:
-- $% V$
-- ${V\over V}$
+- $\% V$
+- $\% {V\over V}$
 
 ## Percentuale di massa/volume
 
@@ -132,7 +132,7 @@ La percentuale di massa/volume è un'unità di misura che esprime le concentrazi
 
 $\%{m\over V} = {massa_{soluto}\over Volume_{totale}}\cdot 100$
 
-La $\%{m\over V}$ può avere diverse unità di misura, di solito si riferisce a $g\over ml$, ed ha applicazioni sopratutto in campo biomedico.
+La $\% {m\over V}$ può avere diverse unità di misura, di solito si riferisce a $g\over ml$, ed ha applicazioni sopratutto in campo biomedico.
 
 ## Parti per milione e parti per miliardo
 
