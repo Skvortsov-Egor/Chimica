@@ -98,11 +98,12 @@ In cui A è costante che dipende dalle proprietà chimiche della sostanza
 
 Alla temperatura T1 la pressione sarà P1, e alla temperatura T2 la pressione sarà P2. Quindi le equazioni corrispondenti saranno:
 
-$In{P_1} = -{∆H_{vap}\over RT_1} + In{A}$ e
+$In{P_1} = -{∆H_{vap}\over RT_1} + In{A}$
+
 $In{P_2} = -{∆H_{vap}\over RT_2} + In{A}$
-=>
+
 $In{P_1} + {∆H_{vap}\over RT_1} = In{P_2} + {∆H_{vap}\over RT_2}$
-=>
+
 $In({P_2\over P_1}) = {∆H_{vap}\over R}\cdot ({1\over T_1} - {1\overT_2})$
 
 ### Entalpia di vaporizzazione
@@ -244,6 +245,6 @@ Se si conosce il lato di una cella unitaria e la posizione degli ioni nella cell
 Le dimensioni di una cella unitaria e la disposizione degli atomi in essa possono essere determinate attraverso la **cristallografia a raggi X**: la misura delle diffrazioni dei raggi X sul cristallo. La **diffrazione** è il cambio di direzioni delle onde elettromagnetiche quando incontrano una barriera fisica con dimensioni simili alla λ della luce. Quando un raggio monocromatico di raggi x colpisce un cristallo, i raggi sono deviati in tutte le direzioni dagli atomi nei cristalli. Quando i raggi deviati si incontrano, essi fanno un'interferenza, che può essere costruttiva o distruttiva. Quando i raggi x con una λ sono deviati da atomi in piani adiacenti da una distanza ∆x, possono intercorre una interferenza costruttiva quando la differenza tra le distanze percorse dalle due onde
 prima della loro combinazione è un fattore intero n. *Questa condizione è soddisfatta quando l'angolo del raggio diffratto, θ, è correlato alla lunghezza d'onda e alla distanza interatomica:* -> vedere appunti inizio terza
 
-nλ = 2∆x sin θ
+$nλ = 2\cdot ∆x sin θ$
 
 Questa è l'equazione di Bragg che ci permette di calcolare il ∆x. Un diffratometro a raggi x può misurare l'angolo θ. 
