@@ -34,7 +34,7 @@ Attrazioni dipolo-dipolo sono attrazioni tra molecole polari.
 
 ![attrazioni dipolo-dipolo](http://www.andreaminini.org/data/andreamininiorg/interazione-dipoli-permanenti.gif)
 
-### Legami a idrogeno
+### Legami a ponte idrogeno
 
 Due molecole di cui una è più grande e pesante hanno i momenti dipolo uguali, hanno però punti di ebollizione diversi e hanno stati di aggregazione simili. Questo perché le molecole hanno una particolare attrazione dipolo-dipolo che accade quando atomi di H sono legati ad N, O, F. La grande differenza di elettronegatività e la grandezza ridotta delle molecole, fanno si che ci sia un alta concentrazione di cariche parziali. Queste attrazioni sono dette legami a idrogeno e sono una forte attrazione di attrazione dipolo-dipolo. Molecole attratte da legami idrogeno sono fortemente attratte da molecole simili. 
 
