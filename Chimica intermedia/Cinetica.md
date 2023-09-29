@@ -12,9 +12,9 @@ La velocità di reazione è determinata da una proprietà (conduttività, assorb
 
 $velocità_{reazione} = -{∆[M]\over ∆t}$
 
-xA + yB -> zC + wD
+$xA + yB \rightarrow zC + wD$
 
-$velocità_{reazione} = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$
+$velocità \ reazione = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$
 
 il - davanti è una convenzione se il ∆[M] è negativo (reagenti, positivo per i prodotti), perché per convenzione le concentrazioni sono positive. La **velocità media** è la velocità di reazione che si ottiene considerando un intervallo di tempo uguale a tutta la durata della reazione. **La velocità istantanea** invece è la velocità di reazione in un momento particolare della reazione, infine la **velocità al tempo zero** è la velocità di reazione all'inizio della reazione. Per individuare la velocità istantanea si possono usare due metodi.
 - se la reazione lo permette: la concentrazione cambia in un piccolo ∆t, allora la velocità media è una buona approssimazione
