@@ -12,7 +12,7 @@ La velocità di reazione è determinata da una proprietà (conduttività, assorb
 
 $velocità_{reazione} = -{∆[M]\over ∆t}$
 
-$xA + yB \rightarrow zC + wD$
+$$xA + yB \rightarrow zC + wD$$
 
 $velocità \ reazione = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$
 
