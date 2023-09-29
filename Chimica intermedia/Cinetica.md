@@ -38,11 +38,11 @@ La velocità di reazione è influenzata principalmente da 5 fattori:
 
 Le **leggi di reazione** descrivono matematicamente il rapporto tra la velocità di reazione e la concentrazione dei suoi reagenti. In generale una legge di velocità ha quesa forma:
 
-$velocità = k[A]^m[B]^n...$
+$$velocità = k[A]^m[B]^n...$$
 
 Dove A e B sono le concentrazioni dei reagenti, k è la costante di velocità che dipende dalla reazione e dalla temperatura. K e gli esponenti (normalmente positivi, negativi se la concentrazione aumenta) si determinano sperimentalmente osservando come varia la velocità di reazione al variare della concentrazione dei reagenti. K è indipendente dalla concentrazione dei reagenti, ma dipende dalla temperatura e dalla area superficiale. Gli esponenti in una legge di velocità descrivono gli effetti della concentrazione del reagente sulla velocità di reazione. Essi definiscono **l'ordine di reazione**. Se l'ordine di reazione è uguale a zero, la concentrazione del reagente non influisce sulla velocità di reazione. **L'ordine di reazione totale** è la somma degli ordini di reazioni. 
 
-Per determinare la legge di velocità bisogna scrivere un'equazione che mette in relazione la un rapporto tra le velocità di reazione e un rapporto di un reagente di cui si vuole trovare l'esponente. Questi rapporti si determinano a partire dai valori sperimentali in cui gli altri reagenti sono costanti per quel determinato momento. Questo si esegue per ogni reagente ed una volta trovati i singoli ordini di reazione si può scrivere la legge di velocità. Per determinare k si isola k e se la si determina.
+Per determinare la legge di velocità bisogna scrivere un'equazione che mette in relazione un rapporto tra le velocità di reazione e un rapporto di un reagente di cui si vuole trovare l'esponente. Questi rapporti si determinano a partire dai valori sperimentali in cui gli altri reagenti sono costanti per quel determinato momento. Questo si esegue per ogni reagente ed una volta trovati i singoli ordini di reazione si può scrivere la legge di velocità. Per determinare k si isola k e se la si determina.
 
 Le unita di misura di k sono determinate dall'ordine di reazione: $mol^{[1−(m+n)]} L^{[(m+n)−1]} s^{−1}$.
 
@@ -52,10 +52,10 @@ Le **leggi di velocità integrate** mettono in relazione la concentrazione di un
 
 - **Reazione di primo ordine:**
 
-$In{([A_0]\over [A_t])} = kt$
-$ln[A] = (−k)\cdot (t) + ln[A]_0$
-=>
-y = mx + q
+$$In{([A_0]\over [A_t])} = kt\implies
+ln[A] = (−k)\cdot (t) + ln[A]_0
+\implies
+y = mx + q$$
 
 A0 è la concentrazione iniziale, mentre At è la concentrazione del reagente al tempo t. Dall'ultima relazione si intuisce che il grafico per una reazione di primo ordine è una retta con pendenza uguale -k e termine noto $ln[A]0$. 
 
@@ -63,9 +63,9 @@ A0 è la concentrazione iniziale, mentre At è la concentrazione del reagente al
 
 Le equazioni di reazioni di secondo ordine sono molto complicate, il caso più semplice include la dipendenza della velocità di reazione sulla concentrazione di un solo reagente:
 
-${1\over [A]} = kt + {1\over [A_0]}$
-=> 
-y = mx + q
+$${1\over [A]} = kt + {1\over [A_0]}
+\implies
+y = mx + q$$
 
 Il grafico di una reazione di secondo ordine è una retta con coefficiente angolare k e termine not ${1\over [A_0]}$.
 
@@ -73,9 +73,9 @@ Il grafico di una reazione di secondo ordine è una retta con coefficiente angol
 
 Una reazione di ordine zero, ha sempre la stessa velocità di reazione, indipendentemente dalla concentrazione dei suoi reagenti (velocità = k). 
 
-$[A] = −kt + [A]_0$
-=>
-y = mx + q
+$$[A] = −kt + [A]_0
+\implies
+y = mx + q$$
 
 Il grafico di una reazione di ordine zero è una retta con coefficiente angolare -k e termine noto $[A_0]$.
 
