@@ -23,7 +23,7 @@ La carica totale dei composti deve essere pari a zero e quindi la carica positiv
 
 ### struttura elettronica dei cationi
 
-Quando si forma un catione, tutti gli atomi di valenza dell'atomo vengono sottratti, e acquisisce una struttura elettronica del gas nobile che lo precede, in questo caso si dice che il catione è **isoelettronico** con il gas nobile che lo precede.
+Quando si forma un catione, tutti gli atomi di valenza dell'atomo in vengono sottratti, e acquisisce una struttura elettronica del gas nobile che lo precede, in questo caso si dice che il catione è **isoelettronico** con il gas nobile che lo precede.
 
 Per i gruppi 1 + 2, gli elettroni di valenza sono uguali al numero del gruppo, quindi se quei elementi diventano cationi, acquisiranno una carica 1+ o 2+. Per i gruppi che vanno da 12 a 17, gli elettroni di valenza sono uguali al numero del gruppo - 10, e quindi avranno una carica di N gruppo - 10 nel caso dovessero essere dei cationi e perdere tutti gli elettroni di valenza. Per quest'ultima "regola" esistono delle eccezioni che sono descritti dall'effetto di copia inerte (riflette l'energia bassa (cationi con carica minore) degli elettroni s di valenza per gli atomi degli elementi pesanti). 
 
@@ -47,7 +47,9 @@ Nei legame ionici gli elettroni sono trasferiti tra gli atomi coinvolti e grazie
 
 ### Formazione di un legame covalente
 
-I non metalli tendono a formare legami covalenti con non metalli: Quando due atomi con affinità elettronica si avvicinano, i loro orbitali di valenza iniziano a sovrapporsi. Gli elettroni di valenza interagiscono con entrambi i nuclei e occupano lo spazio attorno ad entrambi e l'attrazione degli elettroni condivisi per ogni nucleo stabilizza il sistema. Gli elettroni tendono a stare di più attorno al nucleo più elettronegatività, nel caso in cui il legame è tra atomi diversi. All'inizio i due atomi hanno una loro energia potenziale che diminuisce man man mano che si stabilisce il sistema, il punto in cui l'energia potenziale è al minimo, quella è la lunghezza di legame, se i due nuclei si avvicinano ancora, la loro energia potenziale aumenta perché i nuclei iniziano a respingersi. 
+I non metalli tendono a formare legami covalenti con non metalli: Quando due atomi con elettronegatività simile si avvicinano, i loro orbitali di valenza iniziano a sovrapporsi. Gli elettroni di valenza interagiscono con entrambi i nuclei e occupano lo spazio attorno ad entrambi e l'attrazione degli elettroni condivisi per ogni nucleo stabilizza il sistema. Gli elettroni tendono a stare di più attorno al nucleo più elettronegatività, nel caso in cui il legame è tra atomi diversi. All'inizio i due atomi hanno una loro energia potenziale che diminuisce man man mano che si stabilisce il sistema, il punto in cui l'energia potenziale è al minimo, è la distanza di legame a cui stanno due atomi in un legame. Se i due nuclei si avvicinano ancora, la loro energia potenziale aumenta perché i nuclei iniziano a respingersi. Questo indica le condizioni in cui il legame chimico si forma:
+
+> Un **legame chimico** si forma se l'energia degli atomi coinvolti in un legame è minore rispetto all'energia degli atomi liberi.
 
 Per creare un legame si libera energia e quindi (reazione esotermica) e c'è bisogno di energia per creare un legame chimico (reazione endotermica). 
 
@@ -69,9 +71,11 @@ La ∆EN di sue atomi può dare un'idea della polarità e del tipo di legame. Se
 
 ## Simboli e strutture di Lewis
 
+La Teoria di Lewis è una teoria che contiene molti buchi, per esempio è in grado descrivere la configurazione degli atomi solo fino al terzo periodo e non dà una spiegazione del perché la regola dell'ottetto funziona, ma serve per la teoria VSEPR che è in grado di prevedere la geometria della molecola. Questa è la stessa della Teoria VB, ma che allo stesso tempo dà una spiegazione ai legami, energia di legame, angolo di legame, lunghezza di legame e riesce a predire la stessa geometria molecolare.
+
 ### simboli di Lewis
 
-I simboli di Lewis vengono usati per descrivere gli elettroni di valenza di atomi e ioni poliatomici. Un simbolo di Lewis consiste nel simbolo chimico dell'atomo circondato da tanti pallini quanti sono gli elettroni di valenza ad ogni 90°. I simboli di Lewis possono anche illustrare anche i cationi ed anioni. I cationi in simboli di Lewis vengono rappresentati con l'atomo standard -> catione + elettrone/i, mentre gli anioni atomo standard + elettrone/i -> anione. Gli ioni 
+I simboli di Lewis vengono usati per descrivere gli elettroni di valenza di atomi e ioni poliatomici. Un simbolo di Lewis consiste nel simbolo chimico dell'atomo circondato da tanti pallini quanti sono gli elettroni di valenza ad ogni 90°. I simboli di Lewis possono anche illustrare anche i cationi ed anioni. I cationi in simboli di Lewis vengono rappresentati con l'atomo standard -> catione + elettrone/i, mentre gli anioni atomo standard + elettrone/i -> anione.
 
 ### strutture di Lewis
 
@@ -96,13 +100,11 @@ In una coppia di atomi che fanno un legame, per raggiungere 8 elettroni di valen
 È possibile disegnare molecole semplici grazie alla regola dell'ottetto: appaiare gli elettroni spaiati di due atomi fino ad arrivare ad 8 elettroni di valenza per ogni atomo. 
 
 Per atomi più complessi:
-1. Determinare il numero totale degli elettroni di valenza, nel caso di cationi sottrarre al numero di elettroni dellla molecola se fosse neutra la carica del catione, nel caso di anioni fare il contrario.
+1. Determinare il numero totale degli elettroni di valenza, nel caso di cationi fare meno 1 per la carica, nel caso di anioni fare il contrario.
 2. Disegnare lo scheletro della molecola con elemento meno elettronegativo in centro (spesso è quello che viene scritto per primo nella formula chimica del composto) e connetterlo con legami singoli ai restanti atomi
 3. distribuire gli elettroni di valenza rimasti (elettroni valenza tot - N legami singoli*(2)) attorno agli altri atomi, a parte quello di H, per completare l'ottetto di tutti gli atomi.
 4. Nel caso in cui rimangono elettroni a disposizione nonostante gli ottetti sono completati, disporre i restanti elettroni attorno all'atomo centrale
 5. disegnare legami multipli per completare l'ottetto dell'atomo centrale se possibile
-
-![strutture di Lewis](https://o.remove.bg/downloads/2d3f317f-85dc-4a0c-a5d0-5f4c70940650/png-clipart-lewis-structure-ethylene-molecular-geometry-chemical-bond-double-bond-dot-formula-miscellaneous-angle-removebg-preview.png).
 
 ### Eccezioni nella regola dell'ottetto
 
@@ -113,7 +115,7 @@ Esistono molte molecole i cui atomi centrali non hanno raggiunto l'ottetto:
 Molecole con elettroni dispari sono dette radicali liberi. Per disegnare la loro molecola:
 1. Determinare il numero totale degli elettroni di valenza
 2. Disegnare lo scheletro della molecola
-3.  distribuire gli elettroni di valenza rimasti (elettroni valenza tot - N legami singoli*(2)) attorno agli altri atomi, a parte quello di H, per completare l'ottetto di tutti gli atomi (gli atomi più elettronegativi hanno la precedenza)
+3.  distribuire gli elettroni di valenza rimasti ($elettroni \ valenza \ tot - N \ legami \ singoli\cdot 2$) attorno agli altri atomi, a parte quello di H, per completare l'ottetto di tutti gli atomi (gli atomi più elettronegativi hanno la precedenza)
 4.  Nel caso in cui rimangono elettroni a disposizione nonostante gli ottetti sono completati, disporre i restanti elettroni attorno all'atomo centrale
 5.  disegnare legami multipli per completare l'ottetto dell'atomo centrale se possibile, in questo caso non è possibile raggiungere l'ottetto visto il numero dispari e quindi si creano legami multipli per avvicinare il più possibile l'atomo con l'ottetto incompleto all'ottetto, ma senza superarlo.
 
@@ -130,7 +132,7 @@ Atomo del secondo periodo possono ospitare solo 8 elettroni perché hanno a disp
 
 La carica formale di un atomo in una molecola è la carica ***ipotetica*** che assumerebbe se gli elettroni fossero distribuiti equamente in un legame. Per ottenere la carica formale basta prendere gli elettroni di valenza e sottrarre a loro gli elettroni non di legame e sottrarre il numero di legami che fa quell'atomo. 
 
-carica formale = # elettroni di valenza − # elettroni non leganti −  # legami con atomo
+$$carica \ formale = \# \ elettroni\  di \ valenza − \# elettroni \ non \ leganti −  \# \ legami \ con \ atomo$$
 
 La carica formale totale di una molecola, ovvero la somma delle cariche formale di tutte gli atomi, deve essere uguale a zero o alla carica dello ione, se si tratta dello ione. 
 
@@ -149,12 +151,14 @@ Nel caso in cui si possono scrivere più strutture di Lewis con la stessa dispos
 
 Quindi la relazione che c'è tra forma di risonanza e ibrido di risonanza è che la struttura elettronica è una media tra le strutture elettroniche delle forme di risonanza. 
 
-![ibrido di risonanza](https://o.remove.bg/downloads/c7868129-47ab-4656-8494-37ea87800904/HNO3_risonanza-removebg-preview.png)
+![ibrido di risonanza](https://www.myttex.net/forum/attachment.php?aid=17005)
 
 ## Forza dei legami ionici e covalenti
 
 ### Forza di legame covalente
 La forza di un legame è misurata in base all'energia necessaria a rompere il legame che c'è fra i due atomi. Più forte è il legame, maggiore è l'energia necessaria a rompere il legame. L'energia necessaria a rompere una mole di molecole gassose è l'energia di legame. L'energia di legame per una molecola diatomica è il ∆H° del processo endotermico. 
+
+> L'**energia di legame** è l'energia necessaria a rompere una mole di composta e si misura in $KJ\over mol$.
 
 Per molecole che hanno più legami perché sono formati da più atomi, il ∆H° rappresenta l'energia di legame necessaria a rompere tutti i legami quindi per ottenere l'energia di legame media per un atomo si divide ∆H° per il numero di legami. Media perché una volta rotta un legame la molecola è più facile da rompere perché è instabile e richiede meno energia. 
 
@@ -174,7 +178,7 @@ Un composto ionico è stabile grazie all'attrazione delle forze elettrostatiche.
 
 L'energia reticolare di un composto ionico può essere espressa come:
 
-$∆H (reticolare) = {C\cdot (Z+)\cdot (Z-)\over R°}$
+$∆H \ reticolare = {C\cdot (Z+)\cdot (Z-)\over R°}$
 
 C = costante che dipende dalla struttura cristallina
 Z = carica degli ioni + e -
@@ -184,7 +188,7 @@ Da questa equazione si può dedurre che l'energia reticolare è maggiore, maggio
 
 ## Ciclo di Born-Haber
 
-L'energia reticolare non può essere misurata direttamente, ma la si può calcolare da un ciclo termochimico: il **ciclo di Born-Haber** che in sostanza è l'applicazione del principio di Hess che spezza in piccoli passi la formazione di un composto ionico:
+L'energia reticolare non può essere misurata direttamente, ma la si può calcolare a partire da un ciclo termochimico: il **ciclo di Born-Haber** che in sostanza è l'applicazione del principio di Hess che spezza in piccoli passi la formazione di un composto ionico:
 
 - **ΔH°f**: per calcolare l'energia reticolare si inizia partendo dall'entalpia di formazione degli elementi gassosi che formano il solido ionico 
 - **ΔH°s**: si aggiunge l'entalpia standard di sublimazione
@@ -195,15 +199,15 @@ L'energia reticolare non può essere misurata direttamente, ma la si può calcol
 
 L'energia totale coinvolta è uguale all'entalpia di formazione del processo esotermico perché il ∆H è uguale ΔH (reticolare) negativo, ma l'energia reticolare è endotermica. 
 
-L'energia reticolare per i composti ionici è molto più grande (600-4000 kJ/mol) di quella dei composti covalenti (150-400 kJ/mol), ma questo non è confronto che si può fare visto che l'energia reticolare dei composti ionici è associata a molte interazioni, mentre quella dei composti covalenti solo alle interazioni tra due molecole. 
+L'energia reticolare per i composti ionici è molto più grande (600-4000 $KJ\over mol$) di quella dei composti covalenti (150-400 $KJ\over mol$), ma questo non è confronto che si può fare visto che l'energia reticolare dei composti ionici è associata a molte interazioni, mentre quella dei composti covalenti solo alle interazioni tra due molecole.
 
 ## Struttura molecolare e polarità 
 
-Con le strutture di Lewis le strutture molecolari sono in due dimensioni, ma in realtà le strutture molecolari sono in tre dimensioni. La struttura di una molecola deve essere descritta nella sua disposizione spaziale, angolo e lunghezza. **L'angolo di legame** è l'angolo tra due legami, la **lunghezza di legame** è invece la distanza tra due nuclei e questa distanza è misurata in Amstrong ($1 m^-10$) oppure picometri ($1 m^-12$). 
+Con le strutture di Lewis le strutture molecolari sono in due dimensioni, ma in realtà le strutture molecolari sono in tre dimensioni. La struttura di una molecola deve essere descritta nella sua disposizione spaziale, angolo e lunghezza. **L'angolo di legame** è l'angolo tra due legami, la **lunghezza di legame** è invece la distanza tra due nuclei e questa distanza è misurata in Amstrong ($1 m^{-10}$) oppure μm ($1 m^{-9}$).
 
 ### Teoria VSEPR
 
-La teoria del valence shell electron-pair repulsion ci permette di predire la struttura molecolare, includendo gli angoli di legame grazie ad uno studio del numero di legami ed agli elettroni non coinvolti nel legame. Questo modello assume che le paia di elettroni dello strato di valenza dell'atomo centrale adotteranno una disposizione tale da minimizzare le repulsioni tra gli stessi elettroni e massimizzare le distanze tra di loro. Gli elettroni dell'atomo centrale o saranno collocati in mezzo ad un legame oppure come elettroni attorno all'atomo e la repulsione elettrostatica è ridotta quando le aree con alta densità elettronica sono le più distanti possibili. 
+La teoria del **V**alence **S**hell **E**lectron-**P**air **R**epulsion ci permette di predire la struttura molecolare, includendo gli angoli di legame grazie ad uno studio del numero di legami ed agli elettroni non coinvolti nel legame. Questo modello assume che le paia di elettroni dello strato di valenza dell'atomo centrale adotteranno una disposizione tale da minimizzare le repulsioni tra gli stessi elettroni e massimizzare le distanze tra di loro. Gli elettroni dell'atomo centrale o saranno collocati in mezzo ad un legame oppure come elettroni attorno all'atomo e la repulsione elettrostatica è ridotta quando le aree con alta densità elettronica sono le più distanti possibili.
 
 La teoria VSEPR può predire la disposizione degli elettroni attorno all'atomo centrale e la corretta disposizione degli atomi in una molecola. La teoria considera solo la repulsione elettrone-elettrone, ma anche altre repulsioni sono presenti in una molecola che determina la disposizione finale degli atomi in una molecola. 
 
@@ -233,7 +237,7 @@ Quando una molecola ha quattro legame e due coppie di elettroni non di legame, s
 
 1. Scrivere la struttura di Lewis della molecola
 2. Contare il numero delle aree di densità elettronica (legami e coppie di elettroni non di legame)
-3. in base al numero di arre di densità elettronica determinare la corrispondente geometria della coppia di elettroni
+3. determinare la geometria delle coppia di elettroni
 4. In base al numero di elettroni non di legame, determinare la struttura molecolare, se più di una disposizione è possibile, scegliere quella che ha meno repulsioni elettrone-elettrone. Si deve ricordare che le coppie di elettroni non di legame, occupano più spazio dei legami multipli. In geometrie triangolari planari gli elettroni di legami stanno nella posizione di legame, nelle geometrie ottaedriche invece occupano posizioni diametralmente opposte.
 
 ### Struttura molecolare per molecole che hanno più centri
@@ -262,17 +266,17 @@ Le molecole polari, quando messe in un campo elettrico, con la parte della molec
 
 # Teorie avanzate dei legami covalenti
 
-## Teoria dei legami di valenza
+## Teoria dei legami di valenza (VB)
 
 La teoria VSEPR è una teoria accettata dalla comunità scientifica, perché è coerente con i risultati sperimentali, ma non dà la spiegazione ai legami chimici. Esistono molte teorie che descrivono la struttura elettronica degli atomi, ma in un legame chimico, gli orbitali atomici non bastano per descrivere dove saranno "collocati" o meglio le regioni in cui si potrebbero trovare gli elettroni nella molecola. Per comprendere la distribuzione degli elettroni nelle molecole è necessario un modello delle strutture elettroniche delle molecole. 
 
-La teoria dei **legami di valenza** descrive il legame covalente come la sovrapposizione dei orbitali atomici metà-pieni (1 elettrone per orbitale) e porta alla condivisione di un paio di elettroni. Per sovrapposizione s'intende che una regione di orbitale di un atomo e una regione di un orbitale di un altro atomo occupano lo stesso spazio. Secondo questa teoria si ha un legame covalente quando:
+La teoria dei **legami di valenza** descrive il legame covalente come la sovrapposizione dei orbitali atomici metà-pieni (1 elettrone per orbitale), che porta alla condivisione di un paio di elettroni nell'area sovrapposta. Per sovrapposizione s'intende che una regione di orbitale di un atomo e una regione di un orbitale di un altro atomo occupano lo stesso spazio. Secondo questa teoria si ha un legame covalente quando:
 1. l'orbitale di un atomo si sovrappone con l'orbitale di un atomo
 2. i singoli elettroni in ogni orbita si combinano per formare una coppia
 
 L'attrazione della coppia di elettroni carica negativamente e dei due nuclei serve per legare fisicamente i due atomi attraverso una forza (legame covalente). La forza di un legame covalente è proporzionale all'estensione di sovrapposizione degli orbitali: maggiore è la sovrapposizione, maggiore sarà la forza di legame. 
 
-L'energia di un sistema dipende anch'esso dalla sovrapposizione, se a t=0 i due atomi hanno energia che per convenzione è 0 perché non ci sono sovrapposizioni. Man mano che i due nuclei iniziano ad avvicinarsi, gli orbitali iniziano a sovrapporsi e gli elettroni provano attrazioni per il rispettivo nucleo dell'altro atomo, ma allo stesso tempo sia gli elettroni che i nuclei si respingono. In questo momento (atomi separati) la forza di attrazione è maggiore di quella di repulsione e gli atomi si avvicinano ancora ed l'energia del sistema diminuisce ed inizia a formarsi un legame. Gli atomi si avvicinano ancora di più aumentando la sovrapposizione, l'attrazione e la repulsione. Ad un certo punto (dipende dagli atomi coinvolti) si raggiunge il punto più basso di energia e gli atomi stanno ad una distanza ideale che è la distanza di legame, l'atomo è stabile. Se si diminuisce ancora la distanza, l'energia aumenta, la repulsione diventerebbe maggiore dell'attrazione e l'atomo diventerebbe instabile. 
+L'energia di un sistema dipende anch'esso dalla sovrapposizione, se a $t=0$ i due atomi hanno energia che per convenzione è 0 perché non ci sono sovrapposizioni. Man mano che i due nuclei iniziano ad avvicinarsi, gli orbitali iniziano a sovrapporsi e gli elettroni provano attrazioni per il rispettivo nucleo dell'altro atomo, ma allo stesso tempo sia gli elettroni che i nuclei si respingono. In questo momento (atomi separati) la forza di attrazione è maggiore di quella di repulsione e gli atomi si avvicinano ancora ed l'energia del sistema diminuisce ed inizia a formarsi un legame. Gli atomi si avvicinano ancora di più aumentando la sovrapposizione, l'attrazione e la repulsione. Ad un certo punto (dipende dagli atomi coinvolti) si raggiunge il punto più basso di energia e gli atomi stanno ad una distanza ideale che è la distanza di legame, l'atomo è stabile. Se si diminuisce ancora la distanza, l'energia aumenta, la repulsione diventerebbe maggiore dell'attrazione e l'atomo diventerebbe instabile.
 
 L'energia di legame è la differenza tra l'energia minima e l'energia dei due atomi separati. Questa è l'energia liberata quando si forma un legame ed è la stessa necessaria a romperne uno. 
 
@@ -287,7 +291,7 @@ I legami multipli consistono sia di legami π che di legami σ. Tra due atomi qu
 
 La teoria dei legami di valenza è in grado di spiegare la formazione di legami in molecole diatomiche, ma per comprendere molecole più complesse c'è bisogno di un modello più dettagliato. Infatti la teoria dei legami di valenza non è in grado di determinare gli angoli di legame di molecole complesse. 
 
-La ψ contiene l'informazione di ogni orbitale e quando gli atomi si uniscono le ψ si combinano e producono nuove descrizioni matematiche che hanno forme diverse. **L'ibridazione** è la combinazione di ψ per gli orbitali atomici. Matematicamente il processo si ottiene attraverso il LCAO. I nuovi orbitali sono detti **orbitali ibridi**. La meccanica quantistica ci da una spiegazione dei risultati sperimentali osservati: la teoria dei legami di valenza deve includere l'ibridazione per dedurre risultati precisi anche per molecole complesse. 
+La ψ contiene l'informazione di ogni orbitale e quando gli atomi si uniscono, le ψ si combinano e producono nuove descrizioni matematiche che hanno forme diverse. **L'ibridazione** è la combinazione di ψ per gli orbitali atomici. Matematicamente il processo si ottiene attraverso il LCAO. I nuovi orbitali sono detti **orbitali ibridi**. La meccanica quantistica ci dà una spiegazione dei risultati sperimentali osservati: la teoria dei legami di valenza deve includere l'ibridazione per dedurre risultati precisi anche per molecole complesse. L'ibridazione avviene grazie all'eccitazione degli elettroni s di valenza, in cui un elettrone dell'orbitale s occupa un orbitale p o d degenero, e avviene l'ibridazione.
 
 - Gli orbitali ibridi esistono solo in molecole legate covalentemente
 - Gli orbitali ibridi hanno orientazione e forme diverse rispetto ai orbitali atomici
@@ -298,37 +302,32 @@ La ψ contiene l'informazione di ogni orbitale e quando gli atomi si uniscono le
 
 ### sp
 
-Il processo di ibridazione coinvolge il mescolamento degli orbitali di valenza s e p e si ottiene un orbitale ibridato sp. Questi orbitali sono orientati con una geometria lineare. Il numero di orbitali atomici è uguale al numero di orbitali ibridi, il set sp contiene due orbitali infatti si sono sovrapposti 1 orbitale s e uno p. I due orbitali appartenenti al set sp stanno a 180° di distanza. Nel caso della presenza di più orbitali sp, essi si sovrappongono. Quando gli orbitali atomici vengono ibridati allora gli elettroni occupano i nuovi orbitali creati. Ogni atomo centrale circondato da due aree di densità elettronica avrà un'ibridazione sp.
+Il processo di ibridazione coinvolge il mescolamento degli orbitali di valenza s e p e delle loro proprietà per ottenere un orbitale ibridato sp. Questi orbitali sono orientati con una geometria lineare. Il numero di orbitali atomici è uguale al numero di orbitali ibridi: il set sp contiene due orbitali, infatti si sono sovrapposti 1 orbitale s e uno p. I due orbitali appartenenti al set sp stanno a 180° di distanza. Nel caso della presenza in cui più orbitali sp si sovrappongono, si creano orbitali molecolari. Quando gli orbitali atomici vengono ibridati allora gli elettroni occupano i nuovi orbitali creati. Ogni atomo centrale circondato da due aree di densità elettronica avrà un'ibridazione sp.
 
 ### sp2
 
-Gli orbitali di valenza dell'atomo centrale circondati da 3 regioni di alta densità elettronica formano un set di orbitali sp2 contenti 3 orbitali sp2 e un orbitale p non ibrido. Il set sp2 è dato da un orbitale s e da 2 orbitali p che producono una disposizione triangolare planare. 
+Gli orbitali di valenza dell'atomo centrale circondati da 3 regioni di alta densità elettronica formano un set di orbitali sp2 contenti 3 orbitali sp e un orbitale p non ibrido. Il set sp2 è dato da un orbitale s e da 2 orbitali p che producono una disposizione triangolare planare.
 
 Ogni atomo centrale circondato da 3 regioni ad alta densità elettronica forma un'ibridazione sp2. 
 
 ### sp3
 
-Gli orbitali di valenza di un atomo circondati da una geometria teraedrica di regioni di alta densità elettronica formano un set di orbitali sp3 contenti 4 orbitali sp3 ibridi. Il set sp3 è dato da un orbitale s e da tutti e i tre orbitali p. Ogni orbitale punta verso un angolo del tetraedro. 
+Gli orbitali di valenza di un atomo circondati da una geometria teraedrica di regioni di alta densità elettronica formano un set di orbitali sp3 contenti 4 orbitali sp ibridi. Il set sp3 è dato da un orbitale s e da tutti e i tre orbitali p. Ogni orbitale punta verso un angolo del tetraedro.
 
 Ogni orbitale sp3 può ospitare anche elettroni non di legame, però essi occupano più spazio e quindi modificano l'angolo di legame. 
 
 ### sp3d e sp3d2
 
-In una geometria bipiramidale triangolare per descrivere gli orbitali di legame, c'è bisogno di usare 5 orbitali atomici (s, 3 p, d) che danno origine ad un seti di orbitali ibridi sp3d, contenenti 5 orbitali ibridi sp3d, che quindi sono solo possibili a partire dal terzo periodo.
+In una geometria bipiramidale triangolare per descrivere gli orbitali di legame, c'è bisogno di usare 5 orbitali atomici (s, 3 p, d) che danno origine ad un set di orbitali ibridi sp3d, contenenti 5 orbitali ibridi sp3d, che quindi sono solo possibili a partire dal terzo periodo.
 
-In una geometria ottaedrica per descrivere gli orbitali di legame, c'è bisogno di usare 6 orbitali atomici (s, 3 p, 2 d) che danno origine ad un seti di orbitali ibridi sp3d2, contenenti 6 orbitali sp3d2, che quindi sono solo possibili a partire dal terzo periodo.
+In una geometria ottaedrica per descrivere gli orbitali di legame, c'è bisogno di usare 6 orbitali atomici (s, 3 p, 2 d) che danno origine ad un set di orbitali ibridi sp3d2, contenenti 6 orbitali sp3d2, che quindi sono solo possibili a partire dal terzo periodo.
 
 ### Assegnazione degli orbitali ibridi agli atomi centrali
 
-L'ibridazione di un atomo dipende dal numero di aree ad alta densità elettronica che lo circondano. Le disposizioni geometriche di ogni orbitale ibrido è uguale a quella della teoria VSEPR, ma la teoria degli orbitali ibridi fornisce una spiegazione su come quelle forme si sono formate. 
+L'ibridazione di un atomo dipende dal numero di aree ad alta densità elettronica che lo circondano. Le disposizioni geometriche di ogni orbitale ibrido è simile a quella della teoria VSEPR, ma la teoria degli orbitali ibridi fornisce una spiegazione su come quelle forme si sono formate.
+### Esempi di ibridazione
 
-Per trovare l'ibridazione dell'atomo centrale:
-1. scrivere le strutture di Lewis della molecola
-2. Determinare le regioni di alta densità elettronica con la teoria VSEPR
-3. Assegnare il rispettivo set di orbitali ibridi
-
-Bisogna ricordare che l'ibridazione è una teoria ideata per spiegare quanto osservato sperimentalmente. Questo modello serve per molecole con atomi centrali piccoli. Atomi centrali grandi hanno meno repulsioni perché gli elettroni sono più distanti e hanno strutture incoerenti con la teoria VSEPR. 
-
+Prendiamo per esempio N. N ha i seguenti orbitali di valenza: $2s^2 \ 2p^3$ e ha il 2s pieno e ogni orbitale 2p ha un solo elettrone su due, quindi la sua ibridazione sarà del tipo sp3 perché ha a disposizione 1 orbitale s e 3 orbitale p. La geometria molecolare sarà piramidale triangolare perché l'ibridazione sp3 è formata da 3 orbitali sp metà pieni e che possono fare legami, e da 1 orbitale sp pieno (coppia solitaria), che potrebbe fare un legame dativo perché N ha un elettronegatività di 3.03, come infatti succede quando $NH_3$ diventa un acido di Lewis ($NH_4^+$). Allo stesso modo, N può formare orbitali sp2 ed sp.
 ## Legami multipli
 
 I legami singoli sono costituiti da legami σ, mentre i legami multipli sia da legami σ e da legami π. La rotazione attorno ai legami σ (asse internucleare) avviene facilmente perché la rotazione non cambia l'estensione della sovrapposizione degli orbitali e questo perché il legame è simmetrico rispetto l'esse. Nei legami multipli invece la rotazione è molto più difficile e se accadesse modificherebbe la sovrapposizione ed i legami π si romperebbero. 
@@ -363,7 +362,7 @@ Le energie degli orbitali molecolari sono rappresentate dai diagrammi degli orbi
 
 L'ordine di legame è la contribuzione degli elettroni per la forza di legame di una molecola (In MO). Nelle strutture di Lewis, l'ordine di legame è il numero di coppie di elettroni in un legame. Entrambi descrivono lo stesso fenomeno ed il risultato è uguale, ma la MO può anche esaminare casi particolari. Nella MO un elettrone contribuisce ad una interazione di legame quando occupa un orbitale di legame, invece un elettrone contribuisce ad una interazione di anti-legame quando occupa un orbitale di anti-legame e quindi per ottenere l'ordine di legame bisogna sottrarre agli elettroni di legame quelli di anti-legame e divedere per due (un legame consiste di due elettroni). 
 
-$ordine\ di \ legame = {elettroni_{legame} - elettroni_{anti-legame}\over 2}$
+$ordine\> di \> legame = {elettroni_{legame} - elettroni_{anti-legame}\over 2}$
 
 L'ordine di legame indica la forza di un legame, maggiore è l'ordine, maggiore è la forza di legame. Se l'ordine di legame è uguale a zero allora non si forma un legame stabile. 
 
