@@ -22,7 +22,7 @@ La **polarizzabilità**  è la misura di quanto è difficile per una carica elet
 
 La forma di una molecola contribuisce alla forza di un forza di dispersione. La forza è proporzionale alla quantità di superficie disponibile per i contatti con altre molecole. 
 
-![forze di dispersione](/Users/egorskvortsov/Downloads)
+![forze di dispersione](/Users/egorskvortsov/Downloads/legami_intermolecolari_3.png)
 
 ### Attrazioni dipolo-dipolo
 
