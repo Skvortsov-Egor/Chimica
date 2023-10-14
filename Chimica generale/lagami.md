@@ -304,17 +304,29 @@ La ψ contiene l'informazione di ogni orbitale e quando gli atomi si uniscono, l
 
 Il processo di ibridazione coinvolge il mescolamento degli orbitali di valenza s e p e delle loro proprietà per ottenere un orbitale ibridato sp. Questi orbitali sono orientati con una geometria lineare. Il numero di orbitali atomici è uguale al numero di orbitali ibridi: il set sp contiene due orbitali, infatti si sono sovrapposti 1 orbitale s e uno p. I due orbitali appartenenti al set sp stanno a 180° di distanza. Nel caso della presenza in cui più orbitali sp si sovrappongono, si creano orbitali molecolari. Quando gli orbitali atomici vengono ibridati allora gli elettroni occupano i nuovi orbitali creati. Ogni atomo centrale circondato da due aree di densità elettronica avrà un'ibridazione sp.
 
+![sp](/chimica_images/legame_singolo.png)
+
+![sp](/chimica_images/sp.png)
+
 ### sp2
 
 Gli orbitali di valenza dell'atomo centrale circondati da 3 regioni di alta densità elettronica formano un set di orbitali sp2 contenti 3 orbitali sp e un orbitale p non ibrido. Il set sp2 è dato da un orbitale s e da 2 orbitali p che producono una disposizione triangolare planare.
 
-Ogni atomo centrale circondato da 3 regioni ad alta densità elettronica forma un'ibridazione sp2. 
+Ogni atomo centrale circondato da 3 regioni ad alta densità elettronica forma un'ibridazione sp2.
+
+![legame](/chimica_images/legami_doppio.png)
+
+![sp2](/chimica_images/sp2.png)
 
 ### sp3
 
 Gli orbitali di valenza di un atomo circondati da una geometria teraedrica di regioni di alta densità elettronica formano un set di orbitali sp3 contenti 4 orbitali sp ibridi. Il set sp3 è dato da un orbitale s e da tutti e i tre orbitali p. Ogni orbitale punta verso un angolo del tetraedro.
 
 Ogni orbitale sp3 può ospitare anche elettroni non di legame, però essi occupano più spazio e quindi modificano l'angolo di legame. 
+
+![sp](/chimica_images/legame_triplo.png)
+
+![sp](/chimica_images/sp3.png)
 
 ### sp3d e sp3d2
 
