@@ -22,7 +22,7 @@ La **polarizzabilità**  è la misura di quanto è difficile per una carica elet
 
 La forma di una molecola contribuisce alla forza di un forza di dispersione. La forza è proporzionale alla quantità di superficie disponibile per i contatti con altre molecole. 
 
-![forze di dispersione](chimica_images/Forze_di_London.png)
+![forze di dispersione](/chimica_images/Forze_di_London.png)
 
 ### Attrazioni dipolo-dipolo
 
@@ -32,7 +32,7 @@ Le attrazioni dipolo-dipolo sono attrazioni forti e hanno una forza maggiore ris
 
 Attrazioni dipolo-dipolo sono attrazioni tra molecole polari.
 
-![attrazioni dipolo-dipolo](chimica_images/dipolo_dipolo.png)
+![attrazioni dipolo-dipolo](/chimica_images/dipolo_dipolo.png)
 
 ### Legami a ponte idrogeno
 
@@ -46,7 +46,7 @@ L'effetto dei legami a idrogeno è visibili su sostanze liquide e solide. Man ma
 
 Un dipolo permanente (molecola covalente) influenza gli elettroni un'altra molecola (polare o apolare) e lo trasforma in dipolo indotto. La forza di questa interazione è più debole di un'attrazione dipolo-dipolo. 
 
-![dipolo permanente - dipolo indotto](chimica_images/dipolo-permanente_dipolo-indotto.png)
+![dipolo permanente - dipolo indotto](/chimica_images/dipolo-permanente_dipolo-indotto.png)
 
 ## Proprietà dei liquidi
 
