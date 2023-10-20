@@ -162,7 +162,7 @@ Esiste una forma alternativa per determinare Ea in cui si misura k a diverse tem
 $$ln{k_1\over k_2} = {−Ea\over R}\cdot ({1\over T_1}-{1\over T_2}) + ln A \implies
 y = mx + q$$
 
-Il grafico di questa equazione è una retta dove m è uguale a e q è In A.
+Il grafico di questa equazione è una retta dove m è uguale a ${−Ea\over R}$ e q è uguale a $ln(A)$.
 
 ## Meccanismi di reazione
 
