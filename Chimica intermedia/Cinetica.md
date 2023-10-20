@@ -159,7 +159,7 @@ La reazione è istantanea quando in un verso il sistema non ha abbastanza energi
 
 Esiste una forma alternativa per determinare Ea in cui si misura k a diverse temperature:
 
-$$ln k = {−Ea\over R}\cdot ({1\over T_i}-{1\over T_f}) + ln A \implies
+$$ln{k_1\over k_2} = {−Ea\over R}\cdot ({1\over T_1}-{1\over T_2}) + ln A \implies
 y = mx + q$$
 
 Il grafico di questa equazione è una retta dove m è uguale a e q è In A.
@@ -172,9 +172,8 @@ Il **meccanismo di reazione** è il processo (o la via) con cui una reazione si 
 
 La **molecolarità** è il numero di particelle reagenti in una reazione elementare. Una **reazione unimolecolare** coinvolge una singola particella reagente per produrre una o più molecole di prodotto:
 
-$$A -> prodotto$$
-
-$$Velocità = k[A]$$
+$$A \rightarrow prodotto \implies
+Velocità = k[A]$$
 
 Una reazione unimolecolare potrebbe essere una reazione elementare, ma anche una reazione complessiva. La velocità di reazione di una reazioni unimolecolare è proporzionale alla concentrazione dei reagenti. 
 
@@ -182,10 +181,10 @@ Una reazione unimolecolare potrebbe essere una reazione elementare, ma anche una
 
 **Una reazione bimolecolare** è la combinazione di due particelle per formare un complesso attivato in una reazione elementare:
 
-$$A + B -> prodotto \implies
+$$A + B \rightarrow prodotto \implies
 velocità = k[A][B]$$
 
-$$2A -> prodotto \implies
+$$2A \rightarrow prodotto \implies
 velocità = k[A]^2$$
 
 Reazione bimolecolari potrebbero essere anche reazioni complessive.
@@ -194,7 +193,7 @@ Reazione bimolecolari potrebbero essere anche reazioni complessive.
 
 Una **reazione elementare trimolecolare** è la collisione tra 3 particelle nello stesso istante. Queste reazioni sono molto rare perché la probabilità che 3 particelle urtino simultaneamente è molto bassa (probabilità di meno di un millesimo rispetto a due particelle). 
 
-$$2A + B -> prodotto \implies
+$$2A + B \rightarrow prodotto \implies
 velocità = k[A]^2[B]$$
 
 ### Correlazione dei meccanismi di reazione alle leggi di velocità
