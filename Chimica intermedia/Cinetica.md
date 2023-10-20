@@ -83,18 +83,18 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
 
 ### L'emivita di una reazione
 
-**L'emivita di una reazione ($t {1\over2}$)** è il tempo necessario per consumare metà di un reagente. Nella successiva emivita della reazione, la restante concentrazione del reagente viene consumato. 
+**L'emivita di una reazione ($t_{1\over2}$)** è il tempo necessario per consumare metà di un reagente. Nella successiva emivita della reazione, la restante concentrazione del reagente viene consumato. 
 
 - **Reazioni di primo ordine:**
 
   $$ln[A] = (−k)\cdot (t) + ln[A]0
   t = In({[A_0]\over [A]})\cdot {1\over k}$$
 
-  quindi se $t {1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$
+  quindi se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$
   $$\implies
-  t {1\over2} = In({[A_0]\over {1\over 2}[A_0]})\cdot {1\over k}
-  t {1\over2} = In2\cdot {1\over k}
-  t {1\over2} = {0.693\over k}$$
+  t_{1\over2} = In({[A_0]\over {1\over 2}[A_0]})\cdot {1\over k}
+  t_{1\over2} = In2\cdot {1\over k}
+  t_{1\over2} = {0.693\over k}$$
 
   L'emivita di una reazione di primo ordine è inversamente proporzionale a k, maggiore è k, maggiore è la velocità di reazione.
 
