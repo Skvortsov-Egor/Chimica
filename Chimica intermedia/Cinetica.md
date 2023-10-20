@@ -87,7 +87,7 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
 
 - **Reazioni di primo ordine:**
 
-  $$ln[A] = (−k)\cdot (t) + ln[A]0 \implies
+  $$ln[A] = (−k)\cdot (t) + ln[A_0] \implies
   t = In({[A_0]\over [A]})\cdot {1\over k}$$
 
   quindi se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$
@@ -130,10 +130,10 @@ Le particelle urtano tra di loro prima di reagire tra di loro, questo perché gl
 La teoria degli urti si basa su 3 postulati:
 
 1. La velocità di reazione è proporzionale alla frequenza di urti.
-2. I reagenti urtano con una orientazione che permette il contatto tra gli atomi che si legheranno insieme nel prodotto.
+2. I reagenti urtano con una orientazione tale da permette il contatto tra gli atomi che si legheranno insieme nel prodotto.
 3. L'urto deve avvenire con un'energia tale da permettere la sovrapposizione degli elettroni di valenza, così che loro possano disporsi in modo da formare un legame.
 
-I punti 2 e 3 sono entrambi necessari per la formazione di un prodotto, perché se non è soddisfatta anche solo 1 delle condizioni, non ci sarà la formazione del prodotto. Anche se gli atomi sono orientati nel verso giusto, potrebbero non dare origine al prodotto. Le disposizioni che esistono momentaneamente tra reagenti e prodotti, che sono molto instabili e vengono chiamate **complessi attivato** o **stati di transizione**. Nella maggior parte dei casi è impossibile identificare ed isolare gli stati di transizione. 
+I punti 2 e 3 sono entrambi necessari per la formazione di un prodotto, perché se non è soddisfatta anche solo una delle condizioni, non ci sarà la formazione del prodotto. Anche se gli atomi sono orientati nel verso giusto, potrebbero non dare origine al prodotto. Le disposizioni che esistono momentaneamente tra reagenti e prodotti, che sono molto instabili e vengono chiamate **complessi attivato** o **stati di transizione**. Nella maggior parte dei casi è impossibile identificare ed isolare gli stati di transizione.
 
 La teoria delle collisioni spiega perché la velocità di reazione aumenta con la concentrazione: con una concentrazione più alta, aumenta il numero di molecole per unità di volume e quindi c'è una maggiore possibilità che le molecole urtino, che aumenta la velocità di reazione. 
 
@@ -143,15 +143,15 @@ La teoria delle collisioni spiega perché la velocità di reazione aumenta con l
 
 Se l'energia di attivazione è molto più grande dell'energia cinetica media delle molecole, la reazione sarà lenta: solo poche molecole veloci avranno l'energia necessaria per reagire. Se invece l'energia di attivazione è molto più piccola dell'energia cinetica media delle molecole, la reazione sarà veloce, questo perché ci sarà una grande parte delle molecole che possiede l'energia necessaria per reagire. 
 
-A + B -> C + D
+$$A + B -> C + D$$
 
 Per raggiungere lo stato di transizione (per far avvenire la reazione), l'energia necessaria è uguale a quella di attivazione, quindi la somma dell'energia cinetica di A e B deve essere maggiore o uguale all'energia di attivazione, dopodiché i reagenti cominciano a formare i prodotti C e D e il sistema inizia a perdere energia che viene trasferita alle altre molecole per raggiungere lo stato di transizione. La somma tra il ∆H di reazione e l'energia di attivazione è uguale all'energia di attivazione della reazione inversa. 
 
 **L'equazione di Arrhenius** permette di ricavare l'energia di attivazione e la costante di velocità k:
 
-$k = Ae^{-Ea\over RT}$
+$$k = Ae^{-Ea\over RT}$$
 
-A è una costante detta **fattore di frequenza** che dipende dalla frequenza degli urti e dall'orientazione dei reagenti. e è una costante uguale a 2.7183. 
+A è una costante detta **fattore di frequenza** che dipende dalla frequenza degli urti e dall'orientazione dei reagenti. E è una costante uguale a 2.7183. 
 
 L'equazione spiega i postulati della teoria degli urti: A spiega la velocità con cui si verificano le collisioni con l'orientamento corretto, invece e spiega la frequenza degli urti che forniscono l'energia di attivazione per la reazione. 
 
@@ -159,22 +159,22 @@ La reazione è istantanea quando in un verso il sistema non ha abbastanza energi
 
 Esiste una forma alternativa per determinare Ea in cui si misura k a diverse temperature:
 
-$ln k = {(−Ea\over R)}\cdot {(1\over T)} + ln A$
-y = mx + q
+$$ln k = {(−Ea\over R)}\cdot {(1\over T)} + ln A \implies
+y = mx + q$$
 
 Il grafico di questa equazione è una retta dove m è uguale a e q è In A.
 
 ## Meccanismi di reazione
 
-Il **meccanismo di reazione** è il processo (la via) con cui una reazione si verifica. Ogni reazione avviene in più passaggi, che vengono detti **reazione elementari**, queste reazioni non sono sempre osservabili. Le reazioni elementari si verificano proprio come sono scritte e non possono essere scomposte in reazioni più piccole. Gli **intermediari** sono quelle particelle che sono prodotte in un passaggio, ma vengono consumate in un altro e quindi non appaiono nella reazione complessiva. 
+Il **meccanismo di reazione** è il processo (o la via) con cui una reazione si verifica. Ogni reazione avviene in più passaggi, che vengono detti **reazione elementari**, queste reazioni non sono sempre osservabili. Le reazioni elementari si verificano proprio come sono scritte e non possono essere scomposte in reazioni più piccole. Gli **intermediari** sono quelle particelle che sono prodotte in un passaggio, ma vengono consumate in un altro e quindi non appaiono nella reazione complessiva. 
 
 ### Reazioni elementari unimolecolari
 
 La **molecolarità** è il numero di particelle reagenti in una reazione elementare. Una **reazione unimolecolare** coinvolge una singola particella reagente per produrre una o più molecole di prodotto:
 
-A -> prodotto
+$$A -> prodotto$$
 
-Velocità = k[A]
+$$Velocità = k[A]$$
 
 Una reazione unimolecolare potrebbe essere una reazione elementare, ma anche una reazione complessiva. La velocità di reazione di una reazioni unimolecolare è proporzionale alla concentrazione dei reagenti. 
 
@@ -182,11 +182,11 @@ Una reazione unimolecolare potrebbe essere una reazione elementare, ma anche una
 
 **Una reazione bimolecolare** è la combinazione di due particelle per formare un complesso attivato in una reazione elementare:
 
-A + B -> prodotto
-velocità = k[A][B]
+$$A + B -> prodotto \implies
+velocità = k[A][B]$$
 
-2A -> prodotto
-velocità = k[A]^2
+$$2A -> prodotto \implies
+velocità = k[A]^2$$
 
 Reazione bimolecolari potrebbero essere anche reazioni complessive.
 
@@ -194,9 +194,8 @@ Reazione bimolecolari potrebbero essere anche reazioni complessive.
 
 Una **reazione elementare trimolecolare** è la collisione tra 3 particelle nello stesso istante. Queste reazioni sono molto rare perché la probabilità che 3 particelle urtino simultaneamente è molto bassa (probabilità di meno di un millesimo rispetto a due particelle). 
 
-2A + B -> prodotto
-
-velocità = k[A]^2[B]
+$$2A + B -> prodotto \implies
+velocità = k[A]^2[B]$$
 
 ### Correlazione dei meccanismi di reazione alle leggi di velocità
 
