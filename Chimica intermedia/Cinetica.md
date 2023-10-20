@@ -10,7 +10,7 @@ La velocità è la misura di come una proprietà varia nel tempo. La velocità d
 
 La velocità di reazione è determinata da una proprietà (come conduttività, assorbimento luminoso, moli...) collegata ai reagenti o ai prodotti in un ∆t. Per i reagenti e i prodotti in soluzione, è possibile esprime la velocità di reazione tramite l'uso delle concentrazioni. La velocità di reazione è espressa come il rapporto tra la variazione di concentrazione dei prodotti in un intervallo di tempo:
 
-$$velocità \ reazione} = -{∆[M]\over ∆t}$$
+$$velocità \ reazione = -{∆[M]\over ∆t}$$
 
 $$xA + yB \rightarrow zC + wD$$
 
