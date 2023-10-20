@@ -10,15 +10,16 @@ La velocità è la misura di come una proprietà varia nel tempo. La velocità d
 
 La velocità di reazione è determinata da una proprietà (conduttività, assorbimento luminoso, moli...) collegata ai reagenti o prodotti in un ∆t. Per reagenti e prodotti in soluzione per esprime la velocità di reazione sono utili usare le concentrazioni. La velocità di reazione è espressa come il rapporto tra la variazione di concentrazione dei prodotti in un intervallo di tempo:
 
-$velocità_{reazione} = -{∆[M]\over ∆t}$
+$$velocità \ reazione} = -{∆[M]\over ∆t}$$
 
 $$xA + yB \rightarrow zC + wD$$
 
-$velocità \ reazione = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$
+$$velocità \ di \ reazione = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$$
 
-il - davanti è una convenzione se il ∆[M] è negativo (reagenti, positivo per i prodotti), perché per convenzione le concentrazioni sono positive. La **velocità media** è la velocità di reazione che si ottiene considerando un intervallo di tempo uguale a tutta la durata della reazione. **La velocità istantanea** invece è la velocità di reazione in un momento particolare della reazione, infine la **velocità al tempo zero** è la velocità di reazione all'inizio della reazione. Per individuare la velocità istantanea si possono usare due metodi.
-- se la reazione lo permette: la concentrazione cambia in un piccolo ∆t, allora la velocità media è una buona approssimazione
-- possiamo creare un grafico della reazione e per determinare la velocità istantanea possiamo tracciare la tangente al punto in t di cui voliamo trovare la velocità istantanea. La pendenza della tangente è la velocità istantanea.
+il - davanti è una convenzione se il ∆[M] è negativo (ovvero per i reagenti, invece è positivo per i prodotti), perché per convenzione le concentrazioni sono positive. La **velocità media** è la velocità di reazione che si ottiene considerando un intervallo di tempo uguale a tutta la durata della reazione. **La velocità istantanea** invece è la velocità di reazione in un momento particolare della reazione, infine la **velocità al tempo zero** è la velocità di reazione all'inizio della reazione. Per individuare la velocità istantanea si possono usare due metodi diversi:
+- se la reazione lo permette: la concentrazione cambia in un piccolo ∆t, allora la velocità media è una buona approssimazione per la velocità istantanea
+
+- possiamo creare un grafico della reazione e per determinare la velocità istantanea possiamo tracciare la tangente al punto in t di cui voliamo trovare la velocità istantanea. La pendenza della tangente è uguale alla velocità istantanea.
 
 ## Fattori che influenzano la velocità di reazione
 
