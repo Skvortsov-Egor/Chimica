@@ -55,27 +55,27 @@ Le **leggi di velocità integrate** mettono in relazione la concentrazione di un
 - **Reazione di primo ordine:**
 
 $$In{([A_0]\over [A_t])} = kt\implies
-ln[A] = (−k)\cdot (t) + ln[A]_0
+ln[A_t] = (−k)\cdot (t) + ln[A]_0
 \implies
 y = mx + q$$
 
-A0 è la concentrazione iniziale, mentre At è la concentrazione del reagente al tempo t. Dall'ultima relazione si intuisce che il grafico per una reazione di primo ordine è una retta con pendenza uguale -k e termine noto $ln[A]0$. 
+$A_0$ è la concentrazione iniziale, mentre $A_t$ è la concentrazione del reagente al tempo t. Dall'ultima relazione si intuisce che il grafico per una reazione di primo ordine è una retta con pendenza uguale -k e termine noto $ln[A]0$. 
 
 - **Reazioni di secondo ordine:**
 
 Le equazioni di reazioni di secondo ordine sono molto complicate, il caso più semplice include la dipendenza della velocità di reazione sulla concentrazione di un solo reagente:
 
-$${1\over [A]} = kt + {1\over [A_0]}
+$${1\over [A_t]} = kt + {1\over [A_0]}
 \implies
 y = mx + q$$
 
-Il grafico di una reazione di secondo ordine è una retta con coefficiente angolare k e termine not ${1\over [A_0]}$.
+Il grafico di una reazione di secondo ordine è una retta con coefficiente angolare k e termine noto ${1\over [A_0]}$.
 
 - **Reazione di ordine zero:**
 
 Una reazione di ordine zero, ha sempre la stessa velocità di reazione, indipendentemente dalla concentrazione dei suoi reagenti (velocità = k). 
 
-$$[A] = −kt + [A]_0
+$$[A_t] = −kt + [A_0]
 \implies
 y = mx + q$$
 
