@@ -31,7 +31,7 @@ Un grande valore di Kc indica che l'equilibrio è stato raggiunto solo dopo che 
 
 Spesso si omette l'unità di misura parlando di Qc e Kc. L'uso delle concentrazioni nel determinare il Qc e Kc è una convenzione, ma un approccio semplificato perché a volte va in conflitto con il fatto che il Qc all'equilibrio rimane costante: esso varia all'equilibrio quando si usano alte concentrazioni di soluzione, questo si può evitare usando le **attività**: la misura della concentrazione effettiva di una sostanza sotto specifiche condizioni. Le attività sono adimensionali  e sono concentrazioni "corrette"; per una soluzione diluita la molarità corrisponde all'attività; le attività per solidi e liquidi puri sono uguale a 1.
 
-Per ottenere la k di una reazione complessiva basta moltiplicare le k delle reazioni che la compongono. Nel caso in cui K << 1, i reagenti saranno la maggioranza, mentre se k >> 1 i prodotti saranno la maggioranza. Per ricavare il K (sia che sia Kc, che Kp) bisogna costruire una tabella **ICE**: in cui nella prima riga si scrivono le concentrazioni/pressioni iniziali (I), nell'ultima quelle all'equilibrio (E) e in mezzo si scrive la differenza con un'equazione tra la concentrazione inizale e finale, moltiplicate per il rispettivo coefficiente (non di reazione) in funzione di una variabile con cui si passa da I a E, e se  si ha sia la I che E di un composto si può ricavare quella variabile da cui si ricava E per gli altri composti e con tutte le E si ricava Kc o Kp.
+Per ottenere la k di una reazione complessiva basta moltiplicare le k delle reazioni che la compongono. Nel caso in cui K << 1, i reagenti saranno la maggioranza, mentre se k >> 1 i prodotti saranno la maggioranza. Per ricavare il K (sia che sia Kc, che Kp) bisogna costruire una tabella **ICE**: in cui nella prima riga si scrivono le concentrazioni/pressioni iniziali (I), nell'ultima quelle all'equilibrio (E) e in mezzo si scrive la differenza espressa tramite una variabile elevata per il rispettivo coefficiente stechiometrico, e se si ha sia la I che E di un composto si può ricavare la variabile scrivendo un'equazione tra I, C ed E, da cui si ricava E per un composto ed il risultato può essere usato per trovare anche le restanti E, con cui succesivamente si ricava Kc o Kp.
 
 ### Equilibri omogenei
 
@@ -42,9 +42,9 @@ $$nA + mB ⇌ xC + yD$$
 
 $$K_p = {P_C^x\cdot P_D^y\over P_A^n\cdot P_B^m}$$
 $$K_p = {([C]\cdot RT)^x\cdot ([D]\cdot RT)^y\over ([A]\cdot RT)^n\cdot ([B]\cdot RT)^m}$$
-$$K_p = {[C]^x\cdot [D]^y\over [A]^n\cdot [B]^m} x {RT^x+y\over RT^n+m}$$
+$$K_p = {[C]^x\cdot [D]^y\over [A]^n\cdot [B]^m}\cdot {RT^x+y\over RT^n+m}$$
 $$K_p = K_c\cdot (RT)^{(x+y)-(n+m)}$$
-$$K_p =  K_c\cdot (RT)^{∆n}$$
+$$K_p = K_c\cdot (RT)^{∆n}$$
 
 $$∆n = (x+y) − (m+n)$$
 
