@@ -92,35 +92,34 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
 
   quindi se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$
   $$\implies
-  t_{1\over2} = In({[A_0]\over {1\over 2}[A_0]})\cdot {1\over k}
-  t_{1\over2} = In2\cdot {1\over k}
+  t_{1\over2} = In({[A_0]\over {1\over 2}[A_0]})\cdot {1\over k} \implies
+  t_{1\over2} = In2\cdot {1\over k} \implies
   t_{1\over2} = {0.693\over k}$$
 
   L'emivita di una reazione di primo ordine è inversamente proporzionale a k, maggiore è k, maggiore è la velocità di reazione.
 
    - **Reazioni di secondo ordine:**
 
-  ${1\over [A]} − {1\over [A_0]} =kt$
+  $${1\over [A]} − {1\over [A_0]} =kt$$
 
-  Se t 1/2, allora [A] sarà uguale ${1\over 2}[A_0]$
-  =>
-  ${1\over {1\over 2}[A_0]} − {1\over [A_0]} =kt(1/2)$
-  $2[A] − {1\over [A_0]} =kt(1/2)$
-  ${1\over [A_0]} =kt(1/2)$
-  $t(1/2) = {1\over [A_0]\cdot k}$
+  Se $t_{1\over 2}$, allora [A] sarà uguale ${1\over 2}[A_0]$:
+  $${1\over {1\over 2}[A_0]} − {1\over [A_0]} =kt(1/2) \implies
+  2[A] − {1\over [A_0]} =kt(1/2) \implies
+  {1\over [A_0]} =kt(1/2) \implies
+  t(1/2) = {1\over [A_0]\cdot k}$$
 
   L'emivita di una reazione di secondo ordine è inversamente proporzionale a alla concentrazione del reagente, l'emivita
 aumenta con il procedere della reazione perché la concentrazione del reagente diminuisce. Non si può calcolare k da questa equazione, a meno che non si sappia [A_0].
 
 - **Reazioni di ordine zero:**
 
-$[A] = −kt + [A]0$
+$$[A] = −kt + [A]0$$
 
-Se t 1/2, allora [A] sarà uguale ${1\over 2}[A_0]$
-=>
-${1\over 2}[A_0] = −kt(1/2) + [A]0$
-$kt(1/2) = {[A_0]\over 2}$
-$t(1/2) = {[A_0]\over 2k}$
+Se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$:
+
+$${1\over 2}[A_0] = −kt(1/2) + [A]0 \implies
+kt(1/2) = {[A_0]\over 2} \implies
+t(1/2) = {[A_0]\over 2k}$$
 
 L'emivita aumenta, se aumenta la concentrazione iniziale. 
 
