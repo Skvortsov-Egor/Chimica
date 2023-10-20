@@ -12,11 +12,12 @@ La velocità di reazione è determinata da una proprietà (come conduttività, a
 
 $$velocità \ reazione = -{∆[M]\over ∆t}$$
 
+
 $$xA + yB \rightarrow zC + wD$$
 
 $$velocità \ di \ reazione = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$$
 
-il - davanti è una convenzione se il ∆[M] è negativo (ovvero per i reagenti, invece è positivo per i prodotti), perché per convenzione le concentrazioni sono positive. La **velocità media** è la velocità di reazione che si ottiene considerando un intervallo di tempo uguale a tutta la durata della reazione. **La velocità istantanea** invece è la velocità di reazione in un momento particolare della reazione, infine la **velocità al tempo zero** è la velocità di reazione all'inizio della reazione. Per individuare la velocità istantanea si possono usare due metodi diversi:
+Il "-" davanti è una convenzione se il ∆[M] è negativo (ovvero per i reagenti, invece è positivo per i prodotti), perché per convenzione le concentrazioni sono positive. La **velocità media** è la velocità di reazione che si ottiene considerando un intervallo di tempo uguale a tutta la durata della reazione. **La velocità istantanea** invece è la velocità di reazione in un momento particolare della reazione, infine la **velocità al tempo zero** è la velocità di reazione all'inizio della reazione. Per individuare la velocità istantanea si possono usare due metodi diversi:
 - se la reazione lo permette: la concentrazione cambia in un piccolo ∆t, allora la velocità media è una buona approssimazione per la velocità istantanea
 
 - possiamo creare un grafico della reazione e per determinare la velocità istantanea possiamo tracciare la tangente al punto in t di cui voliamo trovare la velocità istantanea. La pendenza della tangente è uguale alla velocità istantanea.
@@ -25,9 +26,9 @@ il - davanti è una convenzione se il ∆[M] è negativo (ovvero per i reagenti,
 
 La velocità di reazione è influenzata principalmente da 5 fattori:
 
-- **Natura chimica dei reagenti:** La velocità di reazione dipende dalla natura delle sostanze coinvolte nella reazione: reazioni simili potrebbero avere diverse velocità di reazione causa della natura delle sostanze. 
+- **Natura chimica dei reagenti:** La velocità di reazione dipende dalla natura delle sostanze coinvolte nella reazione: reazioni simili potrebbero avere velocità di reazione diverse a causa della natura chimica delle sostanze.
 
-- **Lo stato di suddivisione dei reagenti:** Senza considerare le soluzioni e i composti gassosi, le reazioni si verificano tra due fasi e la velocità di reazione dipende dal contatto superficiale tra di loro. Maggiore è la superficie, maggiore sarà la velocità di reazione. 
+- **Lo stato di suddivisione dei reagenti:** Senza considerare le soluzioni e i composti gassosi, le reazioni si verificano tra due fasi e la velocità di reazione dipende dal contatto superficiale tra di loro: maggiore è la superficie a contatto, maggiore sarà la velocità di reazione.
 
 - **Temperature dei reagenti:** Reazioni si verificano con velocità maggiore a temperature maggiori. In un sistema omogeneo alzando la temperatura di 10°, raddoppia la velocità di reazione. 
 
@@ -41,9 +42,9 @@ Le **leggi di reazione** descrivono matematicamente il rapporto tra la velocità
 
 $$velocità = k[A]^m[B]^n...$$
 
-Dove A e B sono le concentrazioni dei reagenti, k è la costante di velocità che dipende dalla reazione e dalla temperatura. K e gli esponenti (normalmente positivi, negativi se la concentrazione aumenta) si determinano sperimentalmente osservando come varia la velocità di reazione al variare della concentrazione dei reagenti. K è indipendente dalla concentrazione dei reagenti, ma dipende dalla temperatura e dalla area superficiale. Gli esponenti in una legge di velocità descrivono gli effetti della concentrazione del reagente sulla velocità di reazione. Essi definiscono **l'ordine di reazione**. Se l'ordine di reazione è uguale a zero, la concentrazione del reagente non influisce sulla velocità di reazione. **L'ordine di reazione totale** è la somma degli ordini di reazioni. 
+Dove A e B sono le concentrazioni dei reagenti e k è la costante di velocità che dipende dalla reazione e dalla temperatura. K e gli esponenti (normalmente positivi, negativi se la concentrazione aumenta) si determinano sperimentalmente osservando come varia la velocità di reazione al variare della concentrazione dei reagenti. K è indipendente dalla concentrazione dei reagenti, ma dipende dalla temperatura e dall'area superficiale. Gli esponenti in una legge di velocità descrivono gli effetti della concentrazione del reagente sulla velocità di reazione. Essi definiscono **l'ordine di reazione**. Se l'ordine di reazione è uguale a zero, la concentrazione del reagente non influisce sulla velocità di reazione. **L'ordine di reazione totale** è la somma degli ordini di reazioni.
 
-Per determinare la legge di velocità bisogna scrivere un'equazione che mette in relazione un rapporto tra le velocità di reazione e un rapporto di un reagente di cui si vuole trovare l'esponente. Questi rapporti si determinano a partire dai valori sperimentali in cui gli altri reagenti sono costanti per quel determinato momento. Questo si esegue per ogni reagente ed una volta trovati i singoli ordini di reazione si può scrivere la legge di velocità. Per determinare k si isola k e se la si determina.
+Per determinare la legge di velocità bisogna scrivere un'equazione in cui il primo membro è il rapporto tra le velocità di reazione in due isatanti fissati, mentre al secondo membro si scrive un rapporto di un reagente, di cui si vuole trovare l'esponente, in due istanti diversi che sono gli stessi istanti scelti per le velocità di reazione. Questi rapporti si determinano a partire dai valori sperimentali. I due istanti che si scelgono devono essere tali che gli altri reagenti in quei due istanti mantengono costante la loro concentrazione. Questo si esegue per ogni reagente ed una volta trovati i singoli ordini di reazione si può scrivere la legge di velocità. Se c'è la possibilità ceh ci sia un catalizzatore, si esegue sempre la stessa procedura. Per determinare k si inseriscono i valori per un qualsiasi istante nella formula della velocità di reazione e si trova k isolandola.
 
 Le unita di misura di k sono determinate dall'ordine di reazione: $mol^{[1−(m+n)]} L^{[(m+n)−1]} s^{−1}$.
 
