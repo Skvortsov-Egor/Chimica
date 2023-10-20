@@ -87,7 +87,7 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
 
 - **Reazioni di primo ordine:**
 
-  $$ln[A] = (−k)\cdot (t) + ln[A]0
+  $$ln[A] = (−k)\cdot (t) + ln[A]0 \implies
   t = In({[A_0]\over [A]})\cdot {1\over k}$$
 
   quindi se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$
@@ -109,7 +109,7 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
   t_{1\over2} = {1\over [A_0]\cdot k}$$
 
   L'emivita di una reazione di secondo ordine è inversamente proporzionale a alla concentrazione del reagente, l'emivita
-aumenta con il procedere della reazione perché la concentrazione del reagente diminuisce. Non si può calcolare k da questa equazione, a meno che non si sappia [A_0].
+aumenta con il procedere della reazione perché la concentrazione del reagente diminuisce. Non si può calcolare k da questa equazione, a meno che non si sappia $[A_0]$.
 
 - **Reazioni di ordine zero:**
 
