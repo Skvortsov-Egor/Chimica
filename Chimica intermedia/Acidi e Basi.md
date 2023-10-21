@@ -5,16 +5,16 @@
 ## Acidi e basi di Brønsted-Lowry
 
 Non esistono sostanze acido o basiche, ma sostanze che si comportano da acido o da base in una reazione:
- Un **acido Brønsted-Lowry** è un composto che dona un protone, invece una sostanza che riceve un protone è una **base di Brønsted-Lowry**. In una reazione acido-base l'acido cede un protone e la base l'accetta. 
+ Un **acido di Brønsted-Lowry** è un composto che dona un protone, invece una sostanza che riceve un protone è una **base di Brønsted-Lowry**. In una reazione acido-base l'acido cede un protone e la base l'accetta.
 
 Un **acido di Arrhenius** è invece una sostanza che quando disciolta in acqua libera ioni idronio. Una **base di Arrhenius** invece è una sostanza che quando disciolta in acqua libera ioni idrossido. Basi e acido forti vengono dissociati completamente. 
 
 Ogni acido ha la sua base complementare e ogni base ha il suo acido complementare:
  La **base complementare** di un acido è il prodotto che si ottiene quando la sostanza dona un protone. **L'acido complementare** di una base è il prodotto che si ottiene quando la sostanza accetta un protone. Tutte le reazioni acido-base coinvolgono il trasferimento di protoni tra acidi e basi.
 
- La reazione tra un acido Brønsted-Lowry e l'acqua viene detta **ionizzazione acida**. Quando una base e l'acqua reagiscono, avviene una **ionizzazione basica**. L'acqua può comportarsi sia da base che da acido. **L'autoionizzazione** quando una molecola di una sostanza si comporta da acido e un'altra da base. L'acqua non viene praticamente ionizzata, la costante d'equilibrio dell'acqua aumenta con la temperatura e viene detta **costante del prodotto ionico per l'acqua (Kw): Kw = [H3 O+][OH−]**. L'equilibrio non cambierà se si aggiunge un acido o una base. 
+ La reazione tra un acido di Brønsted-Lowry e l'acqua viene detta **ionizzazione acida**. Quando una base e l'acqua reagiscono, avviene una **ionizzazione basica**. L'acqua può comportarsi sia da base che da acido. **L'autoionizzazione** avviene quando una molecola di una sostanza si comporta da acido e un'altra molecola della stessa sostanza da base. L'acqua non viene praticamente ionizzata, la costante d'equilibrio dell'acqua aumenta con la temperatura e viene detta **costante del prodotto ionico per l'acqua (Kw): $Kw = [H_3O^+][OH^−]$**. L'equilibrio non cambierà se si aggiunge un acido o una base.
 
- Una sostanza **anfotera** è una sostanza che si comporta da acido o da base secondo qualsiasi definizione. Una sostanza **anfiprotica** è una sostanza che perde o acquisisce protoni sotto certe condizioni. 
+ Una sostanza **anfotera** è una sostanza che può comportarsi sia da acido che da base secondo qualsiasi definizione. Una sostanza **anfiprotica**, invece è una sostanza che può perdere o acquisire protoni sotto certe condizioni. Quindi una sostanza anfotera è anche anfiprotica.  
 
  ## pH e pOH
 
