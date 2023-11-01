@@ -56,9 +56,9 @@ Se un corpo assorbe energia la sua temperatura aumenta e quindi T finale è magg
 
 ## Calorimetria
 
-La **calorimetria** è una tecnica che possiamo usare per misurare la quantità di calore coinvolta in una reazione chimica o fisica. Questa tecnica è usata per misurare la quantità di calore trasferito da una sostanza all'altra. Per eseguire tale misura si usa il calorimetro: un dispositivo in grado di misurare la quantità di calore coinvolta in una reazione. Grazie al cambio di temperatura delle sostanze presenti all'interno del calorimetro possiamo trovare il calore.
+La **calorimetria** è una tecnica che possiamo usare per misurare la quantità di calore coinvolta in una reazione chimica o fisica. Questa tecnica è usata per misurare la quantità di calore trasferito da una sostanza all'altra. Per eseguire tale misura si usa il calorimetro: un dispositivo in grado di misurare la quantità di calore coinvolta in una reazione. Grazie alla variazione di temperatura delle sostanze presenti all'interno del calorimetro possiamo trovare il calore.
 
-Il sistema sono le sostanze che reagiscono tra di loro, l'ambiente invece sono le parti del calorimetro che forniscono o assorbono calore. Conoscendo la capacità termica dell'ambiente, le masse del sistema e dell'ambiente e le loro temperature di inizio e fine, ci permette di calcolare la quantità di calore assorbita. 
+Il sistema sono le sostanze che reagiscono tra di loro, l'ambiente invece sono le parti del calorimetro che forniscono o assorbono calore. Conoscendo la capacità termica dell'ambiente, le masse del sistema e dell'ambiente e le loro temperature di inizio e fine, possiamo calcolarci la quantità di calore assorbita. 
 
 In una reazione esotermica, abbiamo il rilascio di calore che viene assorbito dall'ambiente e quindi la sua temperatura aumenta, mentre in una reazione endotermica la temperatura dell'ambiente diminuisce. 
 
@@ -66,13 +66,13 @@ Calorimetri professionali impediscono la dispersione di calore all'esterno, cos�
 
 Se consideriamo un caso ideale in cui non abbiamo dispersione di calore e quindi né il sistema né l'ambiente assorbe o rilascia calore, e mettiamo una lastra di metallo incandescente in acqua a temperatura ambiente in un calorimetro. Il flusso di calore andrà dalla lastra all'acqua fino a quando i due corpi non avranno raggiunto la stessa temperatura e quindi un'**equilibrio termico**. Quindi:
 
-q lastra + q acqua = 0 (vuol dire che ∆q = 0)
+$$q\\ lastra + q\\ acqua = 0 (vuol\\ dire\\ che\\ ∆q = 0)
 =>
-q lastra = -q acqua (calore assorbito dall'acqua è uguale al calore rilasciato dalla lastra)
+q\\ lastra = -q\\ acqua (calore\\ assorbito\\ dall'acqua\\ è\\ uguale\\ al\\ calore\\ rilasciato\\ dalla\\ lastra)$$
 
 Il ∆q di ogni sostanza è lo stesso ed il segno per q acqua mostra la direzione del flusso di calore (da + a -) e che le due sostanze sono apposte. La sostanza che rilascia avrà q negativo, mentre quella che assorbe avrà q positivo.
 
-Considerando che l'energia non può essere né creata né distrutta, l'energia totale del calorimetro rimane costante (nel caso in cui il calorimetro assorbe un po' di calore è trascurabile) e quindi q sistema (reazione) + q ambiente (soluzione) = 0. Quindi la quantità di calore prodotto/rilasciato è uguale alla quantità di calore assorbito/perso. Questa è una legge che sta alla base della clorimetria. 
+Considerando che l'energia non può essere né creata né distrutta, l'energia totale del calorimetro rimane costante (nel caso in cui il calorimetro assorbe un po' di calore è trascurabile) e quindi $q\\ sistema (reazione) + q\\ ambiente (soluzione) = 0$. Quindi la quantità di calore prodotto/rilasciato è uguale alla quantità di calore assorbito/perso. Questa è una legge che sta alla base della clorimetria. 
 
 Nel caso in cui il calore assorbito dal calorimetro non è trascurabile bisogna contare che il calore assorbito = calorimetro + soluzione. I calorimetri sono progettati per operare a pressione atmosferica e nel caso in cui reazioni avvengono in soluzione. Esistono dei calorimetri alternativi detti **Bombe calorimetriche** che operano a volumi costanti. Questi calorimetri vengono usati per misurare l'energia di reazioni che producono grandi quantità di calore e gas. 
 
@@ -82,13 +82,13 @@ Esistono inoltre calorimetri che misurano la quantità di q che genera una perso
 
 ## Entalpia
 
-La termochimica è una branca della termodinamica chimica la scienza che studia le relazioni tra calore, lavoro e lavoro. Le sostanze sono riserve di energia a cui essa può essere sottratta o data. Una sostanza può immagazzinare energia quando aumenta la sua energia cinetica, e ciò può avvenire sotto forma ad un aumento di movimento delle molecole/atomi (rotazioni, vibrazioni, traslazioni). 
+La termochimica è una branca della termodinamica chimica: la scienza che studia le relazioni tra calore, lavoro e temperatura. Le sostanze sono riserve di energia a cui essa può essere sottratta o data. Una sostanza può immagazzinare energia quando aumenta la sua energia cinetica, e ciò può avvenire sotto forma ad un aumento di movimento delle molecole/atomi (rotazioni, vibrazioni, traslazioni). 
 
-- **L'energia interna (E):** è la somma totale di tutti i tipi di energia presenti in una sostanza (sistema).
+- **L'energia interna (E):** è la somma totale di tutti i tipi di energia presenti in una sostanza.
 
 Quando un sistema subisce una trasformazione, la sua E può cambiare e l'energia può trasferirsi da sistema all'ambiente e viceversa. L'energia si trasferisce al sistema quando esso assorbe calore dall'ambiente o quando l'ambiente fa lavoro sul sistema. L'energia si trasferisce invece all'ambiente quando il sistema rilascia calore o quando fa lavoro sull'ambiente. La relazione tra E, q e w:
 
-∆E = q + w
+$$∆E = q + w$$
 
 Questa è una versione della prima legge della termodinamica e mostra come l'energia interna cambia con l'assorbimento o rilascio di calore (se rilasciato q è negativo, se assorbito q è positivo) oppure se il lavoro viene fatto sul o dal sistema. 
 
@@ -98,23 +98,23 @@ L'energia interna è un tipo di funzione di stato, mentre non lo sono il calore 
 
 **L'entalpia (H)** è una proprietà che descrive la termodinamica delle reazioni chimiche. 
 
-H = E + PV
+$$H = E + PV$$
 
 Visto che H deriva da tre funzioni stato, lo è anche lei. Non si può determinare l'entalpia di una sostanza, ma solo la variazione di entalpia di un processo chimico o fisico:
 
-∆H = ∆E + P•∆V (a pressione costante)
+$$∆H = ∆E + P\ cdot ∆V (a\\ pressione\\ costante)$$
 
-P•∆V rappresenta il lavoro di espansione, ma di segno opposto rispetto a ∆V e quindi. P•∆V = -w
-=>
-∆H = ∆E + P•∆V
-∆H = q + ~~w~~ ~~-w~~
-∆H = q (dove q e il calore di reazione a pressione costante)
+$P\cdot ∆V$ rappresenta il lavoro di espansione, ma di segno opposto rispetto a ∆V e quindi: $P\cdot ∆V = -w$.
+
+$$∆H = ∆E + P\cdot ∆V$$
+$$∆H = q + ~~w~~ ~~-w~~$$
+$$∆H = q (dove\\ q\\ e\\ il\\ calore\\ di reazione\\ a\\ pressione\\ costante)
 
 Se in un processo chimico o fisico che avviene a pressione costante ed il lavoro è causato per espansione o contrazione, allora la variazione di entalpia è uguale al calore di reazione.
 
 Non sempre le reazioni chimiche avvengono in condizioni atmosferiche e quindi l'entalpia di reazione è spesso una dei modi più comodi per trovare il calore di reazione. 
 
-Un equazione termochimica è un'equazione che mostra sia la trasformazione della materia che dell'energia: l'equazione chimica è seguita dall'equazione che mostra la variazione di entalpia e quindi il calore di reazione. Il numero di moli dei reagenti che da tot moli di prodotto è specifico per ogni valore di ∆H (semprer della stessa reazione chimica), infatti se il rapporto stechiometrico viene moltiplicato per 2, anche il ∆H viene moltiplicata per 2.
+Un equazione termochimica è un'equazione che mostra sia la trasformazione della materia che dell'energia: l'equazione chimica è seguita dall'equazione che mostra la variazione di entalpia e quindi il calore di reazione. Il numero di moli dei reagenti che da tot moli produce un tot di prodotto, è specifico per ogni valore di ∆H (semprer della stessa reazione chimica), infatti se il rapporto stechiometrico viene moltiplicato per 2, anche il ∆H viene moltiplicata per 2.
 
 L'entalpia di reazione cambia anche in base anche allo stato fisico dei reagenti e dei prodotti. 
 
@@ -135,7 +135,7 @@ Per definizione l'entalpia standard di formazione di un elemento nella sua forma
 
 ## Legge di Hess
 
-La quantità di calore coinvolta in una reazione chimica può essere stabilità in due modi diversi: misurarla sperimentalmente, oppure calcolarla partendo dalle variazioni di entalpie di altri esperimenti, preferibile la seconda visto che molte reazioni sono difficili da eseguire. 
+La quantità di calore coinvolta in una reazione chimica può essere stabilità in due modi diversi: misurarla sperimentalmente, oppure calcolarla partendo dalle variazioni di entalpie di altri esperimenti, è preferibile la seconda visto che molte reazioni sono difficili da eseguire. 
 
 Per calcolare quindi l'entalpia di reazione bisogna ricorrere alla **legge di Hess**: *se una reazione può essere scritta come più sub-reazioni, allora l'entalpia di reazione totale sarà uguale alla somma delle singole entalpie di reazione di ogni sub-reazione.* Questa legge è valida perché l'entalpia è una funzione di stato e quindi importa solo il punto d'inizio e d'arrivo e non il percorso. 
 
@@ -145,4 +145,4 @@ Il ∆H in una direzione di reazione è uguale a quello in direzione inversa, ma
 
 Possiamo calcolarci l'entalpia di reazione nel caso abbiamo a disposizione le entalpie standard di formazione: Nel caso in cui abbiamo tutti i prodotti e reagenti dell'equazione chimica scomposti che formano delle reazioni di decomposizione in cui i prodotti sono elementi liberi nella loro forma più stabile in condizioni standard, e le loro relative entalpie standard di formazione, allora possiamo calcolarci l'entalpia di reazione, facendo ∆H°(f) prodotti - ∆H°(f)reagenti moltiplicati per i propri coefficienti stechiometrici:
 
-∆H (reazione) = ∑(n•∆H°(f) prodotti) - ∑(n•∆H°(f) reagenti)
+$$∆H (reazione) = ∑(n\cdot ∆H°(f)\\ (prodotti) - ∑(n\cdot ∆H°(f)\\ reagenti)$$
