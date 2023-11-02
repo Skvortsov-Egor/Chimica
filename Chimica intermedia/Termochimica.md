@@ -7,7 +7,7 @@ La **Termochimica** è la branca della chimica che si occupa dell'assorbimento e
 ## Energia
 
 L'**energia** può essere definita come la capacità di fare `lavoro` o fornire calore. Il **lavoro (w)** è invece il processo che causa il movimento di un corpo per azione di una forza. L'energia può essere divisa in due tipi:
-- **Energia cinetica (k):** l'energia che possiede un corpo perché è in movimento
+- **Energia cinetica (K):** l'energia che possiede un corpo perché è in movimento
 - **Energia potenziale (U):** l'energia che possiede un corpo a causa della sua posizione
 
 L'energia può essere convertita da un tipo ad un altro ma l'energia totale prima di una trasformazione è uguale all'energia totale dopo una trasformazione, questo viene espresso dalla legge della conservazione dell'energia. Legge della conservazione dell'energia: durante una trasformazione chimica o fisica l'energia non può essere né creata né distrutta, ma si trasforma. In una reazione chimica si ha la trasformazione di energia e calore che è assorbito o rilasciato, ma ci potrebbe essere anche il coinvolgimento di luce o altre forme di energia. Tutti i diversi tipi di energia come chimica o meccanica possono essere divise nei due grandi gruppi: potenziale e cinetica.
@@ -18,17 +18,17 @@ In una reazione chimica la somma delle masse prima e dopo la reazione è la stes
 
 ### Temperatura, calore ed energia termica
 
-**L'energia termica** è energia cinetica associata al movimento delle molecole. La **temperatura** invece è una misura quantitativa di "caldo" o "freddo". Quando gli atomi e le molecole si muovono lentamente, la loro k media è bassa e quindi il corpo è "freddo", nel caso invece in cui atomi e molecole si muovono velocemente la loro k media è alta e quindi il corpo è "caldo". Se aumentiamo l'energia termica di un corpo e non avvengono trasformazioni chimiche o fisiche, allora la temperatura diventerà maggiore. Se invece diminuiamo l'energia termica di un corpo e non avvengono trasformazioni chimiche o fisiche, allora la temperatura diventerà minore.
+**L'energia termica** è energia cinetica associata al movimento delle molecole. La **temperatura** invece è una misura quantitativa di "caldo" o "freddo". Quando gli atomi e le molecole si muovono lentamente, la loro K media è bassa e quindi il corpo è "freddo", nel caso invece in cui atomi e molecole si muovono velocemente la loro K media è alta e quindi il corpo è "caldo". Se aumentiamo l'energia termica di un corpo e non avvengono trasformazioni chimiche o fisiche, allora la temperatura diventerà maggiore. Se invece diminuiamo l'energia termica di un corpo e non avvengono trasformazioni chimiche o fisiche, allora la temperatura diventerà minore.
 
 La maggior parte delle sostanze se riscaldate si espandono e se raffreddate si contraggono. Questa caratteristica è usata per misurare la temperatura, ed è infatti così che funzionano i termometri. 
 
-**Il calore (q)** è il trasferimento di energia termica tra due corpi con temperature diverse. Quando due corpi sono a contatto il calore si trasferisce dal corpo più caldo (diminuisce la sua energia termica) e quindi con una k media maggiore (energia termica maggiore) al corpo più freddo (aumenta la sua energia termica) e quindi con una k minore (energia termica minore). Questo trasferimento avviene in modo spontaneo e si ferma solo quando i due corpi hanno raggiunto la stessa temperatura. Maggiore è la temperatura, maggiore sarà la sua energia termica, e quindi man mano che a un corpo diminuisce la sua energia termica, diminuisce anche la sua temperatura.
+**Il calore (q)** è il trasferimento di energia termica tra due corpi con temperature diverse. Quando due corpi sono a contatto il calore si trasferisce dal corpo più caldo (diminuisce la sua energia termica) e quindi con una K media maggiore (energia termica maggiore) al corpo più freddo (aumenta la sua energia termica) e quindi con una K minore (energia termica minore). Questo trasferimento avviene in modo spontaneo e si ferma solo quando i due corpi hanno raggiunto la stessa temperatura. Maggiore è la temperatura, maggiore sarà la sua energia termica, e quindi man mano che a un corpo diminuisce la sua energia termica, diminuisce anche la sua temperatura.
 
 In una reazione chimica la materia può assorbire o liberare energia. Una reazione che rilascia energia nell'ambiente è una reazione **esotermica** e quindi la temperatura del sistema aumenta e del corpo diminuisce. Una reazione che assorbe energia dall'ambiente è una reazione **endotermica** e quindi la temperatura del sistema diminuisce, ma quella del corpo aumenta. 
 
 Il calore è stato sempre misurato in calorie (cal), una caloria è l'energia necessaria per far aumentare 1 g di acqua di 1 grado C. La quantità di energia necessaria a fare ciò dipende dalla pressione atmosferica e dalla temperatura di partenza. Nonostante ciò la caloria e comunque usata. Esiste la Caloria, conosciuta anche come kilocaloria, diffusa quando si parla di nutrienti. L'unita SI del calore, energia, lavoro è il **Joule (J)** ed è definita come la quantità di energia necessaria per una forza di 1 N spostare un corpo di 1 m. Alcune uguaglianze utili:
 
-$$1 J = 1 kg {m^2\over s^2} = 1 Nm$$
+$$1 J = 1 {kg\cdot m^2\over s^2} = 1 Nm$$
 
 $$1 Kilojoule = 1000 J$$
 
@@ -41,9 +41,9 @@ La capacità termica è una proprietà legata al tipo di sostanza e dalla quanti
 
 - **Calore specifico (c):** è la quantità di calore necessaria per far aumentare 1 g di una sostanza di 1 °C.
 $c = {q\over m\cdot∆T}$
-Il calore specifico è una proprietà che dipende solo dal tipo della sostanza e quindi è una proprietà intensiva che deriva dal rapporto di due unità estensive. La sua unità di misura è il $J\over g\over °C$. Esiste anche il calore specifico molare che è la stessa cosa ma è la quantità di calore necessario per inalzare di 1 °C, una mole di sostanza e la sua unità di misura è il $J\over mol\cdot °C$.
+Il calore specifico è una proprietà che dipende solo dal tipo della sostanza e quindi è una proprietà intensiva che deriva dal rapporto di due unità estensive. La sua unità di misura è il $J\over g\cdot °C$. Esiste anche il calore specifico molare che è la stessa cosa ma è la quantità di calore necessario per inalzare di 1 °C, una mole di sostanza e la sua unità di misura è il $J\over mol\cdot °C$.
 
-Il calore specifico dell'acqua è di $4.2 J\over g\cdot °C$, che è relativamente alto considerando che quello dei metalli è minore di 1 J/g•°C, è anche maggiore di quello di molti gas. Il calore specifico varia, ma di poco con la temperatura, questa variazione è veramente piccola che è trascurabile e quindi si può considerare il calore specifico come una costante. 
+Il calore specifico dell'acqua è di $4.2 {J\over g\cdot °C} $, che è relativamente alto considerando che quello dei metalli è minore di $1 {J\over g\cdot °C}$, ed è anche maggiore di quello di molti gas. Il calore specifico varia anche se non di molto con la temperatura, questa variazione è veramente piccola che è trascurabile e quindi si può considerare il calore specifico come una costante. 
 
 Se siamo a conoscenza di massa, calore specifico e ∆T, possiamo trovare il q rilasciato o assorbito:
 
@@ -66,9 +66,8 @@ Calorimetri professionali impediscono la dispersione di calore all'esterno, cos�
 
 Se consideriamo un caso ideale in cui non abbiamo dispersione di calore e quindi né il sistema né l'ambiente assorbe o rilascia calore, e mettiamo una lastra di metallo incandescente in acqua a temperatura ambiente in un calorimetro. Il flusso di calore andrà dalla lastra all'acqua fino a quando i due corpi non avranno raggiunto la stessa temperatura e quindi un'**equilibrio termico**. Quindi:
 
-$$q\\ lastra + q\\ acqua = 0 (vuol\\ dire\\ che\\ ∆q = 0)
-=>
-q\\ lastra = -q\\ acqua (calore\\ assorbito\\ dall'acqua\\ è\\ uguale\\ al\\ calore\\ rilasciato\\ dalla\\ lastra)$$
+$$q\\ lastra + q\\ acqua = 0 (vuol\\ dire\\ che\\ ∆q = 0)$$
+$$q\\ lastra = -q\\ acqua (calore\\ assorbito\\ dall'acqua\\ è\\ uguale\\ al\\ calore\\ rilasciato\\ dalla\\ lastra)$$
 
 Il ∆q di ogni sostanza è lo stesso ed il segno per q acqua mostra la direzione del flusso di calore (da + a -) e che le due sostanze sono apposte. La sostanza che rilascia avrà q negativo, mentre quella che assorbe avrà q positivo.
 
@@ -107,7 +106,7 @@ $$∆H = ∆E + P\ cdot ∆V (a\\ pressione\\ costante)$$
 $P\cdot ∆V$ rappresenta il lavoro di espansione, ma di segno opposto rispetto a ∆V e quindi: $P\cdot ∆V = -w$.
 
 $$∆H = ∆E + P\cdot ∆V$$
-$$∆H = q + ~~w~~ ~~-w~~$$
+$$∆H = q + w -w$$
 $$∆H = q (dove\\ q\\ e\\ il\\ calore\\ di reazione\\ a\\ pressione\\ costante)
 
 Se in un processo chimico o fisico che avviene a pressione costante ed il lavoro è causato per espansione o contrazione, allora la variazione di entalpia è uguale al calore di reazione.
