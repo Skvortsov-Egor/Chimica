@@ -41,7 +41,7 @@ Un'altra informazione che possiamo ricavare dall'equazione chimica è quando una
 
 Molte reazioni avvengono in ambiente acquoso, e se queste reazioni coinvolgono ioni, allora una reazione può essere descritta sotto più livelli. Prendiamo per esempio la seguente reazioni che avviene in ambiente acquoso, ma che ha bisogna di corrente elettrica per avvenire:
 
-NaCl(aq) + H2 O(l) → NaOH(aq) + H2(g) + Cl2(g)
+$$NaCl(aq) + H2 O(l) \rightarrow NaOH(aq) + H2(g) + Cl2(g)$$
 
 L'equazione bilanciata risulta:
 
