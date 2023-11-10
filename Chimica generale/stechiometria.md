@@ -41,17 +41,17 @@ Un'altra informazione che possiamo ricavare dall'equazione chimica è quando una
 
 Molte reazioni avvengono in ambiente acquoso, e se queste reazioni coinvolgono ioni, allora una reazione può essere descritta sotto più livelli. Prendiamo per esempio la seguente reazioni che avviene in ambiente acquoso, ma che ha bisogna di corrente elettrica per avvenire:
 
-$$NaCl(aq) + H2 O(l) \rightarrow NaOH(aq) + H2(g) + Cl2(g)$$
+$$NaCl(aq) + H_2O(l) \rightarrow NaOH(aq) + H_2(g) + Cl_2(g)$$
 
 L'equazione bilanciata risulta:
 
-2NaCl(aq) + 2H2O(l) → 2NaOH(aq) + H2(g) + Cl2(g)
+$$2NaCl(aq) + 2H_2O(l) \rightarrow 2NaOH(aq) + H_2(g) + Cl_2(g)$$
 
-L'equazione appena bi lanciata è un'equazione molecolare perché non rappresenta esplicitamente i singoli ioni presenti nella soluzione. Composti ionici disciolti in acqua tendono a dissociarsi in singoli ioni che sono rimescolati omogeneamente nella soluzione acquosa.
+L'equazione appena bilanciata è un'equazione molecolare perché non rappresenta esplicitamente i singoli ioni presenti nella soluzione. Composti ionici disciolti in acqua tendono a dissociarsi in singoli ioni che sono rimescolati omogeneamente nella soluzione acquosa.
 
 Composti ionici disciolti in acqua possono essere rappresentati come ioni dissociati:
 
-2Na+(aq) + 2Cl-(aq) + 2H2O(l) → 2Na+(aq) + 2OH-(aq) + H2(g) + Cl2(g)
+$$2Na^+(aq) + 2Cl^-(aq) + 2H_2O(l) → 2Na^+(aq) + 2OH^-(aq) + H_2(g) + Cl_2(g)$$
 
 I composti allo stato solido non vengono dissociati in ioni in soluzioni acquose proprio perché non vengono sciolte. 
 
@@ -59,10 +59,10 @@ Le equazioni che contengono composti ionici rappresentati come ioni dissociati s
 
 Nelle equazioni ioniche complete sono presenti anche degli ioni spettatori, ovvero ioni che non mutano né chimicamente, né fisicamente. Quindi questi ioni spettatori possono essere eliminati dall'equazione ionica, per ottenere un'equazione ionica netta. 
 
-~~2Na+(aq)~~ + 2Cl-(aq) + 2H2O(l) → ~~2Na+(aq)~~ + 2OH-(aq) + H2(g) + Cl2(g)
+$$2Na^+(aq) + 2Cl^-(aq) + 2H_2O(l) → 2Na^+(aq) + 2OH^-(aq) + H_2(g) + Cl_2(g)$$
 
 **Equazione ionica netta:**
-2Cl-(aq) + 2H2O(l) → 2OH-(aq) + H2(g) + Cl2(g)
+$$2Cl^-(aq) + 2H_2O(l) → 2OH^-(aq) + H_2(g) + Cl_2(g)$$
 
 ## Classificazione delle reazioni
 
