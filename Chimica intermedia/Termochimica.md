@@ -58,7 +58,7 @@ Il calore specifico dell'acqua è di $4.2 {J\over g\cdot °C} $, che è relativa
 
 Se siamo a conoscenza di massa, calore specifico e ∆T, possiamo trovare il q rilasciato o assorbito:
 
-$$q = (calore specifico )\cdot(massa)\cdot(∆T)$$
+$$q = (calore\\ specifico )\cdot(massa)\cdot(∆T)$$
 $$q=c\cdot m\cdotΔT$$
 
 Se un sistema assorbe energia la sua temperatura aumenta e quindi T finale è maggiore di T iniziale e quindi q sarà positivo (perché ∆T è positivo), se invece un sistema rilascia energia la sua temperatura diminuisce e quindi T finale è minore di T iniziale e quindi q sarà negativo (perché ∆T è negativo). Si può estendere la definizione di reazione esotermica e endotermica in termini di calore: se $q_{sis} < 0$ allore la reazione è esotermica, se invece $q_{sis} < 0$, allore la reazione è endotermica.
@@ -92,11 +92,12 @@ Esistono inoltre calorimetri che misurano la quantità di q che genera una perso
 
 La termochimica è una branca della termodinamica chimica: la scienza che studia le relazioni tra calore, lavoro e temperatura. Le sostanze sono riserve di energia a cui essa può essere sottratta o data. Una sostanza può immagazzinare energia quando aumenta la sua energia cinetica, e ciò può avvenire sotto forma ad un aumento di movimento delle molecole/atomi (rotazioni, vibrazioni, traslazioni). 
 
-- **L'energia interna (E):** è la somma totale di tutti i tipi di energia presenti in una sostanza.
+- **L'energia interna (E):** è la somma totale di tutti i tipi di energia presenti in una sostanza (U + K).
 
 Quando un sistema subisce una trasformazione, la sua E può cambiare e l'energia può trasferirsi da sistema all'ambiente e viceversa. L'energia si trasferisce al sistema quando esso assorbe calore dall'ambiente o quando l'ambiente fa lavoro sul sistema. L'energia si trasferisce invece all'ambiente quando il sistema rilascia calore o quando fa lavoro sull'ambiente. La relazione tra E, q e w:
 
-$$∆E = q + w$$
+$$E = K + U$$
+$$∆E = q + w$$ (questo perché la E varia se viene assorbita/rilasciato calore dal sistema o esso fa o subisce del lavoro)
 
 Questa è una versione della prima legge della termodinamica e mostra come l'energia interna cambia con l'assorbimento o rilascio di calore (se rilasciato q è negativo, se assorbito q è positivo) oppure se il lavoro viene fatto sul o dal sistema. 
 
@@ -104,21 +105,23 @@ Il **lavoro di espansione (lavoro di pressione-volume)** si verifica quando il s
 
 L'energia interna è un tipo di funzione di stato, mentre non lo sono il calore ed il lavoro. Una **funzione di stato** è un grandezza che non dipende come si è raggiunto un determinato valore (energia, altezza) perché il valore sempre quello rimane, mentre non sono funzioni stati quelle grandezze che dipendono come hanno raggiunto quel valore (lavoro, calore, distanza) perché il valore cambia.
 
-**L'entalpia (H)** è una proprietà che descrive la termodinamica delle reazioni chimiche. 
+**L'entalpia (H)** è una proprietà che descrive la quantità di energia netta ceduta o acquistata in una reazione chimica.
 
 $$H = E + PV$$
 
 Visto che H deriva da tre funzioni stato, lo è anche lei. Non si può determinare l'entalpia di una sostanza, ma solo la variazione di entalpia di un processo chimico o fisico:
 
-$$∆H = ∆E + P\ cdot ∆V (a\\ pressione\\ costante)$$
+$$∆H = ∆E + P\cdot ∆V (a\\ pressione\\ costante)$$
 
 $P\cdot ∆V$ rappresenta il lavoro di espansione, ma di segno opposto rispetto a ∆V e quindi: $P\cdot ∆V = -w$.
 
 $$∆H = ∆E + P\cdot ∆V$$
 $$∆H = q + w -w$$
-$$∆H = q (dove\\ q\\ e\\ il\\ calore\\ di reazione\\ a\\ pressione\\ costante)
+$$∆H = q$$ (questo accade quando la pressione rimane costante, condizioni standard)
 
-Se in un processo chimico o fisico che avviene a pressione costante ed il lavoro è causato per espansione o contrazione, allora la variazione di entalpia è uguale al calore di reazione.
+L'entalpia è uguale al calore scambaito quando il lavoro è nullo e questo accade quando a pressione costante il volume non varia, o il sistema no fa lavoro sull'ambiente oppure l'ambiente non fa lavoro sul sistema, ma è anche uguale al calore scambaito se l'unico lavoro è quello di espansione. In tutti gli altri casi, ∆H non è uguale al calore scambiato. ∆H e ∆E differisconio solo di $-P\cdot ∆V$ e se la variazione è piccola, essa può essere trascurata, se invece non lo è l'entalpia non è approssimabile a ∆E.
+
+> Una trasformazione chimica o fisica che avviene a pressione costante e il lavoro è solo di espnasione oppure è nullo, allora ∆H è uguale al calore ceduto.
 
 Non sempre le reazioni chimiche avvengono in condizioni atmosferiche e quindi l'entalpia di reazione è spesso una dei modi più comodi per trovare il calore di reazione. 
 
@@ -134,10 +137,10 @@ L'entalpia è una proprietà estensiva, quindi viene spesso in dicata un ∆H pe
 
 ### Entalpia di combustione
 
-**L'entalpia standard di combustione (∆H°(c))** è l'entalpia di reazione quando 1 mol di sostanza brucia (si combina con O2) in condizioni standard. 
+**L'entalpia standard di combustione ($∆H°_c$)** è l'entalpia di reazione quando 1 mol di sostanza brucia (si combina con O2) in condizioni standard.
 
 ### Entalpia standard di formazione
-**L'entalpia standard di formazione (∆H°(f))** è la variazione di entalpia di una reazione che produce 1 mol di sostanza pura da elementi liberi nella loro forma più stabile in condizioni standard. Questa entalpia viene utilizzata per trovare l'entalpia di reazione di reazioni che sono pericolose da produrre. 
+**L'entalpia standard di formazione ($∆H°_f$)** è la variazione di entalpia di una reazione che produce 1 mol di sostanza pura da elementi liberi nella loro forma più stabile in condizioni standard. Questa entalpia viene utilizzata per trovare l'entalpia di reazione di reazioni che sono pericolose da produrre.
 
 Per definizione l'entalpia standard di formazione di un elemento nella sua forma più stabile in condizione standard è zero.
 
