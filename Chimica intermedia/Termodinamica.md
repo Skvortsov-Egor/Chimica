@@ -4,38 +4,45 @@
 
 ## Spontaneità
 
-Un **processo spontaneo** è un processo che sotto certe condizioni tende a verificarsi. Un **processo non spontaneo** si verifica solo grazie ad un continuo input di energia da una fonte esterna. Un processo che è spontaneo in una direzione sotto certe condizioni, nella direzione inversa è non spontaneo. La spontaneità non è correlata alla velocità di reazione. Quindi una reazione chimica può essere vista da due punti di vista: cinetico e termodinamico, una reazione è stabile termodinamicamente se il processo non è spontaneo ed è stabile cineticamente se il processo è lento. 
+Un **processo spontaneo** è un processo che sotto certe condizioni tende a verificarsi senza l'intervento esterno. Un **processo non spontaneo** si verifica solo grazie ad un continuo input esterno. Un processo che è spontaneo in una direzione in certe condizioni, nella direzione inversa è non spontaneo. La spontaneità non è correlata né alla velocità di reazione, né al calore scambiato: unaa reazione non è per forza spontanea ed esitono reazione endotermiche spontanee. Quindi una reazione chimica può essere vista da due punti di vista: cinetico e termodinamico, una reazione è stabile termodinamicamente se il processo non è spontaneo ed è stabile cineticamente se il processo è lento.
 
-In un contenitore isolato, diviso da una valvola a metà: mezzo contenitore contiene un gas incognito e l'altro invece è vuoto. Quando la valvola viene aperta, il gas spontaneamente si disperde uniformemente, ma non avviene nessuna variazione di energia interna (nessun lavoro di pressione e il sistema è isolato). Quindi la spontaneità non dipende dalla variazione di energia che avviene nel processo. Più che altro, la spontaneità è correlata ad una maggiore ed uniforme dispersione di materia. Considerando invece due corpi con due diverse temperature in un sistema chiuso. Quando i due corpi sono in contatto il calore si trasferisce dal copro con energia termica maggiore a quello con energia termica minore. Dal punto di vista del sistema non c'è stata perdita di calore, e l'energia viene distribuita tra i due corpi. Questo processo ha provocato una uniforme dispersione di energia.
+In un contenitore isolato, diviso a metà: mezzo contenitore contiene un gas incognito e l'altro invece è vuoto. Quando la valvola viene aperta, il gas spontaneamente si disperde uniformemente, ma non avviene nessuna variazione di energia interna (nessun lavoro di pressione e il sistema è isolato). Quindi la spontaneità non dipende dalla variazione di energia che avviene nel processo. Più che altro, la spontaneità è correlata ad una maggiore ed uniforme dispersione di materia. Considerando invece due corpi con due diverse temperature in un sistema chiuso. Quando i due corpi sono in contatto il calore si trasferisce dal copro con energia termica maggiore a quello con energia termica minore. Dal punto di vista del sistema non c'è stata perdita di calore, e l'energia viene distribuita tra i due corpi. Questo processo ha provocato una uniforme dispersione di energia. Si può riassumere che un processo spontaneo, l'energia e la materia tende alla massima dispersione,e questo può essere generalizzato con l'energia tende alla massima dispersione perché se c'è materia, c'è anche energia.
 
 >**In generale:**
-la spontaneità è caratterizzata da una maggiore e più uniforme distribuzione di materia e/o energia
+In un processo spontaneo, l'energia tende ad andare nella direzione della massima dispersione.
 
 ## Entropia
 
-Rudolf Clausius introdusse una nuova proprietà termodinamica che mette in relazione il flusso di calore spontaneo di un processo con la temperatura a cui questo processo avviene. Questa proprietà è il rapporto tra il calore reversibile e la temperatura a cui avviene in kelvin. Per **processo reversibile** s'intende il processo che avviene ad una tale piccola velocità che è sempre all'equilibrio e la sua direzione può essere invertita grazie ad una piccolissima mutazione nelle condizioni. L'idea del processo reversibile e solo un formalismo per descrivere svariati concetti termodinamici, processi reali sono irreversibili. 
+Rudolf Clausius introdusse una nuova proprietà termodinamica che mette in relazione il flusso di calore spontaneo di un processo con la temperatura a cui questo processo avviene. Questa proprietà è il rapporto tra il calore reversibile e la temperatura a cui avviene in kelvin.
 
-Questa proprietà Clausius la nominò **Entropia (S)**, essa è una funzione di stato (dipende solo dal punto iniziale e finale):
+Questa proprietà Clausius la nominò **Entropia (S)**, essa è una funzione di stato (dipende solo dal punto iniziale e finale): misura la probabilità che unn evento avvenga.
 
-$∆S = {q_{rev}\over ∆T}$
+$$∆S = {q_{rev}\over ∆T}$$
 
-Il ∆S di una reazione irreversibile è uguale al processo teorico reversibile che coinvolge gli stessi stati iniziale e finale.
+Il calore svambiato deve essere di una reazione reversibile, che è una reazione per cui è possibile ritornare indietro seguendo lo stesso percorso, senza modificare l'ambiente. La ∆S è la misura della dispersione di energia avvenuta in un processo. QUesta equazione corrisponde anche alla variazione di entropia dell'ambiente.
 
 ### Entropia e microstati
 
-Boltzmann elaborò un modello molecolare che mise in relazione l'entropia del sistema col numero di microstati possibili per il sistema. Un **microstato (W)** è una configurazione specifica delle disposizioni e delle energie degli atomi/molecole che comprende un sistema.
+Boltzmann elaborò un modello molecolare che mise in relazione l'entropia del sistema col numero di microstati possibili per il sistema. Un **microstato (W)** è il numero di stati (disposizioni) possibili per le parti microscopiche ad una data energia, ovvero è il numero di modi pèossibili in cui l'energia è in grado di disperdirsi. Se il numero di stati possibili per una certa dispersione di energia è minore rispetto ad un'altra situazione, quest'ultima è più probabile che accada.
 
-$S = k ln W$
+$$S = k ln W$$
 
 k è uguale a $1.38 x 10^{-23} {J\over K}$
 
-$ΔS = S_f − S_i = k ln W_f − k ln W_i = k ln {Wf\over Wi}$
+$$ΔS = S_f − S_i = k ln W_f − k ln W_i = k ln {Wf\over Wi}$$
 
-∆S > 0 se il numero di microstati aumenta (Wf > Wi), ∆S < 0 se il numero di microstati diminuisce (Wf < Wi). 
+∆S > 0 se il numero di microstati aumenta (Wf > Wi), ∆S < 0 se il numero di microstati diminuisce (Wf < Wi).
 
-In un caso generale che comprende N particelle distribuite in n contenitori, il numero di microstati possibili per il sistema è uguale a $n^N$. Microstati  con la stessa disposizione dal punto di vista del sistema sono detti **distribuzioni**. La probabilità che un sistema esista con i suoi componenti in una data distribuzione è proporzionale al numero di microstati all'interno della distribuzione. Visto che l'entropia aumenta logaritmicamente con il numero di microstati, la distribuzione con probabilità maggiore ha la maggiore entropia. 
+A maggiore energia, il numero di microstati possibili aumenta e quindi aumenta l'entropia.
 
-Se si aumenta N, il numero di microstati cresce esponenzialmente. In lab il numero di particelle in un sistema sono molto grandi, perché si considera moli di molecole ($10^23$). Indipendentemente dal numero di particelle, la distribuzione in cui le particelle sono disposte in modo più uniforme è sempre quella con la maggiore probabilità, infatti è anche quello che produce una reazione spontanea. Una reazione spontanea produce anche in aumento di entropia. La stessa cosa vale per i flussi di calore.
+Microstati  con la stessa disposizione dal punto di vista del sistema sono detti **distribuzioni**. La probabilità che un sistema esista con i suoi componenti in una data distribuzione è proporzionale al numero di microstati all'interno della distribuzione. Visto che l'entropia aumenta logaritmicamente con il numero di microstati, la distribuzione con probabilità maggiore ha la maggiore entropia e quindi ha la maggior probabilità che accada.
+
+Se si aumenta l'energia, il numero di microstati cresce esponenzialmente. In lab il numero di particelle in un sistema sono molto grandi, perché si considera moli di molecole ($10^23$). Indipendentemente dal numero di particelle, la distribuzione in cui le particelle sono disposte in modo più uniforme è sempre quella con la maggiore probabilità, infatti è anche quello che produce una reazione spontanea. Una reazione spontanea produce anche in aumento di entropia. La stessa cosa vale per i flussi di calore.
+
+L'entropia è sempre maggiore nei 3 seguenti casi:
+- l'entropia di molecoel grandi è maggiore di molecole più piccole (per il bending)
+- l'entropia di molecole con struttura molecolare complessa è maggiore di molecole con struttura molecolare più semplice
+- l'entropia di stati gassosi > stati liquidi > stati solidi.
 
 ### Predire il segno di ∆S
 
@@ -72,6 +79,8 @@ Il segno - dell'entropia del sistema indica la direzione del flusso di calore. I
 Queste tre situazioni portano alla formulazione della relazione che esiste tra la spontaneità di una reazione e la sua entropia. Questa relazione è definita **seconda legge della termodinamica:**
 > Tutte le trasformazioni spontanee sono caratterizzate da un aumento dell'entropia dell'universo
 
+Possiamo riformulare le condizioni per cui una reazione è spintanea utilizzando il secondo principio della termodinamica per cui una reazione è spionatanea se e solo se l'entropia dell'universo aumenta e possiamo scriverla come $∆S>0$.
+
 Spesso la perdita di energia da parte dell'ambiente è una piccola parte rispetto all'energia totale che possiede quindi q(ambiente) è una buona approssimazione per q(rev) e la seconda legge diventa:
 
 $∆S_{uni} = ∆S_{ambiente} + ∆S_{sistema} = {q_{ambiente}\over ∆T_{ambiente} + ∆S_{sistema}}$
@@ -86,9 +95,11 @@ Questa situazione è descritta dalla **terza legge della termodinamica:**
 
 **L'entropia standard (S°)** è il valore dell'entropia a 298 K e alla pressione di 1 bar, la **variazione di entropia standard (∆S°)** può essere calcolata a partire dall'entropia standard dei reagenti e dei prodotti. Per una reazione generica:
 
-mA+nB ⟶ xC+yD
+$$mA+nB ⟶ xC+yD$$
 
-∆S° =  ∑ NS° (prodotti) − ∑ NS° (reagenti)
+$$∆S° =  ∑ (m+n)\cdot(S°_{prodotti}) − ∑ (x+y)\cdot(S°_{reagenti})$$
+
+variazione di entropia del sistema
 
 ## Energia libera
 
@@ -110,9 +121,9 @@ La variazione di energia libera è un buon indicatore della spontaneità di un p
 
 |Entropia                          |Energia libera                         |Spontaneità
 |----------------|-------------------------------|-----------------------------|
-|∆S > 0|∆G < 0            |spontanea           |
-|∆S < 0         |∆G > 0          |non spontanea            |
-|∆S = 0         |∆S = 0|reversibile|
+|∆S > 0         |∆G < 0                          |spontanea|
+|∆S < 0         |∆G > 0                          |non spontanea|
+|∆S = 0         |∆S = 0                          |reversibile|
 
 Per calcolare l'energia libera, si può usare l'entropia e l'entalpia standard per trovare l'energia libera standard. Un altro modo è quello di usare l'energia libera di formazione dei reagenti e dei prodotti. L'energia libera di formazione è l'energia libera necessaria per produrre 1 mole di sostanza a partire dai suoi elementi in STP e forme più stabili. Simile all'entalpia di formazione, per sostanza elementari in STP la loro energia libera di formazione è uguale a zero. 
 
