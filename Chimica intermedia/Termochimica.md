@@ -14,11 +14,19 @@ Il lavoro può essere a sua volta diviso in due grandi macro gruppi:
 - **Energia cinetica (K):** l'energia che possiede un corpo perché è in movimento, in chimica viene chiamata **energia termica**.
 - **Energia potenziale (U):** l'energia che possiede un corpo a causa della sua posizione, in chimica viene chiamata **energia chimica**, ovvvero l'energia contenuta nei legami tra atomi e molecole.
 
+$$W=U+K$$
+
 Quando si fa lavoro, c'è l'informazione di direzione perché le molecole si spostano tutte con lo stesso vettore. 
 
-Quando invece siamo in presenza di calore, non siamo in presenza di energia che contiene informazioni di direzione perché le particelle sono indipendenti. Le singole particelle che compongono la materia che sono sotto forma di calore hanno ognuna un proprio vettore. Queste particelle hanno una K media, ma alcune particelle si muovono più velocemente e altre più lentamente. 
+Quando invece siamo in presenza di calore, non siamo in presenza di energia che contiene informazioni di direzione perché le particelle sono indipendenti: quando l'energia è sotto forma di calore, le singole particelle hanno ognuna un proprio vettore. Queste particelle hanno una K media, ma alcune particelle si muovono più velocemente e altre più lentamente. 
 
 L'energia può essere convertita da un tipo ad un altro ma l'energia totale prima di una trasformazione è uguale all'energia totale dopo una trasformazione, questo viene definito dalla legge della conservazione dell'energia: durante una trasformazione chimica o fisica, l'energia non può essere né creata né distrutta, ma si trasforma, ovvero l'energia totale in un sistema isolato rimane costante. In una reazione chimica si ha sempre la dispersione parziale di energia sotto forma di calore che può essere assorbito o rilasciato.
+
+**Legge della conservazione dell'energia:**
+
+$$E_i = E_f$$
+$$Q_i+W_i = Q_f+W_f$$
+$$Q_i+U_i+K_i = Q_f+U_f+U_f$$
 
 In una reazione chimica la somma delle masse prima e dopo la reazione è la stessa. In una reazione chimica la legge della conservazione dell'energia e della materia è valida, ma questo non accade nelle reazioni nucleari. Quindi per unire queste due reazioni si è unita la legge della conservazione della materia e dell'energia con un'unica frase:
 
