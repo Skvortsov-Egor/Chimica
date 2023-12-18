@@ -15,6 +15,8 @@ In un processo spontaneo, l'energia tende ad andare nella direzione della massim
 
 > Tutto quello che succede è ciò che fa avvenire le cose è il caso. Ogni sistema tende ad andare verso il minimo di U. 
 
+Ogni oggetto è in continuo cambiamento, e si manifesta la disposizione delle particelle e quindi la dispersione di energia più probabile è quindi l'oggetto macroscopico è lo stesso. Non esiste un evento impossibile, è solo molto poco probabile. 
+
 Rudolf Clausius introdusse una nuova proprietà termodinamica che mette in relazione il flusso di calore spontaneo di un processo con la temperatura a cui questo processo avviene. Questa proprietà è il rapporto tra il calore reversibile e la temperatura a cui avviene in kelvin.
 
 Questa proprietà Clausius la nominò **Entropia (S)**, essa è una funzione di stato (dipende solo dal punto iniziale e finale): misura la probabilità che unn evento avvenga.
