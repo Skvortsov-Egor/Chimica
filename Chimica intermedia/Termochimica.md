@@ -18,7 +18,9 @@ $$W=U+K$$
 
 Quando si fa lavoro, c'è l'informazione di direzione perché le molecole si spostano tutte con lo stesso vettore. 
 
-Quando invece siamo in presenza di calore, non siamo in presenza di energia che contiene informazioni di direzione perché le particelle sono indipendenti: quando l'energia è sotto forma di calore, le singole particelle hanno ognuna un proprio vettore. Queste particelle hanno una K media, ma alcune particelle si muovono più velocemente e altre più lentamente. 
+Quando invece siamo in presenza di calore, non siamo in presenza di energia che contiene informazioni di direzione perché le particelle sono indipendenti: quando l'energia è sotto forma di calore, le singole particelle hanno ognuna un proprio vettore. Queste particelle hanno una K media, ma alcune particelle si muovono più velocemente e altre più lentamente.
+
+Energia con informazione è il lavoro, e questo vuol dire che siamo in grado di prevedere cosa accadrà (stato successivo). 
 
 L'energia può essere convertita da un tipo ad un altro ma l'energia totale prima di una trasformazione è uguale all'energia totale dopo una trasformazione, questo viene definito dalla legge della conservazione dell'energia: durante una trasformazione chimica o fisica, l'energia non può essere né creata né distrutta, ma si trasforma, ovvero l'energia totale in un sistema isolato rimane costante. In una reazione chimica si ha sempre la dispersione parziale di energia sotto forma di calore che può essere assorbito o rilasciato.
 
@@ -49,7 +51,7 @@ Esistono tre possibili sistemi:
 
 La maggior parte delle sostanze se riscaldate si espandono e se raffreddate si contraggono. Questa caratteristica è usata per misurare la temperatura, ed è infatti su questo principio che funzionano i termometri.
 
-**Il calore (q)** è il trasferimento di energia termica tra due corpi a temperature diverse. Quando due corpi sono a contatto il calore si trasferisce dal corpo più caldo (e diminuisce la sua energia termica) e quindi con una K media maggiore (energia termica maggiore) al corpo più freddo (aumenta la sua energia termica) e quindi con una K minore (energia termica minore). Questo trasferimento avviene in modo spontaneo e si ferma solo quando i due corpi hanno raggiunto la stessa temperatura (temperatura di equilibrio). Maggiore è la temperatura, maggiore sarà la sua energia termica, e quindi man mano che a un corpo diminuisce la sua energia termica, diminuisce anche la sua temperatura: temepratura ed energia sono direttamente proporzionali.
+**Il calore (Q)** è il trasferimento di energia termica tra due corpi a temperature diverse. Quando due corpi sono a contatto il calore si trasferisce dal corpo più caldo (e diminuisce la sua energia termica) e quindi con una K media maggiore (energia termica maggiore) al corpo più freddo (aumenta la sua energia termica) e quindi con una K minore (energia termica minore). Questo trasferimento avviene in modo spontaneo e si ferma solo quando i due corpi hanno raggiunto la stessa temperatura (temperatura di equilibrio). Maggiore è la temperatura, maggiore sarà la sua energia termica, e quindi man mano che a un corpo diminuisce la sua energia termica, diminuisce anche la sua temperatura: temepratura ed energia sono direttamente proporzionali.
 
 In una reazione chimica la materia può assorbire o liberare energia. Una reazione che rilascia energia nell'ambiente è una reazione **esotermica** e quindi la temperatura del sistema aumenta e del corpo diminuisce. Una reazione che assorbe energia dall'ambiente è una reazione **endotermica** e quindi la temperatura del sistema diminuisce, ma quella del corpo aumenta. 
 
@@ -108,12 +110,15 @@ Esistono inoltre calorimetri che misurano la quantità di q che genera una perso
 
 La termochimica è una branca della termodinamica chimica: la scienza che studia le relazioni tra calore, lavoro e temperatura. Le sostanze sono riserve di energia a cui essa può essere sottratta o data. Una sostanza può immagazzinare energia quando aumenta la sua energia cinetica, e ciò può avvenire sotto forma ad un aumento di movimento delle molecole/atomi (rotazioni, vibrazioni, traslazioni). 
 
-- **L'energia interna (E):** è la somma totale di tutti i tipi di energia presenti in una sostanza (U + K).
+- **L'energia interna (E):** è la somma totale di tutti i tipi di energia presenti in una sostanza (U + K). Non siamo in grado di stabilire un valore assoluto per E, ma siamo in grado di calcolare ΔE. 
 
 Quando un sistema subisce una trasformazione, la sua E può cambiare e l'energia può trasferirsi da sistema all'ambiente e viceversa. L'energia si trasferisce al sistema quando esso assorbe calore dall'ambiente o quando l'ambiente fa lavoro sul sistema. L'energia si trasferisce invece all'ambiente quando il sistema rilascia calore o quando fa lavoro sull'ambiente. La relazione tra E, q e w:
 
 $$E = K + U$$
-$$∆E = q + w$$ (questo perché la E varia se viene assorbita/rilasciato calore dal sistema o esso fa o subisce del lavoro)
+
+In questa forma, non è presente il Q perché lo stato iniziale non è caratterizzato da scambi di calore. 
+
+$$∆E = Q + W$$ (questo perché la E varia se viene assorbita/rilasciato calore dal sistema o esso fa o subisce del lavoro)
 
 Questa è una versione della prima legge della termodinamica e mostra come l'energia interna cambia con l'assorbimento o rilascio di calore (se rilasciato q è negativo, se assorbito q è positivo) oppure se il lavoro viene fatto sul o dal sistema. 
 
