@@ -54,7 +54,9 @@ Le relazioni dell'entropia può predire il segno dell'entropia in una trasformaz
 
 Atomi con massa atomica maggiore hanno entropia maggiore rispetto ad atomi più leggeri che si trovano alla stessa temperatura. Questa è una conseguenza della relazione massa/spazio tra lvl energetici. Il numero di atomi in molecole invece aumentano il numero di microstati possibili e l'entropia del sistema. Anche il tipo di particelle influenza l'entropia: miscugli hanno un'entropia maggiore rispetto ad una sostanza pura e questo perché un miscuglio ha delle interazioni aggiuntive rispetto ad una sostanza pura e perché quando due componenti sono mischiate esse sono libere di muoversi, questo causa un aumento dell'entropia e una più uniforme dispersione della materia e dell'energia.
 
-La probabilità di un evento è quindi l'entropia, dipende dall'energia disponibile (energia libera) e dalla temperatura. L'energia può e non può abbandonare il sistema, dipende dall'energia termica disponibile (a STP è tanta) e dalla temperatura del sistema e dell'ambiente. Se la T ambiente è minore di quella del sistema, avremmo una reazione esoterica, in caso contrario avremmo una reazione endotermica. 
+La probabilità di un evento è quindi l'entropia, dipende dall'energia disponibile (energia libera) e dalla temperatura (∆S ambiente è inversamente proporzionale alla temperatura), all'aumentare della temperatura l'entalpia incide meno sull'entropia totale. L'energia può e non può abbandonare il sistema, dipende dall'energia termica disponibile (a STP è tanta) e dalla temperatura del sistema e dell'ambiente. Se la T ambiente è minore di quella del sistema, avremmo una reazione esoterica, in caso contrario avremmo una reazione endotermica.
+
+La solubilità di una soluzione dipende dall'entropia, essendo un evento spontaneo, quando l'entropia diventa negativa, si raggiunge la solubiilità massima.
 
 ## Seconda e terza legge della Termodinamica
 
@@ -117,30 +119,32 @@ $G = H - TS$
 
 L'energia libera è una funzione di stato, e a temperatura e pressione costante, la **variazione standard di energia libera (∆G°):** fa il lavoro massimo
 
-$ΔG = ΔH − TΔS$
+$$ΔG = ΔH − TΔS$$
+
+Questa equazione si ricava da una manipolazione algebrica dell'equazione di $∆S_{tot}$.
 
 L'energia libera è un altro modo di indicare l'energia totale in funzione dell'entropia del sistema e ha uguale comportamento dell'energia potenziale. 
 
 La prima legge della termodinamica dice che $q_{ambiente} = -q_{sistema}$, e a pressione costante $q_{sistema} = ∆H$: 
 
-$∆S_{uni} = ∆S_{ambiente} + ∆S_{sistema} = ∆S_{sistema} - {∆H\over T}$
-$-T∆S_{uni} = ∆H - T∆S_{sistema}$
-$ΔG = −TΔS_{universo}$
+$$∆S_{uni} = ∆S_{ambiente} + ∆S_{sistema} = ∆S_{sistema} - {∆H\over T}$$
+$$-T∆S_{uni} = ∆H - T∆S_{sistema}$$
+$$ΔG = −TΔS_{universo}$$
 
 La variazione di energia libera è un buon indicatore della spontaneità di un processo.
 
 |Entalpia        |Entropia               |Energia libera     |Spontaneità|
 |----------------|-----------------------|-------------------|-----------|
-|Esotermico (∆H<0)         |∆S>0         |∆G<0               |sempre spontanea|
-|Esotermico (∆H<0)         |∆S<0         |dipendente da T    |spontanea a bassa T|
-|Endotermico (∆H>0)        |∆S>0         |dipendente da T    |spontanea a alta T|
-|Endotermico (∆H>0)        |∆S<0         |∆G>0               |sempre non spontanea
+|Esotermico (∆H < 0)         |∆S > 0         |∆G < 0               |sempre spontanea|
+|Esotermico (∆H < 0)         |∆S < 0         |dipendente da T    |spontanea a bassa T|
+|Endotermico (∆H > 0)        |∆S > 0         |dipendente da T    |spontanea a alta T|
+|Endotermico (∆H > 0)        |∆S < 0         |∆G > 0               |sempre non spontanea
 
 Per calcolare l'energia libera, si può usare l'entropia e l'entalpia standard per trovare l'energia libera standard. Un altro modo è quello di usare l'energia libera di formazione dei reagenti e dei prodotti. L'energia libera di formazione è l'energia libera necessaria per produrre 1 mole di sostanza a partire dai suoi elementi in STP e forme più stabili. Simile all'entalpia di formazione, per sostanza elementari in STP la loro energia libera di formazione è uguale a zero. 
 
 mA+nB ⟶ xC+yD
 
-∆G° =  ∑ NG° (prodotti) − ∑ NG° (reagenti)
+$$∆G° =  ∑ (m + n)\cdot G°_{prodotti} − ∑ (x + y)\cdot G°_{reagenti}$$
 
 ### Temperatura dipendenza della spontaneità
 
