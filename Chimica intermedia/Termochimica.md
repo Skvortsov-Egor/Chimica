@@ -6,7 +6,10 @@ La **Termochimica** è la branca della chimica che si occupa dell'assorbimento e
 
 ## Energia
 
-L'**energia** può essere definita come la capacità di fare **lavoro** o fornire calore. Il **lavoro (w)** è invece il fenomeno che causa il movimento di un corpo per azione di una forza. L'energia può essere divisa in due tipi:
+L'**energia** può essere definita come la capacità di fare **lavoro** o fornire calore. Il **lavoro (w)** è invece la capacità di fare uno spostamento per azione di una forza. L'energia può essere divisa in due tipi:
+- **Lavoro:** cambiamento che contiene l'informazione di direzione. 
+- **Calore:** cambiamento che NON contiene l'informazione di direzione. 
+Il lavoro può essere a sua volta diviso in due grandi macro gruppi:
 - **Energia cinetica (K):** l'energia che possiede un corpo perché è in movimento, in chimica viene chiamata **energia termica**.
 - **Energia potenziale (U):** l'energia che possiede un corpo a causa della sua posizione, in chimica viene chiamata **energia chimica**, ovvvero l'energia contenuta nei legami tra atomi e molecole.
 
