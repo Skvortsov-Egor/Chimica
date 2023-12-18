@@ -120,6 +120,8 @@ In questa forma, non è presente il Q perché lo stato iniziale non è caratteri
 
 $$∆E = Q + W$$ (questo perché la E varia se viene assorbita/rilasciato calore dal sistema o esso fa o subisce del lavoro)
 
+Questo vuol dire che l'informazione dell'universo sta diminuendo perché il lavoro non si conserva (ΔE) e quindi neanche l'energia con informazione. 
+
 Questa è una versione della prima legge della termodinamica e mostra come l'energia interna cambia con l'assorbimento o rilascio di calore (se rilasciato q è negativo, se assorbito q è positivo) oppure se il lavoro viene fatto sul o dal sistema. 
 
 Il **lavoro di espansione (lavoro di pressione-volume)** si verifica quando il sistema spinge l'ambiente con una pressione, o quando l'ambiente comprime il sistema.
