@@ -13,6 +13,8 @@ In un processo spontaneo, l'energia tende ad andare nella direzione della massim
 
 ## Entropia
 
+> Tutto quello che succede è ciò che fa avvenire le cose è il caso. Ogni sistema tende ad andare verso il minimo di U. 
+
 Rudolf Clausius introdusse una nuova proprietà termodinamica che mette in relazione il flusso di calore spontaneo di un processo con la temperatura a cui questo processo avviene. Questa proprietà è il rapporto tra il calore reversibile e la temperatura a cui avviene in kelvin.
 
 Questa proprietà Clausius la nominò **Entropia (S)**, essa è una funzione di stato (dipende solo dal punto iniziale e finale): misura la probabilità che unn evento avvenga.
@@ -23,7 +25,7 @@ Il calore svambiato deve essere di una reazione reversibile, che è una reazione
 
 ### Entropia e microstati
 
-Boltzmann elaborò un modello molecolare che mise in relazione l'entropia del sistema col numero di microstati possibili per il sistema. Un **microstato (W)** è il numero di stati (disposizioni) possibili per le parti microscopiche ad una data energia, ovvero è il numero di modi pèossibili in cui l'energia è in grado di disperdirsi. Se il numero di stati possibili per una certa dispersione di energia è minore rispetto ad un'altra situazione, quest'ultima è più probabile che accada.
+Boltzmann elaborò un modello molecolare che mise in relazione l'entropia del sistema col numero di microstati possibili per il sistema. Un **microstato (W)** è il numero di stati (disposizioni) possibili per le parti microscopiche ad una data energia, ovvero è il numero di modi pèossibili in cui l'energia è in grado di disperdirsi. A ogni livello di energia, tutti gli stati sono occupati,ma se il numero di stati possibili per una certa dispersione di energia è minore rispetto ad un'altra situazione, quest'ultima è più probabile che accada e quindi osserveremo il macrostato più probabile. Dal punto di microscopico, ogni stato ha uguale probabilità che accada, ma dal punto di vista macro, accadrà quello che ha più microstati possibili e quindi è più probabile. 
 
 $$S = k ln W$$
 
