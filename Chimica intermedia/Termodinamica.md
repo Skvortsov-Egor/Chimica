@@ -52,7 +52,9 @@ L'entropia è sempre maggiore nei 3 seguenti casi:
 
 Le relazioni dell'entropia può predire il segno dell'entropia in una trasformazione chimica e fisica. Nel passaggio dalla fase solida a quella liquida, il movimento delle particelle aumenta e anche il numero microstati (il numero di microstati è proporzionale alla libertà delle particelle di muoversi liberamente) e quindi aumenta l'entropia e quindi ∆S > 0, per i processi inversi invece l'entropia diminuisce e quindi ∆S < 0. La temperatura aumenta con l'aumento dell'energia cinetica media, quindi con l'aumento delle temperature la velocità con cui si muovono le particelle aumenta. Questo aumenterà la velocità con cui le particelle cambiano fase. Quindi la temperatura ed il volume che occupano le particelle aumentano l'entropia. 
 
-Atomi con massa atomica maggiore hanno entropia maggiore rispetto ad atomi più leggeri che si trovano alla stessa temperatura. Questa è una conseguenza della relazione massa/spazio tra lvl energetici. Il numero di atomi in molecole invece aumentano il numero di microstati possibili e l'entropia del sistema. Anche il tipo di particelle influenza l'entropia: miscugli hanno un'entropia maggiore rispetto ad una sostanza pura e questo perché un miscuglio ha delle interazioni aggiuntive rispetto ad una sostanza pura e perché quando due componenti sono mischiate esse sono libere di muoversi, questo causa un aumento dell'entropia e una più uniforme dispersione della materia e dell'energia. 
+Atomi con massa atomica maggiore hanno entropia maggiore rispetto ad atomi più leggeri che si trovano alla stessa temperatura. Questa è una conseguenza della relazione massa/spazio tra lvl energetici. Il numero di atomi in molecole invece aumentano il numero di microstati possibili e l'entropia del sistema. Anche il tipo di particelle influenza l'entropia: miscugli hanno un'entropia maggiore rispetto ad una sostanza pura e questo perché un miscuglio ha delle interazioni aggiuntive rispetto ad una sostanza pura e perché quando due componenti sono mischiate esse sono libere di muoversi, questo causa un aumento dell'entropia e una più uniforme dispersione della materia e dell'energia.
+
+La probabilità di un evento è quindi l'entropia, dipende dall'energia disponibile (energia libera) e dalla temperatura. L'energia può e non può abbandonare il sistema, dipende dall'energia termica disponibile (a STP è tanta) e dalla temperatura del sistema e dell'ambiente. Se la T ambiente è minore di quella del sistema, avremmo una reazione esoterica, in caso contrario avremmo una reazione endotermica. 
 
 ## Seconda e terza legge della Termodinamica
 
@@ -85,6 +87,8 @@ Queste tre situazioni portano alla formulazione della relazione che esiste tra l
 
 Possiamo riformulare le condizioni per cui una reazione è spintanea utilizzando il secondo principio della termodinamica per cui una reazione è spionatanea se e solo se l'entropia dell'universo aumenta e possiamo scriverla come $∆S>0$.
 
+> Una reazione è spontanea se l'entropia totale aumenta, se diminuisce è un processo non spontaneo. 
+
 Spesso la perdita di energia da parte dell'ambiente è una piccola parte rispetto all'energia totale che possiede quindi q(ambiente) è una buona approssimazione per q(rev) e la seconda legge diventa:
 
 $∆S_{uni} = ∆S_{ambiente} + ∆S_{sistema} = {q_{ambiente}\over ∆T_{ambiente} + ∆S_{sistema}}$
@@ -114,6 +118,8 @@ $G = H - TS$
 L'energia libera è una funzione di stato, e a temperatura e pressione costante, la **variazione standard di energia libera (∆G°):** fa il lavoro massimo
 
 $ΔG = ΔH − TΔS$
+
+L'energia libera è un altro modo di indicare l'energia totale in funzione dell'entropia del sistema e ha uguale comportamento dell'energia potenziale. 
 
 La prima legge della termodinamica dice che $q_{ambiente} = -q_{sistema}$, e a pressione costante $q_{sistema} = ∆H$: 
 
