@@ -13,7 +13,7 @@ In un processo spontaneo, l'energia tende ad andare nella direzione della massim
 
 ## Entropia
 
-> Tutto quello che succede è ciò che fa avvenire le cose è il caso. Ogni sistema tende ad andare verso il minimo di U. 
+> Tutto quello che succede è ciò che fa avvenire le cose è il caso (nel caso in cui non ci siano forze, la probabilità che qualcosa accada è uguale). Ogni sistema tende ad andare verso il minimo di U. 
 
 Ogni oggetto è in continuo cambiamento, e si manifesta la disposizione delle particelle e quindi la dispersione di energia più probabile è quindi l'oggetto macroscopico è lo stesso. Non esiste un evento impossibile, è solo molto poco probabile. 
 
@@ -21,7 +21,7 @@ Rudolf Clausius introdusse una nuova proprietà termodinamica che mette in relaz
 
 Questa proprietà Clausius la nominò **Entropia (S)**, essa è una funzione di stato (dipende solo dal punto iniziale e finale): misura la probabilità che unn evento avvenga.
 
-$$∆S = {q_{rev}\over ∆T}$$
+$$∆S = {Q_{rev}\over ∆T}$$
 
 Il calore svambiato deve essere di una reazione reversibile, che è una reazione per cui è possibile ritornare indietro seguendo lo stesso percorso, senza modificare l'ambiente. La ∆S è la misura della dispersione di energia avvenuta in un processo. QUesta equazione corrisponde anche alla variazione di entropia dell'ambiente.
 
