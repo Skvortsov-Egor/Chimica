@@ -129,11 +129,12 @@ $ΔG = −TΔS_{universo}$
 
 La variazione di energia libera è un buon indicatore della spontaneità di un processo.
 
-|Entropia                          |Energia libera                         |Spontaneità
-|----------------|-------------------------------|-----------------------------|
-|∆S > 0         |∆G < 0                          |spontanea|
-|∆S < 0         |∆G > 0                          |non spontanea|
-|∆S = 0         |∆S = 0                          |reversibile|
+|Entalpia        |Entropia               |Energia libera     |Spontaneità|
+|----------------|-----------------------|-------------------|-----------|
+|Esotermico (∆H<0)         |∆S>0         |∆G<0               |sempre spontanea|
+|Esotermico (∆H<0)         |∆S<0         |dipendente da T    |spontanea a bassa T|
+|Endotermico (∆H>0)        |∆S>0         |dipendente da T    |spontanea a alta T|
+|Endotermico (∆H>0)        |∆S<0         |∆G>0               |sempre non spontanea
 
 Per calcolare l'energia libera, si può usare l'entropia e l'entalpia standard per trovare l'energia libera standard. Un altro modo è quello di usare l'energia libera di formazione dei reagenti e dei prodotti. L'energia libera di formazione è l'energia libera necessaria per produrre 1 mole di sostanza a partire dai suoi elementi in STP e forme più stabili. Simile all'entalpia di formazione, per sostanza elementari in STP la loro energia libera di formazione è uguale a zero. 
 
