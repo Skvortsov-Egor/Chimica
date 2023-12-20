@@ -135,14 +135,14 @@ La variazione di energia libera è un buon indicatore della spontaneità di un p
 
 |Entalpia        |Entropia               |Energia libera     |Spontaneità|
 |----------------|-----------------------|-------------------|-----------|
-|Esotermico (∆H < 0)         |∆S > 0         |∆G < 0               |sempre spontanea|
-|Esotermico (∆H < 0)         |∆S < 0         |dipendente da T    |spontanea a bassa T|
-|Endotermico (∆H > 0)        |∆S > 0         |dipendente da T    |spontanea a alta T|
-|Endotermico (∆H > 0)        |∆S < 0         |∆G > 0               |sempre non spontanea
+|Esotermico ($∆H < 0$)         |$∆S > 0$         |$∆G < 0$               |sempre spontanea|
+|Esotermico ($∆H < 0$)         |$∆S < 0$         |dipendente da $T$    |spontanea a bassa $T$|
+|Endotermico ($∆H > 0$)        |$∆S > 0$         |dipendente da $T$    |spontanea a alta $T$|
+|Endotermico ($∆H > 0$)        |$∆S < 0$         |$∆G > 0$               |sempre non spontanea
 
 Per calcolare l'energia libera, si può usare l'entropia e l'entalpia standard per trovare l'energia libera standard. Un altro modo è quello di usare l'energia libera di formazione dei reagenti e dei prodotti. L'energia libera di formazione è l'energia libera necessaria per produrre 1 mole di sostanza a partire dai suoi elementi in STP e forme più stabili. Simile all'entalpia di formazione, per sostanza elementari in STP la loro energia libera di formazione è uguale a zero. 
 
-mA+nB ⟶ xC+yD
+$$mA+nB ⟶ xC+yD$$
 
 $$∆G° =  ∑ (m + n)\cdot G°_{prodotti} − ∑ (x + y)\cdot G°_{reagenti}$$
 
