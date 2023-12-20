@@ -27,7 +27,7 @@ Il calore svambiato deve essere di una reazione reversibile, che è una reazione
 
 ### Entropia e microstati
 
-Boltzmann elaborò un modello molecolare che mise in relazione l'entropia del sistema col numero di microstati possibili per il sistema. Un **microstato (W)** è il numero di stati (disposizioni) possibili per le parti microscopiche ad una data energia, ovvero è il numero di modi pèossibili in cui l'energia è in grado di disperdirsi. A ogni livello di energia, tutti gli stati sono occupati,ma se il numero di stati possibili per una certa dispersione di energia è minore rispetto ad un'altra situazione, quest'ultima è più probabile che accada e quindi osserveremo il macrostato più probabile. Dal punto di microscopico, ogni stato ha uguale probabilità che accada, ma dal punto di vista macro, accadrà quello che ha più microstati possibili e quindi è più probabile. 
+Boltzmann elaborò un modello molecolare che mise in relazione l'entropia del sistema col numero di microstati possibili per il sistema. Un **microstato (W)** è il numero di stati (disposizioni) possibili per le parti microscopiche ad una data energia, ovvero è il numero di modi pèossibili in cui l'energia è in grado di disperdirsi. A ogni livello di energia, tutti gli stati sono occupati, ma se il numero di stati possibili per una certa dispersione di energia è minore rispetto ad un'altra situazione, quest'ultima è più probabile che accada e quindi osserveremo il macrostato più probabile. Dal punto di microscopico, ogni stato ha uguale probabilità che accada, ma dal punto di vista macro, accadrà quello che ha più microstati possibili e quindi è più probabile.
 
 $$S = k ln W$$
 
@@ -35,7 +35,7 @@ k è uguale a $1.38 x 10^{-23} {J\over K}$
 
 $$ΔS = S_f − S_i = k ln W_f − k ln W_i = k ln {Wf\over Wi}$$
 
-∆S > 0 se il numero di microstati aumenta (Wf > Wi), ∆S < 0 se il numero di microstati diminuisce (Wf < Wi).
+$∆S > 0$ se il numero di microstati aumenta ($Wf > Wi$), $∆S < 0$ se il numero di microstati diminuisce ($Wf < Wi$).
 
 A maggiore energia, il numero di microstati possibili aumenta e quindi aumenta l'entropia.
 
@@ -47,6 +47,8 @@ L'entropia è sempre maggiore nei 3 seguenti casi:
 - l'entropia di molecoel grandi è maggiore di molecole più piccole (per il bending)
 - l'entropia di molecole con struttura molecolare complessa è maggiore di molecole con struttura molecolare più semplice
 - l'entropia di stati gassosi > stati liquidi > stati solidi.
+
+> L'entropia è la probabilità che un evento accada, cioè è la dipsersione di energia perché la probablità che un evento accada è maggiore quando la dispersione di energia è massima.
 
 ### Predire il segno di ∆S
 
