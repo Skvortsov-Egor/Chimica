@@ -179,4 +179,4 @@ Il ∆H in una direzione di reazione è uguale a quello in direzione inversa, ma
 
 Possiamo calcolarci l'entalpia di reazione nel caso abbiamo a disposizione le entalpie standard di formazione: Nel caso in cui abbiamo tutti i prodotti e reagenti dell'equazione chimica scomposti che formano delle reazioni di decomposizione in cui i prodotti sono elementi liberi nella loro forma più stabile in condizioni standard, e le loro relative entalpie standard di formazione, allora possiamo calcolarci l'entalpia di reazione, facendo ∆H°(f) prodotti - ∆H°(f)reagenti moltiplicati per i propri coefficienti stechiometrici:
 
-$$∆H_{reazione} = ∑(n\cdot ∆H°_f _{prodotti} - ∑(n\cdot ∆H°_f _{reagenti})$$
+$$∆H_{reazione} = ∑(n\cdot ∆H°_{f\\ prodotti} - ∑(n\cdot ∆H°_{f\\ reagenti})$$
