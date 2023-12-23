@@ -5,11 +5,11 @@
 
 ## Equilibrio chimico
 
-Le reazioni chimiche sono spesso scritte come se seguissero una direzione, ma ogni reazione è reversibile. In un **equilibrio chimico** entrambe le reazioni si verificano alla stessa velocità e la concentrazione di reagente e prodotto rimane costante. Se il sistema è chiuso, la resa di reazione non è mai 100%, ed alcuni reagenti rimangono dopo che la concentrazione dei prodotti rimangono costanti: si è raggiunto l'equilibrio.
+Le reazioni chimiche sono spesso scritte come se seguissero una direzione, ma ogni reazione è reversibile almeno in principio. Una reazione reversibile avverà ad una certa velocità, ed i reagenti che man mano si trasformeranno in prodtti, diminueranno la loro velocità di reazione e i prodotti comincieranno a ricombinarsi per formare i reagenti, dopo un certo tempo si raggiungerà l'equilibrio chimico. In un **equilibrio chimico** entrambe le reazioni si verificano alla stessa velocità e la concentrazione di reagente e prodotto rimane costante. Se il sistema è chiuso, la resa di reazione non è mai 100%, ed alcuni reagenti rimangono dopo che la concentrazione dei prodotti rimangono costanti: si è raggiunto l'equilibrio.
 
 Le doppie frecce (⇌) indicano che la reazione è reversibile. Tutte le reazioni sono reversibili, ma molte procedono in una direzione finché il reagente non è stato usufruito e avverrà la reazione inversa solo sotto determinate condizioni. Altre reazioni sono invece reversibili sotto condizioni più semplici. In una reazione reversibile, i reagenti possono combinarsi per formare i prodotti e i prodotti possono reagire per formare i reagenti.
 
-> **L'equilibrio chimico è un processo dinamico:** la concentrazione dei reagenti e dei prodotti rimane costante, ma in continuazione i reagenti si combinano e formano prodotti e i prodotti reagiscono per formano i reagenti.
+> **L'equilibrio chimico è un processo dinamico:** la velocità di reazione è la stessa per entrambi i versi della reazione e la concentrazione dei reagenti e dei prodotti rimane costante, ma in continuazione i reagenti si combinano e formano prodotti e i prodotti reagiscono per formano i reagenti.
 
 In un equilibrio chimico, le due razioni non si fermano, ma continuano con velocità costante e la concentrazione dei reagenti e prodotti rimane costante. Possiamo identificare una situazione di equilibrio chimico quando le concentrazioni dei reagenti e dei prodotti non cambiano, però è sempre meglio verificare perché la reazione potrebbe avenire ad una piccola velocità di reazione e quindi non si riesce a notare la variazione di concentrazione.
 
@@ -25,17 +25,46 @@ $$Q_c = {[C]^x[D]^y\over [A]^n[B]^m}$$
 
 Quando i reagenti sono stati appena mischiati, il $Q_c$ è uguale a zero, il quoziente di reazione aumenta man mano che aumenta la concentrazione del prodotto e diminuisce quella dei reagenti. Una volta che si è raggiunto l'equilibrio, il quoziente di reazione rimane costante.
 
-La **costante d'equilibrio ($K_c$)** è il valore del quoziente di reazione quando la reazione raggiunge l'equilibrio. Ad una determinata temperatura, la costante di equilibrio è sempre la stessa per una determinata reazione. 
+La **costante d'equilibrio ($K_c$)** è il valore del quoziente di reazione quando la reazione raggiunge l'equilibrio. Ad una determinata temperatura, la costante di equilibrio è sempre la stessa per una determinata reazione.
+
+$$K_c = {[C]^x[D]^y\over [A]^n[B]^m}$$
 
 Un grande valore di Kc indica che l'equilibrio è stato raggiunto solo dopo che una grande parte dei reagenti è stata trasformata in prodotto. Un piccolo valore di kc indica il contrario. Se si sa il Kc, si può dedurre il verso della reazione perché ogni sistema tenderà all'equilibrio e quindi mettendo a confronto il valore di Kc e di Qc, si deduce il verso della reazione. L'equilibrio può instaurarsi sia partendo dai prodotti che dai reagenti. 
 
-Spesso si omette l'unità di misura parlando di Qc e Kc. L'uso delle concentrazioni nel determinare il Qc e Kc è una convenzione, ma un approccio semplificato perché a volte va in conflitto con il fatto che il Qc all'equilibrio rimane costante: esso varia all'equilibrio quando si usano alte concentrazioni di soluzione, questo si può evitare usando le **attività**: la misura della concentrazione effettiva di una sostanza sotto specifiche condizioni. Le attività sono adimensionali  e sono concentrazioni "corrette"; per una soluzione diluita la molarità corrisponde all'attività; le attività per solidi e liquidi puri sono uguale a 1.
+Spesso si omette l'unità di misura parlando di Qc e Kc. L'uso delle concentrazioni nel determinare il Qc e Kc è una convenzione, ma un approccio semplificato perché a volte va in conflitto con il fatto che il Qc all'equilibrio rimane costante: esso varia all'equilibrio quando si usano alte concentrazioni di soluzione, questo si può evitare usando le **attività**: la misura della concentrazione effettiva di una sostanza sotto specifiche condizioni. Le attività sono adimensionali  e sono concentrazioni "corrette"; per una soluzione diluita la molarità corrisponde all'attività.
 
-Per ottenere la k di una reazione complessiva basta moltiplicare le k delle reazioni che la compongono. Nel caso in cui K << 1, i reagenti saranno la maggioranza, mentre se k >> 1 i prodotti saranno la maggioranza. Per ricavare il K (sia che sia Kc, che Kp) bisogna costruire una tabella **ICE**: in cui nella prima riga si scrivono le concentrazioni/pressioni iniziali (I), nell'ultima quelle all'equilibrio (E) e in mezzo si scrive la differenza espressa tramite una variabile elevata per il rispettivo coefficiente stechiometrico, e se si ha sia la I che E di un composto si può ricavare la variabile scrivendo un'equazione tra I, C ed E, da cui si ricava E per un composto ed il risultato può essere usato per trovare anche le restanti E, con cui succesivamente si ricava Kc o Kp.
+### Reazioni che coinvolgono solidi
+
+> Le concentrazioni dei solidi non devono essere inserite nell'espressione della costante di equilibrio e assumono un valore di 1.
+
+### Reazioni in soluzione acquosa
+
+> Le reazioni che avvengono in soluzione acquosa, la concentrazione dell'acqua non compare nell'espressione della costante di equilibrio e assumono un valore di 1.
+
+### Somma di reazioni chimiche
+
+> Quando si sommano due equazioni chimiche, la costante di equilibrio complessiva è uguale alla moltiplicazione delle $K_c$ delle reazioni che la compongono.
+
+### Confronto tra $Q_c$ e $K_c$
+
+Nel caso in cui $K < 1$, all'equilibrio i reagenti sono presenti in concentrazionen maggiore, mentre se $k > 1$, all'equilibrio i prodotti saranno presenti in concentrazione maggiore. Se avessimo un $$K << 1$$, solo una piccola parte dei reagenti si sarà trasformata in prodottie  potremmo quasi dire che non è avvenuta nessuna reazione. Se invece il $$K >> 1$$ e i reagenti sono presenti in quantità stechiometriche, non rimaranno praticamente reagenti.
+
+> Quando $K<1$, i reagenti sono favoriti rispetto ai prodotti; quando invece $K>1$, i prodotti sono favoriti rispetto ai reagenti.
+
+Le espressioni matematiche di $Q_c$ e $K_c$ sembrano uguali, ma numericano sono molto diverse perché le concentrazioni di $Q_c$ sono le concnetrazioni presenti in un determinato momento della reazione, inevce le concentrazioni usate per calcoare la costante d'equilibrio sono le concnetrazioni con cui i reagenti e i prodotti sono presenti all'equilibrio.
+
+Quando $Q=K$ siamo all'equilibrio, quando invece $Q>K$, l'equilibrio sin raggiungera trasformando una parte dei prodotti in reganeti, mentre se $Q< K$ l'equilibrio sarà raggiunto trasformando una parte dei reagenti in prodotti.
+
+## Calcolo della costante
+
+Si possono verificare tre casi:
+- Sono note le concnetrazioni di tutte le sostanze della reazione e quindi per trovare la costante basta inserire tutti i valori nell'espresione per trovare $K_c$
+- Sono note le concentrazioni inziali di tutti ni reagenti e la concnetrazione di un solo reagente o prodotto all'equilibrio. In questo caso bisogna costruire uan tabella ICE (I: initial state; C: Change; E: Equilibrium) e la si completa con i dati a disposzione e nella riga C, si scrive un'espressione nella variabile in x che mostra quanto varia la concnetrazione da I a E. Infine per sapere le concnetrazioni di tutte le altre sostanze all'equilibrio bisogna impostare un'equazione che mette in relazione le concnetrazioni I ed E della sostanza con concentrazioni notre e risolverla. La variabile trovata va sostituita alla x della riga E con cui si ricavano tutte le concnetrazioni all'equilibrio, per poi calcoalre $K_c$.
+- Ultimo caso è quello dove sono note sono solo le condizioni iniziali del sistema e bisogna impostare la tabella ICE, ma in questo caso non abbiamo valore finali, però ci è fornita la costante di equilibrio e quindi per determinare le concentrazioni alll'equilibrio di tutte le sostanze dovremmo inpostare un'equazione 
 
 ### Equilibri omogenei
 
-Un **equilibrio omogeneo** è un equilibrio dove tuti i reagenti e prodotti sono presenti nella stessa fase. Se si parla di una reazione che avviene in una fase gassosa, allora invece della concentrazione si può usare la pressione parziale perché essa è proporzionale alla concentrazione a temperatura costante (legge gas ideale). Quindi si usa una nuova simbologia Qp e Kp per indicare che i due valori sono stati trovati utilizzando le pressioni parziali. Questi valori sono sempre costanti, ma possono differire rispetto ai valori trovati con le concentrazioni. La relazione che c'è tra Kp e Kc:
+Un **equilibrio omogeneo** è un equilibrio dove tuti i reagenti e prodotti sono presenti nella stessa fase. Se si parla di una reazione che avviene in una fase gassosa, allora invece della concentrazione si può usare la pressione parziale perché essa è proporzionale alla concentrazione a temperatura costante (legge gas ideale). Quindi si usa una nuova simbologia $Q_p$ e $K_p$ per indicare che i due valori sono stati trovati utilizzando le pressioni parziali. Questi valori sono sempre costanti, ma possono differire rispetto ai valori trovati con le concentrazioni. La relazione che c'è tra Kp e Kc:
 
 
 $$nA + mB ⇌ xC + yD$$
