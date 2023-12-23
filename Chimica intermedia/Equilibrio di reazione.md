@@ -45,6 +45,14 @@ Spesso si omette l'unità di misura parlando di Qc e Kc. L'uso delle concentrazi
 
 > Quando si sommano due equazioni chimiche, la costante di equilibrio complessiva è uguale alla moltiplicazione delle $K_c$ delle reazioni che la compongono.
 
+### $K_c$ usando coefficienti stechiometrici diversi
+
+> Se i coefficieneti stechiometrici di una reazione bilanciata sono moltiplicata per un fattore, anche la costante di equilibrio va moltiplicata per lo stesso fattore.
+
+### Reazione Inversa
+
+> La costante di equilibrio di una reazione inversa è: $K_{inversa} = {1\over K_{diretta}}$
+
 ### Confronto tra $Q_c$ e $K_c$
 
 Nel caso in cui $K < 1$, all'equilibrio i reagenti sono presenti in concentrazionen maggiore, mentre se $k > 1$, all'equilibrio i prodotti saranno presenti in concentrazione maggiore. Se avessimo un $$K << 1$$, solo una piccola parte dei reagenti si sarà trasformata in prodottie  potremmo quasi dire che non è avvenuta nessuna reazione. Se invece il $$K >> 1$$ e i reagenti sono presenti in quantità stechiometriche, non rimaranno praticamente reagenti.
@@ -60,7 +68,9 @@ Quando $Q=K$ siamo all'equilibrio, quando invece $Q>K$, l'equilibrio sin raggiun
 Si possono verificare tre casi:
 - Sono note le concnetrazioni di tutte le sostanze della reazione e quindi per trovare la costante basta inserire tutti i valori nell'espresione per trovare $K_c$
 - Sono note le concentrazioni inziali di tutti ni reagenti e la concnetrazione di un solo reagente o prodotto all'equilibrio. In questo caso bisogna costruire uan tabella ICE (I: initial state; C: Change; E: Equilibrium) e la si completa con i dati a disposzione e nella riga C, si scrive un'espressione nella variabile in x che mostra quanto varia la concnetrazione da I a E. Infine per sapere le concnetrazioni di tutte le altre sostanze all'equilibrio bisogna impostare un'equazione che mette in relazione le concnetrazioni I ed E della sostanza con concentrazioni notre e risolverla. La variabile trovata va sostituita alla x della riga E con cui si ricavano tutte le concnetrazioni all'equilibrio, per poi calcoalre $K_c$.
-- Ultimo caso è quello dove sono note sono solo le condizioni iniziali del sistema e bisogna impostare la tabella ICE, ma in questo caso non abbiamo valore finali, però ci è fornita la costante di equilibrio e quindi per determinare le concentrazioni alll'equilibrio di tutte le sostanze dovremmo inpostare un'equazione 
+- Ultimo caso è quello dove sono note sono solo le condizioni iniziali del sistema e bisogna impostare la tabella ICE, ma in questo caso non abbiamo valore finali, però ci è fornita la costante di equilibrio e quindi per determinare le concentrazioni alll'equilibrio di tutte le sostanze dovremmo inpostare un'equazione che metta in relazione la costante di equilibrio con la sua espressione matematica in cui le concentrazione dei reagenti all'equilibrio sono sostituite dai valori in C. Quello che si ottiene è un'equazione di secondo grado dove il risultato negativo va scartato perché non ha significato chimicamente. Se nel denominatore è presente una sottrazione dove compare la variabile incognita, essa potrebbe essere trascurata se $K_c\cdot100 < A_0$
+
+
 
 ### Equilibri omogenei
 
@@ -83,22 +93,32 @@ Un **equilibrio eterogeneo** è un equilibrio dove tuti i reagenti e prodotti so
 
 ## Principio di Le Châtelier
 
-Se un sistema all'equilibrio viene sottoposto sotto stress come un cambio di concentrazione, la **posizione dell'equilibrio** cambia. Visto che lo stress cambia la concentrazione dei reagenti e dei prodotti: il valore di Q ≠ K e quindi se Q < K allora il sistema si sposterà verso i prodotti (i reagenti sono in concentrazione maggiore) e se Q > k allora il sistema si sposterà verso i reagenti (i prodotti sono in concentrazione maggiore). Questo finché Q non ritorna uguale a K. 
+Se un sistema all'equilibrio viene sottoposto sotto stress come un cambio di concentrazione, temperatura o volume, la **posizione dell'equilibrio** cambia.
 
 Questo viene descritto dal **principio di Le Châtelier:**
-> Quando un sistema all'equilibrio viene disturbato, esso ritorna all'equilibrio controbilanciando il disturbo. Il disturbo causa una variazione in Q e la reazione si sposterà per ristabilire Q=K. 
 
- Il principio di Le Châtelier può dedurre i cambiamenti nelle concentrazioni all'equilibrio, quando esso è stressato. Se il sistema non ha raggiunto l'equilibrio, possiamo confrontare i valori di Q e K per dedurre i cambiamenti del sistema. L'equilibrio del sistema può essere spostato aggiungendo o togliendo reagenti/prodotti: le concentrazioni dei prodotti e reagenti subiscono delle modifiche per ritornare all'equilibrio. 
+> Quando un sistema all'equilibrio viene perturbato, esso sarà indotto ad una variazione per compensare la modifica ed il sistema raggiungerà di nuovo l'equilibrio.
 
- È possibile cambiare la posizione dell'equilibrio cambiando la pressione del sistema, ma questo vale solo se sono coinvolti sostanze in fase gassosa e se la reazione produce un cambiamento nel numero di molecole delle fase gassosa. Se si modifica la pressione totale, che non è coinvolto nell'equilibro cambierà solo la pressione totale, ma non la pressione parziale dei gas coinvolti nell'equilibrio. Se invece si modifica la pressione parziale di un gas coinvolto nell'equilibrio, secondo il principio di Le Châtelier il sistema viene disturbato e il punto di equilibrio viene spostato per ristabilire l'equilibrio. 
+Il principio di Le Châtelier è in grado di dedurre i cambiamenti nelle concentrazioni all'equilibrio, quando esso è stressato. Se il sistema non ha raggiunto l'equilibrio, possiamo confrontare i valori di $Q$ e $K$ per dedurre i cambiamenti del sistema. L'equilibrio del sistema può essere spostato aggiungendo o togliendo reagenti/prodotti: le concentrazioni dei prodotti e reagenti subiscono delle modifiche per ritornare all'equilibrio. Cambiando la concentrazione dei reagentio o dei prodotti, la reazione dovrà spostarsi in nuna direzione per ritornare all'equilibrio, le condizioni di equilibrio saranno diverse ma la costante d'equilibrio ad una data temperatura sarà sempre quella. Per trovare le nuove condizioni di equilibrio bisogna costruire una tabella ICCE dove la prima C indica le condizioni di perturabemnto, da cui si calcolerà le condizioni di equilibrio.
 
- Se si cambia la temperatura, viene cambiata anche la costante d'equilibrio. È possibile predire gli effetti di una cambiamento di temperatura applicando il principio di Le Châtelier. Aumentando la temperatura della reazione (reazione esotermica), aumenta l'energia interna e quindi aumentando la temperatura si aumenta la concentrazione dei prodotti, la reazione si sposta a sinistra e diminuisce la temperatura del sistema, per una reazione endotermica succede il contrario. Se si cambia la temperatura all'equilibrio, cambia anche la costante d'equilibrio. Diminuendo la temperatura dei prodotti, si aumenta la K e quindi al nuovo equilibrio la concentrazione dei prodotti è aumentata e quella dei reagenti è diminuita. Aumentando la temperatura succede il contrario.
+In caso di sostanze presenti in fase gassosa, se si cambia il volume, varia anche la concnetrazione del gas ($mol\over L$). Anche in nquesto caso la costante di equilibrio rimane tale e quale. Se assistiamo ad una diminuione di volume o auemnto di pressione a temperatura costante, la perturbazione sarà contrabilanciata nella direzione che produca un numero di molecole di gas minore. Se la perturbazione avviene grazie ad un aumento di volume o ad una diminuzione di pressione, la reazione sarà contrabilanciata nella direzione che produca un numero maggiore di molecole. Se non c'è la variazione della pressione parziale dei gas, l'equilibrio non viene perturbato.
 
- N.B. l'equilibro si sposta verso ciò che aumenta, invece la reazione verso ciò che deve aumentare la concentrazione per tornare all'equilibrio.
+In caso si varia la temperatura, varia anche la costante di equilibrio. Siamo in grado di prevedere i cambiamenti perché l'energia in forma di calore (temepratura) può essere considerata un reagente o un prodotto (dipende dal tipo di reazione termochimica) e quindi si us ail principio di le Châtelier per determinare la direzione dell'equilibrio. Se si ha una reazione esotermica, all'aumentare della temepratura diminuisce la costante di equilibrio, per le reazioni endotermiche succede il contario. Lo stesso ragionamento ma in modo inverso vale anche se si abassa la temepratura.
 
- Un catalizzatore diminuisce il tempo per raggiungere l'equilibrio, ma non influisce su di esso. 
+ Un catalizzatore diminuisce il tempo per raggiungere l'equilibrio, ma non influisce su di esso.
 
-Quando abbiamo una reazione esotermica o endotermica il calore è un reagente o un prodotto. Per aumentare i prodotti per una reazione endotermica bisogna aumentare i reagenti oppure diminuire i prodotti: aumentare il calore, per una reazione esotermica accade il contrario. Se si aumenta il volume, diminuisce la pressione e aumentano le moli di gas, se si diminuisce il volume, aumenta la pressione e diminuiscono le moli di gas e quindi per aumentare i prodotti bisogna aumentare il volume e di conseguenza si favorirà rispettivamente il lato con più moli o meno moli. 
+|Perturbazione|Cambiamneto che si verifica|Effetto sull'equilibrio|Effetto su K|
+|-------------|---------------------------|-----------------------|------------|
+|Addizione di un reagente|Reagente aggiunto viene in parte consumato|Aumenta la concentrazione dei prodotti| Rimane invariata|
+|Rimozione di un reagente|I Prodotti presenti si ritrasformano in parte in reagenti|diminuisce la concentrazione dei prodotti| Rimane invariata|
+|Addizione di un prodotto|Prodotto aggiunto viene in parte consumato|Aumenta la concentrazione dei reagenti| Rimane invariata|
+|Rimozione di un prodotto|I reagenti presenti vengono in parte consumati|diminuisce la concentrazione dei reagenti| Rimane invariata|
+|Diminuzione del volume|La reazione si sposta per produre un numero di molecole inferiore|La concnetrazione aumenta|Rimane invariata|
+|Aumentano del volume|La reazione si sposta per produre un numero di molecole maggiore|La concnetrazione diminuisce|Rimane invariata|
+|Aumento della temperatura ($∆H<0$)|I Prodotti presenti si ritrasformano in parte in reagenti|Diminuisce la concentrazione dei prodotti|Diminuisce|
+|Diminuzione della temperatura ($∆H<0$)|I reagenti presenti vengono in parte consumati|Aumenta la concentrazione dei prodotti|Aumenta|
+|Aumento della temperatura ($∆H>0$)|I reagenti presenti vengono in parte consumati|Diminuisce la concentrazione dei reagenti|Aumenta|
+|Diminuzione della temperatura ($∆H>0$)|I prodotti presenti si ritrasformano in parte in reagenti|Aumenta la concentrazione dei reagenti|Diminuisce|
 
 # Equilibrio di altre Reazioni
 
