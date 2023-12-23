@@ -80,10 +80,14 @@ Un **equilibrio omogeneo** è un equilibrio dove tuti i reagenti e prodotti sono
 $$nA + mB ⇌ xC + yD$$
 
 $$K_p = {P_C^x\cdot P_D^y\over P_A^n\cdot P_B^m}$$
+
 $$K_p = {([C]\cdot RT)^x\cdot ([D]\cdot RT)^y\over ([A]\cdot RT)^n\cdot ([B]\cdot RT)^m}$$
+
 $$K_p = {[C]^x\cdot [D]^y\over [A]^n\cdot [B]^m}\cdot {RT^x+y\over RT^n+m}$$
+
 $$K_p = K_c\cdot (RT)^{(x+y)-(n+m)}$$
-$$K_p = K_c\cdot (RT)^{∆n}$$
+
+$$K_p = K_c\cdot (R\cdot T)^{∆n}$$
 
 $$∆n = (x+y) − (m+n)$$
 
