@@ -155,7 +155,17 @@ Nel caso dell'assenza di un effetto livellante, la forza di un acido binario (HA
 
   #### Ossiacidi $HNO_2$ e $HNO_3$
 
-  
+  **Gli ossiacidi** sono specie chimiche in cui un non metallo è legato a uno o più ossigeni il quale è legato spesso ad H, l'atomo centrale può variare tra Cl, S o N, più elettronegativo è l'atomo, maggiore sarà la forza dell'acido. L'acido iotrico e l'acido nitroso rappresentano una grande varietà di ossiacidi. la forza di questi acidi aumenta con il numero di ossigeno a cui l'atomo centrale è legato (più forme di risonanza). Anche per gli ossiacidi alogenuri, la somma delle entalpie determina la forza dell'acido, ma mentre per i composti H-X, il fattore determinante era la forza di legame, ora il fattore determinante è l'affinità elettronica.
+
+  la base coniugata degli ossiacidi è una base debole ed è un anione. Più debole è l'anione, maggiore sarà la forza dell'ossiacido e quindi saranno necessari più atomi di ossigeno a stabilizarli e quindi l'affinità elettronica sarà maggiore. Inoltre maggioire è la carica formale dell'atomo centrale, maggiore sarà lòa forza dell'ossiacido. Si comportono allo stesso modo per le stesse careatteristiche gli acidi carbosilici.
+
+  #### Cationi come acidi
+
+  I cationi metallici si comportano da acidi di Brønsted perché quando sono in acqua e formano un elgame covalente con essa, la ridotta dimensione dello ione metallico e la sua carica positiva indicano che gli elettroni nel legame con l'acqua sono fortemente atratti al metallo e quindi il legame OH dell'acqua è fortemente polarizzato. L'effetto che si ottiene è che uno ione idronio viene rimosso con più facilità e quindi il catione agisce da acido. man mano che aumenta la carica del metallo, aumenta l'acidità del metallo.
+
+  #### Anioni come basi
+
+  L'anione interagisce con un H dell'acqua polare ed uno ione idronio viene trasferito all'anione che si comporta da base di Brønsted.
 
   ## Idrolisi di soluzioni saline
 
