@@ -9,44 +9,63 @@ Non esistono sostanze acido o basiche, ma sostanze che si comportano da acido o 
 
 Un **acido di Arrhenius** è invece una sostanza che quando disciolta in acqua libera ioni idronio. Una **base di Arrhenius** invece è una sostanza che quando disciolta in acqua libera ioni idrossido. Basi e acido forti vengono dissociati completamente. 
 
-Ogni acido ha la sua base complementare e ogni base ha il suo acido complementare:
- La **base complementare** di un acido è il prodotto che si ottiene quando la sostanza dona un protone. **L'acido complementare** di una base è il prodotto che si ottiene quando la sostanza accetta un protone. Tutte le reazioni acido-base coinvolgono il trasferimento di protoni tra acidi e basi.
+Acidi o basi monopratiche possono accettare o donare un solo protone, mentre acido o basi poliprotiche possono accettare o donare più di un protone.
 
- La reazione tra un acido di Brønsted-Lowry e l'acqua viene detta **ionizzazione acida**. Quando una base e l'acqua reagiscono, avviene una **ionizzazione basica**. L'acqua può comportarsi sia da base che da acido. **L'autoionizzazione** avviene quando una molecola di una sostanza si comporta da acido e un'altra molecola della stessa sostanza da base. L'acqua non viene praticamente ionizzata, la costante d'equilibrio dell'acqua aumenta con la temperatura e viene detta **costante del prodotto ionico per l'acqua (Kw): $Kw = [H_3O^+][OH^−]$**. L'equilibrio non cambierà se si aggiunge un acido o una base.
+Ogni reazione acido-base produce un nuovo acido e una nuova base:
+Una coppia coniugata acido-base consiste in due specie chimiche che differiscono per uno ione idrogeno. Ognia cido ha una base coniugata e ogni base ha il suo acido compelmentare
+ La **base coniugata** di un acido è il prodotto che si ottiene quando l'acido reagisce con una base che dona un protone ed il risultato che si ottiene è una specie chimiche con uno ione idrogeno in meno. **L'acido complementare** di una base è il prodotto che si ottiene quando la base reagisce con un acido che accetta un protone e si produce una specie chimica con uno ione idrogeno in più. Tutte le reazioni acido-base coinvolgono il trasferimento di protoni tra acidi e basi.
 
- Una sostanza **anfotera** è una sostanza che può comportarsi sia da acido che da base secondo qualsiasi definizione. Una sostanza **anfiprotica**, invece è una sostanza che può perdere o acquisire protoni sotto certe condizioni. Quindi una sostanza anfotera è anche anfiprotica.  
+ la reazione:
+
+ $$2H_2O_{(l)}\leftrightharpoons OH^- + H_3O^+$$
+
+ Questa reazione è detta reazione di autoionizzazione dell'acqua: anche l'acqua deionizzata conduce un pèo' di corrente perché l'acqua produce piccole quantità di di ioni idronio e idrossido. L'equilibrio di questa reazione è molto piccolo e quindi è spostato verso sinistra. La costante di equilibrio di questa reazione vienne indicata con $K_w$ e prende il nome di **costante di autoionizzazzione dell'acqua**.
+
+ $$K_w=[H_3O^+][OH^-]=1.0\chi 10^{-14}$$
+
+ Solo due miolecole di acqua su un milliardo sono ionizzate. La misura di conducinilità elettrica mostra che $[H_3O^+]=[OH^-] = 1.0\chi 10^{-7} M$
+
+ La reazione tra un acido di Brønsted-Lowry e l'acqua viene detta **ionizzazione acida**. L'aggiunta di un acido all'acqua diturba l'equilibrio producendo ioni idronio, per ristabilire l'equilibrio una piccola parte degli ioni idronio reagirà con gli ioni idrossido e questo abbassa la concentrazione dell'acqua fino a quando il quoziente di reazione non è di nuovo uguale a $K_w$. Quando una base e l'acqua reagiscono, avviene una **ionizzazione basica**, la stessa cose che è accaduta per gli acidi accade anche alle basi.
+
+ Una sostanza **anfotera** è una sostanza che può comportarsi sia da acido che da base secondo qualsiasi definizione. Una sostanza **anfiprotica**, invece è una sostanza che può donare o accettare protoni. Quindi una sostanza anfotera è anche anfiprotica.
 
  ## pH e pOH
 
- Ioni **idronio (H3 O+)** e **idrossido (OH-)** sono presenti in acqua e in tutte le soluzioni acquose. Le loro concentrazioni sono inversamente proporzionali. La concentrazione di questi due ioni in una soluzioni determinano le proprietà della soluzioni ed il comportamento chimico dei soluti. Una soluzione in cui la concentrazione dei due ioni è uguale è detta **Neutra**. Una soluzione è **acida** se la concentrazione di ioni idronio è maggiore della concentrazione degli ioni idrossido. La soluzione è **basica** se la concentrazione degli ioni idrossido è maggiore di quella degli ioni idronio.
+ Ioni **idronio ($H_3O^+$)** e **idrossido ($OH^-$)** sono presenti in acqua e in tutte le soluzioni acquose. Le loro concentrazioni sono inversamente proporzionali. La concentrazione di questi due ioni in una soluzioni determinano le proprietà della soluzioni ed il comportamento chimico dei soluti. Una soluzione in cui la concentrazione dei due ioni è uguale è detta **Neutra**. Una soluzione è **acida** se la concentrazione di ioni idronio è maggiore della concentrazione degli ioni idrossido. La soluzione è **basica** se la concentrazione degli ioni idrossido è maggiore di quella degli ioni idronio.
+
+ La concentrazioni di ioni idronio varia tra $10^{-15}$ di soluzioni concnetrate di basi forti a soluzioni concentrate di acidi forti dove la concnetrazione degli ioni idronio è di $10 M$. La variazione di concentrazione varia di 16 ordini di grandezza.
 
  Per indicare i valori di concentrazione si usa spesso la scala logaritmica. Per indicare l'acidità o la basicità di una sostanza si usa la una scala basata su $ƒ_{(p)}$:
 
- pX = -log(X)
+ $$pX = -\log [(X)]$$
 
  Il **pH** è il logaritmo negativo della concentrazione molare di ioni idronio:
 
- $pH = -log[H_3O^+]$
+ $$pH = -\log [H_3O^+]$$
 
- $[H_3O^+] = 10^{-pH}$
+ $$[H_3O^+] = 10^{-pH}$$
 
  Il **pOH** è il logaritmo negativo della concentrazione molare di ioni idrossido:
 
- $pOH = -log[OH^-]$
+ $$pOH = -log[OH^-]$$
 
-  $[OH^-] = 10^{-pOH}$
+ $$[OH^-] = 10^{-pOH}$$
 
  La relazione tra le concentrazioni espresse come funzione di p:
 
- $$
- K_w = [H_3O^+][OH^-]\\
--log K_w = -log([H_3O^+][OH^-])\\
--log K_w = -log[H_3O^+] + -log[OH^-]\\
-pK_w = p[H_3O^+] + p[OH^-]\\
-pK_w = pH + pOH\\
-14.00 = pH + pOH
-Kw = K_a\cdot K_b
-$$
+ $$K_w = [H_3O^+][OH^-]$$
+
+$$-\log K_w = -log([H_3O^+][OH^-])$$
+
+$$-\log K_w = -log[H_3O^+] + -log[OH^-]$$
+
+$$pK_w = p[H_3O^+] + p[OH^-]$$
+
+$$pK_w = pH + pOH$$
+
+$$14.00 = pH + pOH$$
+
+$$Kw = K_a\cdot K_b$$
 
 La concentrazione dei due ioni in acqua (o qualsiasi sostanza neutra) è uguale a $10^{-7}$, quindi una sostanza acida avrà concentrazione di ioni idronio maggiore di $10^{-7}$ e una sostanza basica avrà una concentrazione di ione idronio minore di $10^{-7}$. Allo stesso modo una sostanza basica avrà una concentrazione di ioni idrossido maggiore di $10^{-7}$, e una sostanza basica avrà una concentrazione di ioni idrossido minore di $10^{-7}$.
 
@@ -58,13 +77,17 @@ L'acidità di una sostanza viene misurata in laboratorio attraverso il suo pH, s
 
 La forza di un acido è determinata in base a quanto ionizza una soluzione acquosa. 
 
-$HA(aq) + H_2O(l) ⇌ H_3O^+(aq) + A^−(aq)$
+$$HA(aq) + H_2O(l) ⇌ H_3O^+(aq) + A^−(aq)$$
 
-In questo caso HA è l'acido e l'acqua è la base, reagendo danno come prodotti A- che è la base complementare di HA e lo ione idronio è l'acido complementare dell'acqua. Un **acido forte** in acqua liberà ioni idronio e basi complementari con una resa del 100%, ovvero tutte le molecole di HA dono diventate ioni idronio e basi coniugate, mentre un **acido debole** libera pochi ioni idronio e basi complementari e si trovano ancora molte molecole di acido inalterate.
+In questo caso $HA$ è l'acido e l'acqua è la base, reagendo danno come prodotti $A^-$ che è la base complementare di $HA$ e lo ione idronio è l'acido complementare dell'acqua. Un **acido forte** in acqua liberà ioni idronio e basi complementari con una resa del 100%, ovvero tutte le molecole di HA dono diventate ioni idronio e basi coniugate, mentre un **acido debole** libera pochi ioni idronio e basi complementari e si trovano ancora molte molecole di acido inalterate, solo 1% delle molecole reagiscono con l'acqua per produrre ioni idronio.
+
+Maggiore è la concnetrazione degli ioni idronio, minore è il pH e maggiore è la forza dell'acido. Stessa cosa vale per le basi ed il pOH.
+
+OPer un acido forte la concentrazione dell'acido sarà uguale alla cocnentrazione di ioninidronio presenti in soluzione, stessa cosa vale per gli ioni idrossido e per le basi. Per un acidod ebole invece, la concnetrazione degli ioni idronio è molto minore rispetto alla concentrazione dell'acido, stessa cosa vale epr le basi deboli.
 
 La forza degli acidi può essere determinata misurando la costante d'equilibrio. In diverse soluzioni con uguale concentrazioni di acidi diversi, acidi forti produrranno più ioni idronio di acidi deboli e quindi la soluzione con acidi forti avrà una concentrazione maggiore di ioni idronio. La costante d'equilibrio per un acido è detta **costante di ionizzazione acida (Ka):**
 
-$K_a = {[H_3O^+][A^-]\over [HA]}$
+$$K_a = {[H_3O^+][A^-]\over [HA]}$$
 
 L'acqua non viene inclusa perché è anche un solvente. Maggiore è Ka, maggiore è la concentrazione di ioni idronio e della base complementare e quindi più una sostanza è acida. 
 
