@@ -83,9 +83,9 @@ In questo caso $HA$ è l'acido e l'acqua è la base, reagendo danno come prodott
 
 Maggiore è la concnetrazione degli ioni idronio, minore è il pH e maggiore è la forza dell'acido. Stessa cosa vale per le basi ed il pOH.
 
-OPer un acido forte la concentrazione dell'acido sarà uguale alla cocnentrazione di ioninidronio presenti in soluzione, stessa cosa vale per gli ioni idrossido e per le basi. Per un acidod ebole invece, la concnetrazione degli ioni idronio è molto minore rispetto alla concentrazione dell'acido, stessa cosa vale epr le basi deboli.
+OPer un acido forte la concentrazione dell'acido sarà uguale alla cocnentrazione di ioninidronio presenti in soluzione, stessa cosa vale per gli ioni idrossido e per le basi. Per un acidod ebole invece, la concnetrazione degli ioni idronio è molto minore rispetto alla concentrazione dell'acido, stessa cosa vale per le basi deboli.
 
-La forza degli acidi può essere determinata misurando la costante d'equilibrio. In diverse soluzioni con uguale concentrazioni di acidi diversi, acidi forti produrranno più ioni idronio di acidi deboli e quindi la soluzione con acidi forti avrà una concentrazione maggiore di ioni idronio. La costante d'equilibrio per un acido è detta **costante di ionizzazione acida (Ka):**
+La forza degli acidi può essere determinata calcolando la costante d'equilibrio. In diverse soluzioni con uguale concentrazioni di acidi diversi, acidi forti produrranno più ioni idronio di acidi deboli e quindi la soluzione con acidi forti avrà una concentrazione maggiore di ioni idronio. La costante d'equilibrio per un acido è detta **costante di ionizzazione acida ($K_a$):**
 
 $$K_a = {[H_3O^+][A^-]\over [HA]}$$
 
@@ -95,29 +95,45 @@ Un altro modo per misurare la forza di un acido è misurare la sua **percentuale
 
 Maggiore è la costante di equilibrio, maggiore sarà la forza dell'acido. La reazione di un acido forte procede in una sola direzione, invece per un acido debole, la reazione procede in entrambi i versi.
 
-La forza delle basi può essere determinata misurando **costante di ionizzazione basica (Kb)** in soluzione acquosa. In diverse soluzioni con uguale concentrazioni di basi diversi, basi forti produrranno più ioni idrossido di basi deboli e quindi la soluzione con basi forti avrà una concentrazione maggiore di ioni idrossido. 
+La forza delle basi può essere determinata calcolando **costante di ionizzazione basica ($K_b$)** in soluzione acquosa. In diverse soluzioni con uguale concentrazioni di basi diversi, basi forti produrranno più ioni idrossido di basi deboli e quindi la soluzione con basi forti avrà una concentrazione maggiore di ioni idrossido.
 
-$B(aq) + H_2O(l) ⇌ HB^+(aq) + OH^−(aq)$
+$$B_{(aq)} + H_2O_{(l)} ⇌ HB^+_{(aq)} + OH^−_{(aq)}$
 
-$K_b = {[HB^+][OH^-]\over [B]}$
+$$K_b = {[HB^+][OH^-]\over [B]}$$
 
-Anche per le acidi deboli si può calcolare la percentuale di ionizzazione. Se sommiamo le reazioni di una acido e quella di una base si ottiene:
-
-$2H_2O(l) ⇌ H_3O^+(aq) + OH^−(aq)$
-
-Se si moltiplica il Ka per il Kb si ottiene il Kw. La completezza di protoni ceduti da un acido dipende dalla forza della base complementare: Se i protoni che vengono rilasciati vengono accettati tutti dalla base (base forte), in soluzione ci saranno pochi ioni idronio e basi complementari e quindi l'acido è debole.  Se invece la base complementare in soluzione è debole, in soluzione saranno presenti molti ioni idronio e basi complementari e quindi l'acido è forte. Ad ogni acido forte corrisponde una base complementare debole, e per ogni acido debole corrisponde una base complementare forte. 
+Unn valore molro grande di K indica che i prodotti sono molto favoriti (acido o basi forti). Più debole è l'acido, più forte sarà la base coniugata, le forze di un acido o di una base e del suo rispettivo coniugatomsono inversamente proporzionali.
 
 Acidi forti vengono dissociati completamente in acqua ed in caso la loro base complementare fosse anche più debole dell'acqua, i protoni ceduti dall'acido vengono accettati dall'acqua. Acidi con una forza che sta tra l'acqua e gli acidi forti hanno la base complementare che compete con l'acqua per il protone ceduto. In una soluzione all'equilibrio sono presenti sia gli ioni idronio che molecole non ionizzate. Acidi con una forza minore dell'acqua non ionizza affatto, e se le basi complementari si formano reagiscono con l'acqua per riformare l'acido. 
 
-Le basi accettano protoni dall'acqua. Basi più forti dello ione idrossido accetta al 100% i protoni e forma l'acido complementare e gli ioni idrossido. Basi che hanno una forza compresa tra lo ione idrossido e l'acqua accetta protoni dall'acqua, ma forma un miscuglio misto tra ioni idrossido e basi non ionizzate. Basi più deboli dell'acqua non mostrano comportamenti osservabili. 
-
-### Ionizzazione di acidi e basi deboli
+Le basi accettano protoni dall'acqua. Basi più forti dello ione idrossido accetta al 100% i protoni e forma l'acido complementare e gli ioni idrossido. Basi che hanno una forza compresa tra lo ione idrossido e l'acqua accetta protoni dall'acqua, ma forma un miscuglio misto tra ioni idrossido e basi non ionizzate. Basi più deboli dell'acqua non mostrano comportamenti osservabili.
 
 Molti acidi e basi sono deboli e quindi non ionizzano completamente in una soluzione acquosa. Una soluzione di acido debole è un miscuglio di acido non ionizzato (concentrazione maggiore), ioni idronio e basi complementari. Una reazione all'equilibrio con un acido debole ha un equilibrio dinamico in cui le molecole dell'acido debole donano atomi di idrogeno all'acqua per formare ioni idronio e basi complementare e alla stessa velocità gli ioni idronio donano alla base complementare per formare l'acido debole di partenza e l'acqua. Misurando il pH di una soluzione a concentrazione nota di un acido debole, si può capire che una piccola parte dell'acido è ionizzato.
 
 Per calcolare la concentrazione di ioni idronio che per un acido debole non è uguale a HA, si costruisce una tabella ICE e con Ka si ricava la concentrazione degli ioni idronio all'equilibrio che ci permette di calcolare il pH. Stessa cosa vale per le basi
 
 All'equilibrio, una soluzione di base debole è un miscuglio di ioni idrossido, acidi complementare e la base debole non ionizzata (presente in concentrazione maggiore). Misurando il pH di una soluzione a concentrazione nota di una base debole, si può capire che una piccola parte della base è ionizzata.
+
+Il $K_a$ di un acido poliprotico per ogni stadio di ionizzazione diventa sempre più debole perché è difficile rimuovere un protone da una sostanza carica negativamente. I valori di $K_a$ diminuiscono di un fattore di $10^5$. La forza di un acido è confrontabile calcolando il logaritmo in base 10 negativo del valore di $K_a$, quello che otteniamo rappresenta la forza di un acido e non il pH, maggiore è la forza di un acido, minore sarà il $pK_a$.
+
+## Proprietà acido-base di sali
+
+- Anioni che sono basi coniugate di acido forti, non hanno alcun effetto sul pH della soluzione.
+
+- Anioni di acidi poliprotici, pèossono avere un comportamento acido o basico che dipende dal grado di deprotonazione. Un anione completamente deprotonato sarà basico.
+
+- Cationi di metalli alcalini e alcalini terrosi non hanno un effeto misurabile sul pH.
+
+- Cationi acidi posssono essere metallici oppure cationi dello ione ammonio. Se si parla della prima categoria, i cationi metallici sono tutti idratati in acqua e hanno la seguente struttura: $[M(H_2O_6]^{n+}$, ma agisce da acido solo nel caso in cui il actione metallo ha carica 2+ o 3+.
+
+- Cationi basici sono basi coniugate di cationi acidi.
+
+## Direzione di una reazione acido-base
+
+Le costanti di ionizzazione possono stabilire anche lo stato di equilibrio (tutte le reazioni acido base possono essere scritte come reazioni reversibili):
+
+> tutte le reazioni acido-base procedono nella direzione cha va dall'acido e base più forte verso quelli più deboli
+
+Questo è verificato anche guardando banalmente ai valori delle costanti di ionizzazioni con cui possiamo stabilire in che direzione sarà spostato l'equilibrio.
 
 ### Forze di acidi e basi forti
 
@@ -145,15 +161,25 @@ Un miscuglio tra acido forte e debole produce una reazione di equilibrio chimico
   2. Un acido forte e una base debole reagiscono e il risultato è una soluzione debolmente acida a causa dell'acido complementare della base.
   3. Una base forte e un acido debole reagiscono per formare una reazione debolmente basica a causa della base complementare dell'acido debole.
   4. Un acido debole e una base debole per formare una soluzione basica, basica o neutra. Quando l'acido e la base complementare hanno diverse forze, la reazione risulterà basica o acida in base a che sostanze ha la forza maggiore. Se invece la base e l'acido complementare hanno uguale forza la soluzione risulterà neutra. Per capire che soluzione si formerà bisogna confrontare i ka e i kb.
- 
-- **Sali di basi debole e acidi forti:** Quando si neutralizza una base debole con un acido forte, il prodotto è un sale contenente l'acido complementare della base debole e questo acido è debole. La costante d'equilibrio è la costante di ionizzazione acida.
 
-- **Sali di acidi deboli e basi forti:** Quando si neutralizza un acido debole con una base forte, il prodotto è un sale contenente la base complementare dell'acido debole e questa base è debole. La costante d'equilibrio è la costante di ionizzazione basica.
+  1. Quando un acido forte e un a base reagiscono, l'equazione ionica netta che si ottiene è l'inverso della reazione di ionizzazione dell'acqua e che quindi ha una costante di equilibrio estremamente grande. Se l'acido frote e la abse forte sono presenti in quantità stechiometricamente uguali, la reazione prende nome di neutralizzazione.
+  > Una reazione di neutralizzazione si ottiene mescolando uguali quantità di acido e basi equiprotici e si ottiene una soluzione neutra (pH = 7.00 a 25°C)
 
-- **La ionizzazione di ioni metallici idrati:** Molti ioni disciolti in soluzione si comportano da acidi deboli. Questi ioni sono solvatati in acqua e spesso vengono idratati in modo diverso. Ovvero il numero di molecole che circondano lo ione varia e aumenta con l'aumentare della carica e con il diminuire del volume dello ione. Spesso l'idratazione nelle equazioni chimiche viene omessa.
+  2. Quando si mescolano una base forte e un acido debole, quello che si ottiene è una soluzione basica a causa della base coniugata all'acido debole. Il sale che si crea è composto dall'anione dell'acido debole e dal catione della base forte.
+  > Una reazione in cui abbiamo uguali quantità di acido debole e base forte andrà a creare una soluzione contenente un sale che è comporto dall'anione dell'acido e dal catione della base. La soluzione sarà basica per la base coniugata dell'acido debole ed il pH dipenderà dalla forza dell'anione.
 
+  3. Quando si mescolano una base debole e un acido forte, quello che si ottiene è una soluzione acida a causa dell'acido coniugato alla base debole. Il sale che si crea è composto dall'anione dell'acido forte e dal catione della base debole.
+  > Una reazione in cui abbiamo uguali quantità di acido dorte e base debole andrà a creare una soluzione contenente un sale che è comporto dall'anione dell'acido e dal catione della base. La soluzione sarà acida per l'acido coniugato della base debole ed il pH dipenderà dalla forza del catione.
 
-## Acidi poliprotici 
+  4. > Una reazione in cui si ha uguali quantità di acido e base debole, produrrà un sale il cui catione è il cataione dell'acido e l'anione è l'anione della base. Il pH dipende dai valori di $K_a$ e $K_b$.
+
+  ## Calcoli con le costanti di ioniizzazione
+
+  Se bisognasse trovare il pH di una soluzione di acido o base debole, il procedimento che bisogan adoperare è quello di usare una tabella ICE per trovare la concnetrazione degli ioni idronio con cui poi si potrà calcolare il pH. Un procedimento analogo bisogna adoperare nel caso bidognasse ricavare la costante di ionizzazione. In entrambi i casi fare l'approssimazione al denominatore se possibile.
+
+  Se abbiamo una reazione acido-base in cui una delle due specie chimiche non è l'acqua, per trovare il pH dovremmo usare un procedimento analogo al precedente, ma prima dovremmo trovare la reazione da inserire nella tabella ICE: scriviamo la reazione data dal problema, e poi quella che i prodotti di questa reazione andrà a creare (base o acido + acqua = ...), così da poter calcolare la concentrazione di $OH^-$ e $H_3O^+$, infine si calcola la concentrazione iniziale dei reagenti di quest'ultima reazione e poi si segue il procedimento con la tabella ICE.
+
+## Acidi e basi poliprotici
 
 Un'altra classificazione che si può fare per gli acidi è il numero di protoni per molecola che possono donare. Acidi che contengono un singolo atomo di idrogeno ionizzabile sono detti **acidi monoprotici**. Allo stesso modo le basi monoprotiche sono basi che accettano un singolo protone. 
 
