@@ -139,17 +139,23 @@ Questo è verificato anche guardando banalmente ai valori delle costanti di ioni
 
 Nel caso degli acidi forti, l'acqua è una base più forte della rispettiva base complementare e la ionizzazione è completa in soluzioni acquose. Mentre con l'acqua la tendenza degli acidi forti a cedere protoni è la stessa, con solventi meno basici dell'acqua gli acidi forti hanno una diversa tendenza a cedere protoni. Questa caratteristica dell'acqua di non distinguere le varie forze degli acidi disciolti viene detta **effetto livellante dell'acqua**. Questa proprietà dell'acqua è diffusa anche con le basi forti. 
 
-Nel caso dell'assenza di un effetto livellante, la forza di un acido binario (HA (dove A è un non metallo)) aumenta man mano che la forza di legame diminuisce scendendo un gruppo. Lungo un periodo invece la forza di un acido aumenta con l'aumentare dell'elettronegatività di un non metallo perché la polarità aumenta. Per aumento dell'acidità, s'intende l'aumento della tendenza a rimuovere un protone. 
+Nel caso dell'assenza di un effetto livellante, la forza di un acido binario (HA (dove A è un non metallo)) aumenta man mano che la forza di legame diminuisce scendendo un gruppo. Lungo un periodo invece la forza di un acido aumenta con l'aumentare dell'elettronegatività di un non metallo perché la polarità aumenta. Per aumento dell'acidità, s'intende l'aumento della tendenza a rimuovere un protone.
 
-Composti che contengono ossigeno è 1 o più gruppi idrossile, possono essere acidi, basi o anfoterici. Questo dipende dalla collocazione dell'atomo centrale nella tavola periodica che è legato al gruppo OH. Questi composti hanno una formula $H-O-X$. Esistono acidi che contengono il gruppo OH: **ossiacidi**, questo perché:
+  #### Alogenuri di idrogeno
 
-- Se l'atomo centrale ha una bassa elettronegatività, il legame tra l'ossigeno e l'atomo centrale è debole (covalente) e quindi si rompe più spesso del legame OH, quindi il legame è ionico e ioni idrossido sono liberati nella soluzione.
+  La forza degli alogenuri di idrogeno dipende fondalmente da due fattori:
 
-- Se invece l'atomo centrale ha un alta elettronegatività, forma un legame forte (covalente) con l'ossigeno, e gli elettroni si spostano su X e la forza di H è più debole e viene rimosso più facilmente e il composto si comporta da acido.
-*Se aumenta il numero di ossidazione, aumenta anche l'acidità di un ossiacido, perché attrae più elettroni e quindi il legame OH diventa più debole (perché elettroni si spostano verso atomo centrale). La forza di un acido aumenta all'aumentare del numero di ossidazione dell'atomo centrale.*
-- Sono invece composti anfoterici, quelli che hanno una elettronegatività media, ma un numero di ossidazione alto. Quindi questi composti si comportano da base complementare per acidi forti e da acido complementare per basi forti.
+  - Forza di legame (H-X): più facile è spezzare un legame, più forte sarà l'acido perché $K_a$ sarà maggiore
 
-Un miscuglio tra acido forte e debole produce una reazione di equilibrio chimico in cui l'acido forte viene dissociato completamente e quindi produce un'alta concentrazione di ioni idronio e quindi la reazione si sposta verso sinistra per il principio di Le Châtelier. Quindi la concentrazione totale di ioni idronio è data dall'acido forte perché quella dell'acido debole è insignificante. Un miscuglio tra acidi deboli invece per ricavare la concentrazione degli ioni idronio bisogna trascurare l'acido con Ka minore e considerare solo il Ka maggiore. 
+  - Entalpia di affinità elettronica: più negativa è questo valore di energia, amggiore è la forza di un acido.
+
+  La somma di questi due termini di enrgia ci fornisce uno sguardo generale sulla forza degli alogenuri: più piccolo è il valore finale, più forte è l'acido. A volte questi due fattori potrebbero andare l'uno contro l'altro.
+
+  > Il $pK_a$ di un acido è la somma dell'energia di legame con l'entalpia di affinità elettronica (proporzionalità diretta).
+
+  #### Ossiacidi $HNO_2$ e $HNO_3$
+
+  
 
   ## Idrolisi di soluzioni saline
 
@@ -185,9 +191,7 @@ Un'altra classificazione che si può fare per gli acidi è il numero di protoni 
 
 **Acidi diprotici** contengono due atomi di idrogeno ionizzabili per molecola. La ionizzazione per questi acidi avviene attraverso due passaggi: il primo avviene con una estensione maggiore, la prima ionizzazione produce la maggior parte degli ioni idronio, invece la seconda ne produce pochi e la concentrazione degli ioni idronio che produce la seconda ionizzazione è uguale a quella degli acidi non ionizzati della seconda ionizzazione e le Ka man mano che si passa da una ionizzazione ad un altra diminuisce considerevole.
 
-La **ionizzazione graduale** avviene sempre in più passaggi per **acidi poliprotici**. Acidi diprotici deboli la soluzione è formata da un miscuglio di acidi. 
-
-Un **acido triprotico** contiene 3 protoni dissociabili per molecola e che attraversano una ionizzazione graduale. Una caratteristica generale degli acidi è che ad ogni ionizzazione graduale, essa diventa sempre più debole. Esistono anche le basi poliprotiche: possono accettare più protoni. 
+Per calcolare il pH di una soluzione con un acido o una base poliprotica, bisogna considerare solo la prima ionizzazione perchè le successive sono trascurabili, il procedimento è lo stesso.
 
 ## Soluzioni tampone
 
