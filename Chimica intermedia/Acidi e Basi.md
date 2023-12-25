@@ -241,7 +241,7 @@ $$K_a = {[H_3O^+][A^-]\over [HA]}$$
 
 $$[H_3O^+] = K_a \cdot {[A^-]\over [HA]}$$
 
-$$-\log[H_3O^+] = -\logK_a  -\log{[A^-]\over [HA]}$$
+$$-\log[H_3O^+] = -\log K_a  -\log{[A^-]\over [HA]}$$
 
 $$p[H_3O^+] = pK_a  +p{[A^-]\over [HA]}$$
 
