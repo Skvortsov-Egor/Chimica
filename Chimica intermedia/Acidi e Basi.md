@@ -308,11 +308,27 @@ Il rapporto delle forme di indicatore varia con la concentrazione di $H_3O^+$.
 $${[H_3O^+]\over K_a} = {[HIn]\over [In^-]}$$
 
 $$-\log({[H_3O^+]\over K_a}) = -\log({[In^-]\over [HIn]})$$
+
 $$\log([H_3O^+]) -\log(K_a) = -\log({[In^-]\over [HIn]})$$
+
 $$-pH([H_3O^+]) + pH(K_a) = -\log({[In^-]\over [HIn]})$$
+
 $$pH = pK_a + \log({[In^-]\over [HIn]})$$
+
 $$pH = pK_a + log({[base]\over [acido]})$$
 
 L'intervallo in cui cambia colore l'indicatore è l'intervallo in cui con quell'indicatore si può determinare il pH. L'indicatore universale è in grado di determinare il pH da 1 a 14 perché la cartina tornasole contiene un miscuglio di indicatori. 
 
 La curva di titolazione può aiutare a decidere che indicatore usare. L'indicatore non reagisce con la soluzione perché aggiunto in piccole quantità, per capire che indicatore usare per una titolazione è utile consultare la curva di titolazione.
+
+## Prodotto di solubilità
+
+Quando un prodotto poco solubile si scioglie in acqua, solo una piccola parte si scioglierà e la soluzione diventerà satura. La quantità di sale disciolto può essere espressa tramite la costante di equilibrio per la dissociazione che prende il nome di **costante del prodotto di solubilità ($K_{ps}$)**.
+
+$$A_xB_y ⇌ xA + yB$$
+
+$$K_{ps} = [A^{+y}]^x[B^{-x}]^y$$
+
+A partire dalla concnetrazione, è possibile calcolare sia la solubilità che il prodotto di solubilità di un sale. Questi due concetti non vanno confusi, perché è la quantità in moli che un sale può disciolersi per unità di volume, mentre il prodotto di solubilità è una costante di equilibrio. Le costanti di solubilità possono essere un parametro per confrontare la solubilità solo se il rapporto anione-catione è lo stesso.
+
+Si possono determinare stechiometricamente le concentrazioni dei ioni del sale per poi andare a calcolare il prodotto di solubilità. Se si ha il prodotto di solubilità e si deve calcolare la solubilità, attraverso la tabella ICE si ricava le ooncnetrazioni degli ioni e attraverso la massa molare si ricava la solubilità.
