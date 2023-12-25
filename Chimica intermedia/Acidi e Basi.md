@@ -295,25 +295,24 @@ La titolazione di un acido poliprotico avviene in due step:
 
 ### Indicatori acido-base
 
-Esistono sostanza organiche che cambiano colore in soluzioni diluite quando la concentrazione di ioni idronio raggiunge valore preciso. Queste sostanza possono essere usate per determinare il pH e sono dette **indicatori acido-base**. Indicatori acido-base sono o acidi o basi deboli. L'equilibrio di una soluzione in cui si usa un indicatore è rappresentata dall'equazione: 
+Esistono sostanza organiche che cambiano colore in soluzioni diluite quando la concentrazione di ioni idronio raggiunge un valore preciso. Queste sostanza possono essere usate per determinare il pH e sono dette **indicatori acido-base**. Indicatori acido-base sono o acidi o basi deboli. L'equilibrio di una soluzione in cui si usa un indicatore è rappresentata dall'equazione:
 
-$HIn(aq) + H_2O(l) ⇌ H_3O^+(aq) + In^−(aq)$
+$$HIn(aq) + H_2O(l) ⇌ H_3O^+(aq) + In^−(aq)$$
 
-Quando si aggiunge una sostanza acida, l'equilibrio secondo il principio di Le Châtelier’s si sposta verso HIn, se si aggiunge una sostanza basica, succede il contrario (simile a cosa succede per i tamponi). Il colore dell'indicatore dipende dal rapporto tra In- e HIn, se l'indicatore è presente al 60-90% in una forma, il colore della soluzione sarà uguale al colore di quella forma di indicatore. 
+Quando si aggiunge una sostanza acida, l'equilibrio secondo il principio di Le Châtelier’s si sposta verso $HIn$, se si aggiunge una sostanza basica, succede il contrario (simile a cosa succede per i tamponi). Il colore dell'indicatore dipende dal rapporto tra $In^-$ e $HIn$, se l'indicatore è presente al 60-90% in una forma, il colore della soluzione sarà uguale al colore di quella forma di indicatore.
 
 ${[In^-]\over [HIn]} = {K_a\over [H_3O^+]}$
 
-Il rapporto delle forme di indicatore varia con la concentrazione di H3O+. 
+Il rapporto delle forme di indicatore varia con la concentrazione di $H_3O^+$.
 
-$$
-{[H_3O^+]\over K_a} = {[HIn]\over [In^-]}\\
--log({[H_3O^+]\over K_a}) = -log({[In^-]\over [HIn]})\\
-log([H_3O^+]) -log(K_a) = -log({[In^-]\over [HIn]})\\
--pH([H_3O^+]) + pH(K_a) = -log({[In^-]\over [HIn]})\\
-pH = pK_a + log({[In^-]\over [HIn]})\\
-pH = pK_a + log({[base]\over [acido]})
-$$
+$${[H_3O^+]\over K_a} = {[HIn]\over [In^-]}$$
+
+$$-\log({[H_3O^+]\over K_a}) = -\log({[In^-]\over [HIn]})$$
+$$\log([H_3O^+]) -\log(K_a) = -\log({[In^-]\over [HIn]})$$
+$$-pH([H_3O^+]) + pH(K_a) = -\log({[In^-]\over [HIn]})$$
+$$pH = pK_a + \log({[In^-]\over [HIn]})$$
+$$pH = pK_a + log({[base]\over [acido]})$$
 
 L'intervallo in cui cambia colore l'indicatore è l'intervallo in cui con quell'indicatore si può determinare il pH. L'indicatore universale è in grado di determinare il pH da 1 a 14 perché la cartina tornasole contiene un miscuglio di indicatori. 
 
-La curva di titolazione può aiutare a decidere che indicatore usare. 
+La curva di titolazione può aiutare a decidere che indicatore usare. L'indicatore non reagisce con la soluzione perché aggiunto in piccole quantità, per capire che indicatore usare per una titolazione è utile consultare la curva di titolazione.
