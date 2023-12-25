@@ -161,7 +161,7 @@ Nel caso dell'assenza di un effetto livellante, la forza di un acido binario (HA
 
   #### Cationi come acidi
 
-  I cationi metallici si comportano da acidi di Brønsted perché quando sono in acqua e formano un elgame covalente con essa, la ridotta dimensione dello ione metallico e la sua carica positiva indicano che gli elettroni nel legame con l'acqua sono fortemente atratti al metallo e quindi il legame OH dell'acqua è fortemente polarizzato. L'effetto che si ottiene è che uno ione idronio viene rimosso con più facilità e quindi il catione agisce da acido. man mano che aumenta la carica del metallo, aumenta l'acidità del metallo.
+  I cationi metallici si comportano da acidi di Brønsted perché quando sono in acqua e formano un elgame covalente coordinato (dativo) con essa, la ridotta dimensione dello ione metallico e la sua carica positiva indicano che gli elettroni nel legame con l'acqua sono fortemente atratti al metallo e quindi il legame OH dell'acqua è fortemente polarizzato. L'effetto che si ottiene è che uno ione idronio viene rimosso con più facilità e quindi il catione agisce da acido. man mano che aumenta la carica del metallo, aumenta l'acidità del metallo.
 
   #### Anioni come basi
 
