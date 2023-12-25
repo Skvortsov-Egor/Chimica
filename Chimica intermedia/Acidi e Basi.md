@@ -203,33 +203,53 @@ Un'altra classificazione che si può fare per gli acidi è il numero di protoni 
 
 Per calcolare il pH di una soluzione con un acido o una base poliprotica, bisogna considerare solo la prima ionizzazione perchè le successive sono trascurabili, il procedimento è lo stesso.
 
+## Effetto ione comune
+
+L'effetto dello ione comune è qquello che accade quando ad una reazione acido-base si aggiunge all'acido, la base coniugata, in questo modo si alza il pH, prende il nome di ione comune perché sia nei prodotti che nei reagenti è presente uno ione in comune. Questo è valido anche per le basi, ma in questo caso abasserebbe il valore del pH. L'effetto dello ione comune è valido solo per acidi e basi deboli. Questo accade a causa del principo di le Châtelier ceh con l'aggiunta dello ione, limita lo spostamento a destra della reazione ed in questo modo vengono prodotti meno ioni idronio o idrossido.
+
+Per calcolare la variazione del pH, possiamo lo stesse procedimento di sempre con la tabella ICE, ma in questa situazione avremo una concentrazione iniziale di prodotto.
+
 ## Soluzioni tampone
 
-Una **soluzione tampone** è una soluzione formata da un acido/base debole (perché si deve essere presente sia l'acido che la base) e sale della base/acido complementare. Le soluzioni tampone possono resistere a cambiamenti di pH quando poca quantità di acido o base forte viene aggiunta. 
+> Una soluzione tamponanta è resistente ad una variazione del pH quando vengono aggiunti un acido o una base.
 
-### Funzionamento dei tamponi
+I requisiti per un tampone sono 2:
 
-Il pH dei tamponi praticamente non cambia perché con l'aggiunta di una piccola quantità di acido o di una base forte esse reagiranno con l'acqua per dare gli ioni idronio/idrossido, i quali a loro volta reagiranno con la base/acido per formare la base o acido debole e poi la base o acido debole reagiranno con l'acqua per ristabilire la concentrazione di ioni, se a base debole si aggiunge acido forte o se a acido debole si aggiunge base forte. Se invece a base debole si aggiunge base forte o ad acido debole si aggiunge acido forte il prodotto reagirà con gli ioni introdotti dall'acido o base (ioni idronio o idrossido) e formeranno acqua e la base o acido debole che reagiranno per riformare gli ioni e si ristabilisce l'equilibrio. 
+- sono necessari una base in grado di reagire con gli $OH^-$ aggiunti e un acido in grado di reagire con gli $H_3O^+$
+
+- l'acido e la base non devono reagire tra di loro
+
+Questo porta alla conclusione che la coppia acido-base deve essere formata da una coppia acido-base coniugata. I tamponi possono essere preparati combimnando direttamente un acido con la sua base coniugata, un acido forte con una base debole o una base forte con un acido debole.
+
+Queste strategie possono essere usate nei calcoli per determinare il pH del tampone usando la strategia ICE.
 
 ### Capacità tampone
 
-La capacità di non cambiare il pH ha un limite e dopo un po' l'azione tampone non è più possibile (tipo raggiunge lo stress massimo). L'azione tampone diminuirà rapidamente quando un componente si avvicina all'esaurimento. La **capacità tampone è la quantità di acido o base che si può aggiungere ad un tampone prima che il suo pH varia in modo sensibile**. La capacità tampone dipende dalla quantità di acido/base debole e dalla quantità della rispettiva base/acido complementare. 
+Un tampone deve avere due requisiti:
 
-Per selezionare la giusta soluzione tampone si applicano due regole:
+- dovrebbe avere la capacità di controllare il pH al valore desiderato, questo viene fatto sciegliendo un acido con un $pK_a$ vicino al valore desiderato di pH e l'esatto valore di pH viene raggiun to controllando il rapporto acido e base coniugata.
 
-- Una soluzione tampone dovrebbe avere concentrazione uguale per entrambi i suoi componenti.
-- Acidi deboli e i loro sali sono dei tamponi migliori per sostanza con pH < 7, mentre basi deboli e i loro sali sono dei tamponi migliori per sostanza con pH > 7.
+- Il tampone dovrebbe avere la capacità di mantenere il pH costante dopo l'aggiunta di notevoli quantità di acido o base. Il tampone perderà le sue capacità se viene aggiunto un eccesso di quantità di base o acido forte.
 
 ### L'equazione di Henderson-Hasselbalch
 
-La costante di ionizzazione di una soluzione poco acida può essere riscritta come:
+La costante di ionizzazione di una soluzione poco acida può essere scritta come:
 
-$K_a = {[H_3O^+][A^-]\over [HA]}$
-$[H_3O^+] = K_a \cdot {[A^-]\over [HA]}$
-$-log[H_3O^+] = -logK_a  -log{[A^-]\over [HA]}$
-$p[H_3O^+] = pK_a  +p{[A^-]\over [HA]}$
+$$K_a = {[H_3O^+][A^-]\over [HA]}$$
 
-Questa equazione viene spesso usata per calcolare il pH delle soluzioni tamponi
+$$[H_3O^+] = K_a \cdot {[A^-]\over [HA]}$$
+
+$$-log[H_3O^+] = -logK_a  -log{[A^-]\over [HA]}$$
+
+$$p[H_3O^+] = pK_a  +p{[A^-]\over [HA]}$$
+
+Questa equazione viene spesso usata per calcolare il pH delle soluzioni tamponi e prende il nome di equazione di Henderson-Hasselbalch. Questa equazione è un semplice riordinamento dell'espressioen dell'ionizzazione acida. Per usare l'equazione di Henderson-Hasselbalch si deve assumere che la concnetrazione di acido e di base all'equilibrio sono sostanzialmente rimaste invariate rispetto alle concnetrazioni utilizzate per preparare il tampone. questo accade quando:
+
+1. Il pH di un tampone è compreso tra 3 e 11. Il pH di un tampone sarà vicino al $pK_a$ dell'acido debole. Nel caso in cui abbiamo un $K_a$ maggiore di $10^{-3}$, una parte dell'acido si ionizzerà e le concentrazioni non saranno più uguali. Stessa cosa per un $K_b$ supperiore a $10^{-3}$.
+
+2. Le concentrazioni dell'acido e della base coniugata sono molto grandi e quindi la ionizzazione non altererà di molto la concentrazione dell'acido.
+
+Il pH di una soluzione tampone viene principalmente stabilito dal valore di $pK_a$, ed il rapporto base coniugata e acido regolano il pH del tampone: se le concentrazioni sono uguali il valore del pH è uguale a $pK_a$, se la quantità di base coniugata è maggiore rispetto a quella dell'acido $pH > pK_a$, se la concnetrazione di acido è maggiore, accade il contrario.
 
 ## Titolazioni acido-base
 
