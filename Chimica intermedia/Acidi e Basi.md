@@ -231,6 +231,8 @@ Un tampone deve avere due requisiti:
 
 - Il tampone dovrebbe avere la capacità di mantenere il pH costante dopo l'aggiunta di notevoli quantità di acido o base. Il tampone perderà le sue capacità se viene aggiunto un eccesso di quantità di base o acido forte.
 
+Quando un acidoo una base vengono aggiunti ad una soluzione tampone, essi reagiscono con l'acqua producendo ioni idronio o idrossido, succesivamente questi ioni reagiscono col acido o base coniugato, producendo acido o base il quale reagisce con l'acqua ristabilendo il contenuto di ioni inziale ed il ph varia di poco.
+
 ### L'equazione di Henderson-Hasselbalch
 
 La costante di ionizzazione di una soluzione poco acida può essere scritta come:
@@ -239,7 +241,7 @@ $$K_a = {[H_3O^+][A^-]\over [HA]}$$
 
 $$[H_3O^+] = K_a \cdot {[A^-]\over [HA]}$$
 
-$$-log[H_3O^+] = -logK_a  -log{[A^-]\over [HA]}$$
+$$-\log[H_3O^+] = -\logK_a  -\log{[A^-]\over [HA]}$$
 
 $$p[H_3O^+] = pK_a  +p{[A^-]\over [HA]}$$
 
@@ -253,11 +255,43 @@ Il pH di una soluzione tampone viene principalmente stabilito dal valore di $pK_
 
 ## Titolazioni acido-base
 
-### Curva di titolazione
+Una titolazione è una tecnica gravimetrica che permette di determinare la concentrazione di una sostamza incognita per aggiunta graduale si una sostanza a cocentrazione nota. Nel caso degli acidi e delle basi si cerca di determinare la concentrazione di ioni idronio. Per ogni titolazione è possibile disegnare un grafico del pH in funzione del volume di **titolante** (sostanza a titolo noto) aggiunto. Ci sono quattro punti chiave nella curva di titolazione:
 
-Le reazioni acido base più semplici sono quelle tra acido e base forte perché tutti gli ioni vengono dissociati in soluzione. La **curva di titolazione** è il grafico tracciato che mette in relazione la variazione del pH con l'incremento di volume del titolante. Inizialmente nella curva di titolazione, il pH aumenta lentamente poi aumenta rapidamente e poi aumenta di nuovo lentamente. Il **punto di flesso** è il punto in cui le concentrazioni dell'acido e della base sono in equilibrio (punto d'equivalenza per la titolazione è punto di titolazione). Il punto di flesso si trova a metà del tratto verticale della curva. Il punto di flesso può essere calcolato anche stechiometricamente. 
+- pH iniziale (1)
 
-La titolazione di un acido forte e una base debole (oppure il contrario) è più complicata. Il punto di equivalenza è più grande e la curva inizia pH maggiori (o il contrario se si ha acido forte e base debole). 
+- pH prima del punto di equivalenza (2)
+
+- pH al punto di equivalenza (3)
+
+- pH dopo il punto di equivalenza (4)
+
+Il punto di equivalenza di una titolazione acido-base è il punto con pendenza maggiore della curca di titolazione.
+
+### Titolazione acido forte - base forte
+
+> La titolazione di un acido forte con una base forte ha come punto di equivalenza 7.00
+
+(1) è sempre molto basso o alto, mentre (2) e (4) sono estremamente lontano al punto di equivalenza in termini di pH (2 è molto basso per acidi e 4 è molto alto nel casi si titola un acido  con una base, per una titolazione di una base forte con un acido fotte accade il contrario), ma molto vicini in termini di volume. (3) è sempre 7.00. **In generale:** il pH di una titolazione acido forte - base forte parte da pH molto bassi, arriva a 7 e poi passa a pH molto alti.
+
+### Titolazione acido debole - base forte
+
+> La titolazione acido debole con base forte ha come punto di equivalenza un pH basico
+
+(1) è uguale al $K_a$ dipendente dalla concnetrazione. (2) il pH si trova nella zona tampone perché sia l'acido che la base coniugata sono presenti in soluzione, in particolare nel punto di semi-titolazione, la qauntità di acido e base coniugata sono uguali e quindi il pH è uguale al $pK_a$. (3) al punto di equivalenza la soluzione contiene solo la base coniugata e quindi il pH è basico. (4) il pH è molto alto e dipende dalla quantità di base forte aggiunta.
+
+### Titolazione base debole - acido forte
+
+> La titolazione acido forte con base debole ha come punto di equivalenza un pH acido
+
+(1) è uduale al $K_a$ dipendente dalla concnetrazione. (2) il pH si trova nella zona tampone perché sia la base che l'acido coniugato sono presenti in soluzione, in particolare nel punto di semi-titolazione, la qauntità di base e acido coniugato sono uguali e quindi il pH è uguale al $pK_a$. (3) al punto di equivalenza la soluzione contiene solo l'acido coniugato e quindi il pH è acido. (4) il pH è molto basso e dipende dalla quantità di acido forte aggiunto.
+
+### Titolazione di acidi deboli poliprotici
+
+La titolazione di un acido poliprotico avviene in due step:
+
+- il primo che prevede una titolazione del primo protone ha un pH acido
+
+- il secondo prevede la titolazione del secondo protone in cui il pH si alza notevolmente ed è basico
 
 ### Indicatori acido-base
 
