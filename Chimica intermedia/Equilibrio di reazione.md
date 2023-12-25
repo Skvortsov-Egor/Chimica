@@ -150,15 +150,21 @@ Quando due anioni formano un composto poco solubile con lo stesso catione (o il 
 
 ## Acidi e basi di Lewis
 
-Lewis suggerì una definizione più generica per sostanza che si comportano da acidi e basi: 
+Lewis suggerì una definizione più genreale per sostanza che si comportano da acidi e basi:
 
-> Sono sostanza in grado di donare e ricevere una coppia di elettroni per formare legami covalenti coordinato (dativo)
+> Sono sostanze in grado di donare e ricevere una coppia di elettroni per formare legami covalenti coordinati (dativo)
 
-Un **legame dativo** si verifica quando un atomo fornisce entrambi gli atomi di legame. Un **acido di Lewis** è una particella che può accettare una coppia di elettroni. Una **base di Lewis** è una particella in grado di donare una coppia di elettroni. Una reazione acido-base di Lewis avviene quando la base dona una coppia di elettroni all'acido. Il prodotto che si ottiene è un composto che ha un legame dativo tra l'acido e la base. Molte reazioni acido-base di Lewis sono reazioni a scambio semplice in cui acido/ base di Lewis sposta un altro acido/base di Lewis. 
+Un **legame dativo** si verifica quando un atomo fornisce entrambi gli atomi di legame. Un **acido di Lewis** è una particella che può accettare una coppia di elettroni. Una **base di Lewis** è una particella in grado di donare una coppia di elettroni. Una reazione acido-base di Lewis avviene quando la base dona una coppia di elettroni all'acido. Il prodotto che si ottiene è un composto che ha un legame dativo tra l'acido e la base. Il prodotto che si ottiene è detto **Adotto acido-base**. Molte reazioni acido-base di Lewis sono reazioni a scambio semplice in cui acido/base di Lewis sposta un altro acido/base di Lewis.
 
-Le definizioni di acido e base di Brønsted-Lowry e di Lewis si sovrappongono in modo considerevole e quindi un acido di Lewis spesso rientra anche nella definizione di acido di Brønsted-Lowry.  Molti composti poco solubili si dissolvono quando la concentrazione dello ione metallico diminuisce grazie alla formazione di uno ione complesso (ione poliatomico). Uno ione complesso consiste in un catione di transizione come atomo centrale, ed esso viene circondato da ioni o molecole dette ligandi. Spesso i ligandi si comportano da base di Lewis e donano una coppia di elettroni all'atomo centrale. I ligandi si aggregano attorno all'atomo centrale, creando un nuovo ione con una carica pari alla somma delle cariche. Lo ione complesso creato da queste reazione non può essere predetto ed è tenuto insieme da legami dativi. Questi ioni complessi sono anche detti complessi di coordinazione. 
+Le definizioni di acido e base di Brønsted-Lowry e di Lewis si sovrappongono in modo considerevole e quindi un acido di Lewis spesso rientra anche nella definizione di acido di Brønsted-Lowry.
 
-La costante d'equilibrio di ioni complessi è detta **costante di formazione (Kf)**. L'inverso della costante di formazione è la **costante di dissociazione (Kd)**, costante d'equilibrio per la decomposizione dello ione complesso. Maggiore è la costante di formazione, più stabile è lo ione complesso e più ioni complessi si formano. 
+I cationi metallici interagiscono con l'acqua per creare cationi idratati e in questo caso tra l'acqua ed il catione si forma un legame covalente di coordinazione. Quando i metalli coinvolti nel legame sono metalli di transizione, le soluzioni comporte di questi cationi sono spesso molto colorate. Questi cationi prendono il nome di **ioni complessi** oppure **complessi di coordinazione** a causa del legame di coordinazione.
+
+La costante d'equilibrio di ioni complessi è detta **costante di formazione ($K_f$)**. L'inverso della costante di formazione è la **costante di dissociazione ($K_d$)**, costante d'equilibrio per la decomposizione dello ione complesso. Maggiore è la costante di formazione, più stabile è lo ione complesso e più ioni complessi si formano.
+
+### Acidi e basi di Lewis molecolari
+
+Atomi più elettronegativi attragono a sè elettroni e quindi il legame viene polarizzato e in questo modo si permette ai composti molecolari di comportarsi da acido o da base in base alle situazioni.
 
 ## Equilibri multipli
 
