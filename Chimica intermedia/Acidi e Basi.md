@@ -301,7 +301,7 @@ $$HIn(aq) + H_2O(l) ⇌ H_3O^+(aq) + In^−(aq)$$
 
 Quando si aggiunge una sostanza acida, l'equilibrio secondo il principio di Le Châtelier’s si sposta verso $HIn$, se si aggiunge una sostanza basica, succede il contrario (simile a cosa succede per i tamponi). Il colore dell'indicatore dipende dal rapporto tra $In^-$ e $HIn$, se l'indicatore è presente al 60-90% in una forma, il colore della soluzione sarà uguale al colore di quella forma di indicatore.
 
-${[In^-]\over [HIn]} = {K_a\over [H_3O^+]}$
+$${[In^-]\over [HIn]} = {K_a\over [H_3O^+]}$$
 
 Il rapporto delle forme di indicatore varia con la concentrazione di $H_3O^+$.
 
@@ -309,13 +309,13 @@ $${[H_3O^+]\over K_a} = {[HIn]\over [In^-]}$$
 
 $$-\log({[H_3O^+]\over K_a}) = -\log({[In^-]\over [HIn]})$$
 
-$$\log([H_3O^+]) -\log(K_a) = -\log({[In^-]\over [HIn]})$$
+$$\log[H_3O^+] -\log(K_a) = -\log{[In^-]\over [HIn]}$$
 
-$$-pH([H_3O^+]) + pH(K_a) = -\log({[In^-]\over [HIn]})$$
+$$-pH + pH(K_a) = -\log{[In^-]\over [HIn]}$$
 
-$$pH = pK_a + \log({[In^-]\over [HIn]})$$
+$$pH = pK_a + \log{[In^-]\over [HIn]}$$
 
-$$pH = pK_a + log({[base]\over [acido]})$$
+$$pH = pK_a + \log{[base]\over [acido]}$$
 
 L'intervallo in cui cambia colore l'indicatore è l'intervallo in cui con quell'indicatore si può determinare il pH. L'indicatore universale è in grado di determinare il pH da 1 a 14 perché la cartina tornasole contiene un miscuglio di indicatori. 
 
@@ -332,3 +332,24 @@ $$K_{ps} = [A^{+y}]^x[B^{-x}]^y$$
 A partire dalla concnetrazione, è possibile calcolare sia la solubilità che il prodotto di solubilità di un sale. Questi due concetti non vanno confusi, perché è la quantità in moli che un sale può disciolersi per unità di volume, mentre il prodotto di solubilità è una costante di equilibrio. Le costanti di solubilità possono essere un parametro per confrontare la solubilità solo se il rapporto anione-catione è lo stesso.
 
 Si possono determinare stechiometricamente le concentrazioni dei ioni del sale per poi andare a calcolare il prodotto di solubilità. Se si ha il prodotto di solubilità e si deve calcolare la solubilità, attraverso la tabella ICE si ricava le ooncnetrazioni degli ioni e attraverso la massa molare si ricava la solubilità.
+
+### Solubilità ed effetto ione comune
+
+Se si scioglie un solido poco sollubile e poi si aggiunge un'altro solido solubile che nella forma dissociata ha in comune uno ione con gli ioni dissociati già presenti in soluzione, la quantità di precipitato aumenterà per il principio di Le Châtelier. Per riuscire a calcolare la quantità disciolta nella soluzione possiamo usare il metodo ICE. Questo calcolo è in grado di ricavare un'approssimazione abbastanza precisa nel caso il sale solubile sia aggiunto in quantità molto grandi rispetto al sale insolubile, questo è a causa che i calcoli fatti sono una semplificazione.
+
+### Anioni basici e solubilità
+
+Un sale che ha come anione la base coniugata di un acido debole, una volta dissociata si scioglierà in quantità molto maggiori in acqua facendo avvenire una reazione acido-base.
+
+> Ogni sale che contiene un anione che è la base coniugata di un acido debole, in acqua si scioglie in quantità maggiori rispetto al suo $K_{ps}$. Questi anioni sono anche molto solubili in acidi forti.
+
+## Reazioni di precipitazione
+
+Una reazione di precipitazione prevede la formazione di un precipito, e questo può essere previsto a partire dal quoziente di reazione che viene confrontato con il prodotto di solubilità:
+
+> Se $Q=K_{ps}$ la soluzione è satura
+
+> Se $Q < K_{ps}$ la soluzione non è satura ed in questo caso il sale può essere presente in soluzione e ora se ne scioglierà di più oppure il sale non è presente in soluzione e gli ioni dissociati possono essere aggiunti alla soluzione
+
+> Se $Q>K_{ps}$ la soluzione è soprasatura
+
