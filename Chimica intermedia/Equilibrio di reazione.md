@@ -158,9 +158,9 @@ Un **legame dativo** si verifica quando un atomo fornisce entrambi gli atomi di 
 
 Le definizioni di acido e base di Brønsted-Lowry e di Lewis si sovrappongono in modo considerevole e quindi un acido di Lewis spesso rientra anche nella definizione di acido di Brønsted-Lowry.
 
-I cationi metallici interagiscono con l'acqua per creare cationi idratati e in questo caso tra l'acqua ed il catione si forma un legame covalente di coordinazione. Quando i metalli coinvolti nel legame sono metalli di transizione, le soluzioni comporte di questi cationi sono spesso molto colorate. Questi cationi prendono il nome di **ioni complessi** oppure **complessi di coordinazione** a causa del legame di coordinazione.
+I cationi metallici interagiscono con l'acqua per creare cationi idratati e in questo caso tra l'acqua ed il catione si forma un legame covalente di coordinazione. Quando i metalli coinvolti nel legame sono metalli di transizione, le soluzioni comporte di questi cationi sono spesso molto colorate. Questi cationi prendono il nome di **ioni complessi** oppure **complessi di coordinazione** a causa del legame di coordinazione. I **liganti** sono le molecole o ioni che si legano allo ione metallico.
 
-La costante d'equilibrio di ioni complessi è detta **costante di formazione ($K_f$)**. L'inverso della costante di formazione è la **costante di dissociazione ($K_d$)**, costante d'equilibrio per la decomposizione dello ione complesso. Maggiore è la costante di formazione, più stabile è lo ione complesso e più ioni complessi si formano.
+In ambiente acquoso i liganti sono le molecoel d'acqua, ma non è sempre l'acqua il ligante, un esempio di legante alternativo è l'ammoniaca. Gli ioni metallici e i leganti sono in equilibrio con gli ioni complessi, questa costante di equilibrio prende il nome di **costante di fromazione ($K_f$)**. La costante per la reazione inversa è detta invece **costante di dissociazzione ($K_d$)**.
 
 ### Acidi e basi di Lewis molecolari
 
@@ -168,4 +168,4 @@ Atomi più elettronegativi attragono a sè elettroni e quindi il legame viene po
 
 ## Equilibri multipli
 
-In certe situazioni un'equilibrio non basta a descrivere tutta la situazione, ma più equilibri che avvengono allo stesso momento. Sistemi di questo tipo hanno **equilibri multipli**. I soluti poco solubili che derivano da basi deboli si dissolvono in acidi forti a meno che il loro prodotto di solubilità non sia troppo piccolo. 
+In certe situazioni un'equilibrio non basta a descrivere tutta la situazione, ma più equilibri che avvengono allo stesso momento. Sistemi di questo tipo hanno **equilibri multipli**. I soluti poco solubili possono sciogliersi poco in acqua, ma poi possono andare a creare uno ione complesso, per mettendo così lo scioglimento di altro sale insolubile.
