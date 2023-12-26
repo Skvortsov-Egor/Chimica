@@ -353,3 +353,4 @@ Una reazione di precipitazione prevede la formazione di un precipito, e questo p
 
 > Se $Q>K_{ps}$ la soluzione è soprasatura
 
+In base a questo ragionamento è possibile valutare la quantità di ioni necessari per la precipitazione. In base a delle concentrazioni ioniche, si può prevedere se avviene o meno la precipitazione.
