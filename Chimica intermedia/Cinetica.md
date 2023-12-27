@@ -84,18 +84,21 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
 
 ### L'emivita di una reazione
 
-**L'emivita di una reazione ($t_{1\over2}$)** è il tempo necessario per consumare metà di un reagente. Nella successiva emivita della reazione, la restante concentrazione del reagente viene consumato. 
+**L'emivita di una reazione ($t_{1\over2}$)** è il tempo necessario per consumare metà di un reagente. Nella successiva emivita della reazione, la restante concentrazione del reagente viene consumato. L'emivita è un parametro estremamente interessante perché quantifica se la reazione è veloce o lenta e quindi quanto velocemente si consuma un dato reagente.
 
 - **Reazioni di primo ordine:**
 
-  $$ln[A] = (−k)\cdot (t) + ln[A_0] \implies
-  t = In({[A_0]\over [A]})\cdot {1\over k}$$
+  $$ln[A] = (−k)\cdot (t) + ln[A_0]$$
+
+  $$t = In({[A_0]\over [A]})\cdot {1\over k}$$
 
   quindi se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$
-  $$\implies
-  t_{1\over2} = In({[A_0]\over {1\over 2}[A_0]})\cdot {1\over k} \implies
-  t_{1\over2} = In2\cdot {1\over k} \implies
-  t_{1\over2} = {0.693\over k}$$
+
+  $$t_{1\over2} = In({[A_0]\over {1\over 2}[A_0]})\cdot {1\over k}$$
+
+  $$t_{1\over2} = In2\cdot {1\over k}$$
+
+  $$t_{1\over2} = {0.693\over k}$$
 
   L'emivita di una reazione di primo ordine è inversamente proporzionale a k, maggiore è k, maggiore è la velocità di reazione.
 
@@ -104,10 +107,14 @@ Il grafico di una reazione di ordine zero è una retta con coefficiente angolare
   $${1\over [A]} − {1\over [A_0]} =kt$$
 
   Se $t_{1\over 2}$, allora [A] sarà uguale ${1\over 2}[A_0]$:
-  $${1\over {1\over 2}[A_0]} − {1\over [A_0]} =kt_{1\over2} \implies
-  2[A] − {1\over [A_0]} =kt(1/2) \implies
-  {1\over [A_0]} =kt_{1\over2} \implies
-  t_{1\over2} = {1\over [A_0]\cdot k}$$
+
+  $${1\over {1\over 2}[A_0]} − {1\over [A_0]} =kt_{1\over2}$$
+
+  $$2[A] − {1\over [A_0]} =kt(1/2)$$
+
+  $${1\over [A_0]} =kt_{1\over2}$$
+
+  $$t_{1\over2} = {1\over [A_0]\cdot k}$$
 
   L'emivita di una reazione di secondo ordine è inversamente proporzionale a alla concentrazione del reagente, l'emivita
 aumenta con il procedere della reazione perché la concentrazione del reagente diminuisce. Non si può calcolare k da questa equazione, a meno che non si sappia $[A_0]$.
@@ -118,9 +125,11 @@ $$[A] = −kt + [A]0$$
 
 Se $t_{1\over2}$, allora [A] sarà uguale ${1\over 2}[A_0]$:
 
-$${1\over 2}[A_0] = −kt(1/2) + [A]0 \implies
-kt_{1\over2} = {[A_0]\over 2} \implies
-t_{1\over2} = {[A_0]\over 2k}$$
+$${1\over 2}[A_0] = −kt(1/2) + [A]0$$
+
+$$kt_{1\over2} = {[A_0]\over 2}$$
+
+$$t_{1\over2} = {[A_0]\over 2k}$$
 
 L'emivita aumenta, se aumenta la concentrazione iniziale. 
 
