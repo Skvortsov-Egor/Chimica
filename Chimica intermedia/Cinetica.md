@@ -143,34 +143,37 @@ La teoria degli urti si basa su 3 postulati:
 2. I reagenti urtano con una orientazione tale da permette il contatto tra gli atomi che si legheranno insieme nel prodotto.
 3. L'urto deve avvenire con un'energia tale da permettere la sovrapposizione degli elettroni di valenza, così che loro possano disporsi in modo da formare un legame.
 
-I punti 2 e 3 sono entrambi necessari per la formazione di un prodotto, perché se non è soddisfatta anche solo una delle condizioni, non ci sarà la formazione del prodotto. Anche se gli atomi sono orientati nel verso giusto, potrebbero non dare origine al prodotto. Le disposizioni che esistono momentaneamente tra reagenti e prodotti, che sono molto instabili e vengono chiamate **complessi attivato** o **stati di transizione**. Nella maggior parte dei casi è impossibile identificare ed isolare gli stati di transizione.
+I punti 2 e 3 sono entrambi necessari per la formazione di un prodotto, perché se non è soddisfatta anche solo una delle condizioni, non ci sarà la formazione del prodotto. Anche se gli atomi sono orientati nel verso giusto, potrebbero non dare origine al prodotto. Le disposizioni che esistono momentaneamente tra reagenti e prodotti, che sono molto instabili e vengono chiamate **complessi attivato** o **stati di transizione**. Nella maggior parte dei casi è impossibile identificare ed isolare gli stati di transizione e si trovano nel punto in cui l'energia potenziale è massima.
 
-La teoria delle collisioni spiega perché la velocità di reazione aumenta con la concentrazione: con una concentrazione più alta, aumenta il numero di molecole per unità di volume e quindi c'è una maggiore possibilità che le molecole urtino, che aumenta la velocità di reazione. 
+La teoria delle collisioni spiega perché la velocità di reazione aumenta con la concentrazione: con una concentrazione più alta, aumenta il numero di molecole per unità di volume e quindi c'è una maggiore possibilità che le molecole urtino, che aumenta la velocità di reazione. In caso di solidi e liquidi (equilibrio eterogeneo) conta anche il contatto superficiale perché la parte di superficie in contatto con un altro reagente influenza la velocità di reazione come la concentrazione, maggiore è la superficie a contatto, maggiore è la velocità di reazione. La grandezza delle molecole in quest'ultimo caso influenza anch'essa la velocità di reazione, perché per una superficie stabilità, più piccole sono e molecole, maggiori in termine di numero saranno a contatto con il reagente.
 
 ### Energia di attivazione
 
 **L'energia di attivazione (Ea)** è l'energia minima necessaria per produrre un prodotto in un urto tra reagenti. L'energia cinetica delle molecole dei reagenti ha un'importanza fondamentale perché l'energia necessaria a formare un prodotto, è data dall'urto di una molecola di reagente con un'altra (Nel caso di un solo reagente l'energia di attivazione è data dalla collisione con il contenitore o grazie ad un agente inerte). 
 
-Se l'energia di attivazione è molto più grande dell'energia cinetica media delle molecole, la reazione sarà lenta: solo poche molecole veloci avranno l'energia necessaria per reagire. Se invece l'energia di attivazione è molto più piccola dell'energia cinetica media delle molecole, la reazione sarà veloce, questo perché ci sarà una grande parte delle molecole che possiede l'energia necessaria per reagire. 
+Se l'energia di attivazione è molto più grande dell'energia cinetica media delle molecole, la reazione sarà lenta: solo poche molecole veloci avranno l'energia necessaria per reagire. Se invece l'energia di attivazione è molto più piccola dell'energia cinetica media delle molecole, la reazione sarà veloce, questo perché ci sarà una grande parte delle molecole che possiede l'energia necessaria per reagire. L'insieme delle molecole avranno un'energia cinetica media e quindi una velocità media, ma le molecole non hanno la stessa velocità, alcune molecole avranno un'energia cinetica superiore alla media e alcune inferiori alla media. Se si aumenta la temperatura, aumenta anche l'energia cinetica media e quindi più molecoel avranno l'energia necessaria a reagire e quindi la reazione aumenta di velocita.
 
-$$A + B -> C + D$$
+$$A + B \rightarrow C + D$$
 
 Per raggiungere lo stato di transizione (per far avvenire la reazione), l'energia necessaria è uguale a quella di attivazione, quindi la somma dell'energia cinetica di A e B deve essere maggiore o uguale all'energia di attivazione, dopodiché i reagenti cominciano a formare i prodotti C e D e il sistema inizia a perdere energia che viene trasferita alle altre molecole per raggiungere lo stato di transizione. La somma tra il ∆H di reazione e l'energia di attivazione è uguale all'energia di attivazione della reazione inversa. 
 
 **L'equazione di Arrhenius** permette di ricavare l'energia di attivazione e la costante di velocità k:
 
-$$k = Ae^{-Ea\over RT}$$
+$$k = Ae^{-E_a\over RT}$$
+
+$$ln k = -{E_a\over R}\cdot ({1\over T}) + ln A$$
 
 A è una costante detta **fattore di frequenza** che dipende dalla frequenza degli urti e dall'orientazione dei reagenti. E è una costante uguale a 2.7183. 
 
 L'equazione spiega i postulati della teoria degli urti: A spiega la velocità con cui si verificano le collisioni con l'orientamento corretto, invece e spiega la frequenza degli urti che forniscono l'energia di attivazione per la reazione. 
 
-La reazione è istantanea quando in un verso il sistema non ha abbastanza energia per gli urti per superare l'energia di attivazione, ma dall'atro verso il sistema ha talmente tanta energia che ogni urto con la giusta orientazione supera l'energia di attivazione. L'equazione di Arrhenius descrive la maggior parte dei comportamenti delle velocità di reazioni. Maggiore è Ea, minore sarà $e^{-Ea\over RT}$, perché ci sono meno molecole con energia sufficiente a reagire, quindi ci sarà una minore velocità di reazione e una costante k. L'aumento di temperatura ha lo stesso effetto di una Ea minore. Se si aumenta la frequenza degli urti con una orientazione favorevole, aumenta anche k e A. Due sistemi alla stessa temperatura, quello con Ea maggiore avrà anche una velocità dii reazione minore e una minore k. 
+La reazione è istantanea quando in un verso il sistema non ha abbastanza energia per gli urti per superare l'energia di attivazione, ma dall'atro verso il sistema ha talmente tanta energia che ogni urto con la giusta orientazione supera l'energia di attivazione. L'equazione di Arrhenius descrive la maggior parte dei comportamenti delle velocità di reazioni. Maggiore è $E_a$, minore sarà $e^{-Ea\over RT}$, perché ci sono meno molecole con energia sufficiente a reagire, quindi ci sarà una minore velocità di reazione e una costante k. L'aumento di temperatura ha lo stesso effetto di una $E_a$ minore. Se si aumenta la frequenza degli urti con una orientazione favorevole, aumenta anche k e A. Due sistemi alla stessa temperatura, quello con Ea maggiore avrà anche una velocità dii reazione minore e una minore k.
 
 Esiste una forma alternativa per determinare Ea in cui si misura k a diverse temperature:
 
-$$ln{k_1\over k_2} = {−Ea\over R}\cdot ({1\over T_1}-{1\over T_2}) + ln A \implies
-y = mx + q$$
+$$ln{k_1\over k_2} = {−E_a\over R}\cdot ({1\over T_1}-{1\over T_2}) + ln A$$
+
+$$y = mx + q$$
 
 Il grafico di questa equazione è una retta dove m è uguale a ${−Ea\over R}$ e q è uguale a $ln(A)$.
 
