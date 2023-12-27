@@ -4,23 +4,23 @@
 
 ## Velocità di reazione
 
-La velocità è la misura di come una proprietà varia nel tempo. La velocità di una reazione è quanto reagente è stato consumato o quanto prodotto è stato prodotto in un ∆t. 
+La velocità è la misura di come una proprietà varia nel tempo. La velocità di una reazione è la misura di quanto reagente è stato consumato o quanto prodotto è stato prodotto in un'unità di tempo.
 
 > La velocità di reazione è la variazione di reagente o prodotto in un'unità di tempo
 
 La velocità di reazione è determinata da una proprietà (come conduttività, assorbimento luminoso, moli...) collegata ai reagenti o ai prodotti in un ∆t. Per i reagenti e i prodotti in soluzione, è possibile esprime la velocità di reazione tramite l'uso delle concentrazioni. La velocità di reazione è espressa come il rapporto tra la variazione di concentrazione dei prodotti in un intervallo di tempo:
 
-$$velocità \ di \ reazione = -{∆[M]\over ∆t}$$
+$$velocità_{rxn} = -{∆[M]\over ∆t}$$
 
 
 $$xA + yB \rightarrow zC + wD$$
 
-$$velocità \ di \ reazione = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$$
+$$velocità_{rxn} = -{1\over x}{∆[A]\over ∆t} = -{1\over y}{∆[B]\over ∆t} = -{1\over z}{∆[C]\over ∆t} = -{1\over w}{∆[D]\over ∆t}$$
 
 Il "-" davanti è una convenzione se il ∆[M] è negativo (ovvero per i reagenti, invece è positivo per i prodotti), perché per convenzione le concentrazioni sono positive. La **velocità media** è la velocità di reazione che si ottiene considerando un intervallo di tempo uguale a tutta la durata della reazione. **La velocità istantanea** invece è la velocità di reazione in un momento particolare della reazione, infine la **velocità al tempo zero** è la velocità di reazione all'inizio della reazione. Per individuare la velocità istantanea si possono usare due metodi diversi:
 - se la reazione lo permette: la concentrazione cambia in un piccolo ∆t, allora la velocità media è una buona approssimazione per la velocità istantanea
 
-- possiamo creare un grafico della reazione e per determinare la velocità istantanea possiamo tracciare la tangente al punto in t di cui voliamo trovare la velocità istantanea. La pendenza della tangente è uguale alla velocità istantanea.
+- possiamo tracciare un grafico della reazione e per determinare la velocità istantanea possiamo tracciare la tangente al punto in t di cui voliamo trovare la velocità istantanea. La pendenza della tangente è uguale alla velocità istantanea.
 
 ## Fattori che influenzano la velocità di reazione
 
@@ -42,22 +42,23 @@ Le **leggi di reazione** descrivono matematicamente il rapporto tra la velocità
 
 $$velocità = k[A]^m[B]^n...$$
 
-Dove A e B sono le concentrazioni dei reagenti e k è la costante di velocità che dipende dalla reazione e dalla temperatura. K e gli esponenti (normalmente positivi, negativi se la concentrazione aumenta) si determinano sperimentalmente osservando come varia la velocità di reazione al variare della concentrazione dei reagenti. K è indipendente dalla concentrazione dei reagenti, ma dipende dalla temperatura e dall'area superficiale. Gli esponenti in una legge di velocità descrivono gli effetti della concentrazione del reagente sulla velocità di reazione. Essi definiscono **l'ordine di reazione**. Se l'ordine di reazione è uguale a zero, la concentrazione del reagente non influisce sulla velocità di reazione. **L'ordine di reazione totale** è la somma degli ordini di reazioni.
+Dove A e B sono le concentrazioni dei reagenti e k è la costante di velocità che dipende dalla reazione e dalla temperatura. K e gli esponenti (normalmente positivi, negativi se la concentrazione aumenta) si determinano sperimentalmente osservando come varia la velocità di reazione al variare della concentrazione dei reagenti. K è indipendente dalla concentrazione dei reagenti, ma dipende dalla temperatura e dall'area superficiale (discusso nei paragrafi seguenti). Gli esponenti in una legge di velocità descrivono gli effetti della concentrazione del reagente sulla velocità di reazione. Essi definiscono **l'ordine di reazione**. Se l'ordine di reazione è uguale a zero, la concentrazione del reagente non influisce sulla velocità di reazione. **L'ordine di reazione totale** è la somma degli ordini di reazioni.
 
-Per determinare la legge di velocità bisogna scrivere un'equazione in cui il primo membro è il rapporto tra le velocità di reazione in due isatanti fissati, mentre al secondo membro si scrive un rapporto di un reagente, di cui si vuole trovare l'esponente, in due istanti diversi che sono gli stessi istanti scelti per le velocità di reazione. Questi rapporti si determinano a partire dai valori sperimentali. I due istanti che si scelgono devono essere tali che gli altri reagenti in quei due istanti mantengono costante la loro concentrazione. Questo si esegue per ogni reagente ed una volta trovati i singoli ordini di reazione si può scrivere la legge di velocità. Se c'è la possibilità ceh ci sia un catalizzatore, si esegue sempre la stessa procedura. Per determinare k si inseriscono i valori per un qualsiasi istante nella formula della velocità di reazione e si trova k isolandola.
+Per determinare gli esponenti bisogna ripetere lo stesso esperimento registrando le concentrazioni iniziali dei reagenti e la velocità di reazione. Dopodiché bidogna impostare un'equazione esponenziale in cui al primo membro si pone il rapporto tra due velocità di reazione in due esperimenti diversi, e al secondo membro si scrive l'equazione della velocità di reazione dipendente dalle concentrazioni dei reagenti e della costante di velocità. SI risolve per l'esponente. Si fa la stessa cosa per tutti i reagenti e i due esperimenti da scegliere sono singoli per ogni reagenti e devono avere due caratteristiche, la concentrazione di ogni reagente deve rimanere costante ad eccezione del reagenti di cui si vuole trovare l'esponente.
 
 Le unita di misura di k sono determinate dall'ordine di reazione: $mol^{[1−(m+n)]} L^{[(m+n)−1]} s^{−1}$.
 
 ## Leggi di velocità integrate
 
-Le **leggi di velocità integrate** mettono in relazione la concentrazione di un reagente ed il tempo. Questi leggi sono utili per determinare la quantità di reagente o prodotto che potremmo avere dopo un certo ∆t, oppure per predire quanto tempo servirà per raggiungere un determinato punto della reazione.
+Le **leggi di velocità integrate** (l'integrale delle leggi di velocità) mettono in relazione la concentrazione di un reagente ed il tempo. Questi leggi sono utili per determinare la quantità di reagente o prodotto che potremmo avere dopo un certo ∆t, oppure per predire quanto tempo servirà per raggiungere un determinato punto della reazione.
 
 - **Reazione di primo ordine:**
 
-$$In{([A_0]\over [A_t])} = kt\implies
-ln[A_t] = (−k)\cdot (t) + ln[A]_0
-\implies
-y = mx + q$$
+$$In{([A_0]\over [A_t])} = kt$$
+
+$$ln[A_t] = (−k)\cdot (t) + ln[A]_0$$
+
+$$y = mx + q$$
 
 $A_0$ è la concentrazione iniziale, mentre $A_t$ è la concentrazione del reagente al tempo t. Dall'ultima relazione si intuisce che il grafico per una reazione di primo ordine è una retta con pendenza uguale -k e termine noto $ln[A]0$. 
 
@@ -65,9 +66,9 @@ $A_0$ è la concentrazione iniziale, mentre $A_t$ è la concentrazione del reage
 
 Le equazioni di reazioni di secondo ordine sono molto complicate, il caso più semplice include la dipendenza della velocità di reazione sulla concentrazione di un solo reagente:
 
-$${1\over [A_t]} = kt + {1\over [A_0]}
-\implies
-y = mx + q$$
+$${1\over [A_t]} = kt + {1\over [A_0]}$$
+
+$$y = mx + q$$
 
 Il grafico di una reazione di secondo ordine è una retta con coefficiente angolare k e termine noto ${1\over [A_0]}$.
 
@@ -75,9 +76,9 @@ Il grafico di una reazione di secondo ordine è una retta con coefficiente angol
 
 Una reazione di ordine zero, ha sempre la stessa velocità di reazione, indipendentemente dalla concentrazione dei suoi reagenti (velocità = k). 
 
-$$[A_t] = −kt + [A_0]
-\implies
-y = mx + q$$
+$$[A_t] = −kt + [A_0]$$
+
+$$y = mx + q$$
 
 Il grafico di una reazione di ordine zero è una retta con coefficiente angolare -k e termine noto $[A_0]$.
 
